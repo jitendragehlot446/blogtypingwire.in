@@ -1,12 +1,28 @@
-# TypingWire Blog
+# TypingWire Editorial & Exam Rules Portal (blog.typingwire.in)
 
-> High-speed typing tests, steno guidelines, keyboard reviews, and productivity insights.
+> Official knowledge and examination rules subdomain of [TypingWire.in](https://typingwire.in) — India's premier typing test, preparation, and speed evaluation platform. We publish authoritative, verified guidelines for government typing tests (SSC, High Courts, Steno, Police, DSSSB), mistake calculation formulas, and hardware reviews.
 
-## Main Sections
-- [Homepage](https://blog.typingwire.in/): Latest typing guides, test rules, and keyboard optimizations.
-- [Typing Tips](https://blog.typingwire.in/categories/typing-tips): Guides on increasing WPM and accuracy.
-- [Court & Exam Rules](https://blog.typingwire.in/categories/exam-rules): Typing test evaluation formulas (SSC, High Court, Steno).
-- [Hardware & Keyboards](https://blog.typingwire.in/categories/hardware): Mechanical keyboards and switch reviews.
+## Core Examination Guides
+- [SSC CGL DEST Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-cgl-dest-typing-test-rules/): 2000 KDPH / 27 WPM English & 30 WPM Hindi speed criteria, category-wise error cutoffs (UR 5%, OBC/EWS 7%), and mistake evaluation rules.
+- [SSC CHSL Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-chsl-typing-test-rules/): LDC/JSA 35 WPM English & 30 WPM Hindi in 10 minutes, DEO 15000 KDPH Grade A test, 7% to 10% allowed error limits.
+- [Rajasthan High Court LDC Typing & Efficiency Test](https://blog.typingwire.in/blog/rajasthan-high-court-ldc-typing-efficiency-rules/): 100-mark pattern (25 Hindi + 25 English speed test + 50 marks MS Word/Excel efficiency formatting), KrutiDev 010 font rules.
+- [RSSB / RSMSSB LDC Typing Test Rules](https://blog.typingwire.in/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/): Phase-II 100-mark scheme, 36% qualifying cutoff, DevLys 010 font guidelines.
+- [Allahabad High Court RO/ARO & Clerk Typing Rules](https://blog.typingwire.in/blog/allahabad-high-court-ro-aro-clerk-typing-rules/): 25 WPM English on computer, 50-mark scoring formula, 500-word passage in 15 minutes.
+- [Patna High Court Assistant & Steno Typing Rules](https://blog.typingwire.in/blog/patna-high-court-assistant-stenographer-typing-rules/): 40 WPM English & 30 WPM Hindi, 90% accuracy requirement, CPT syllabus.
+- [Bombay High Court Clerk Typist Typing Rules](https://blog.typingwire.in/blog/bombay-high-court-clerk-typist-typing-rules/): English 40 WPM & Marathi 30 WPM on computer, 20-mark evaluation scheme.
+- [Gujarat High Court Computer Operator & Steno](https://blog.typingwire.in/blog/gujarat-high-court-computer-operator-typing-rules/): 5000 KDPH requirement, CPT syllabus, and stenography speed standards.
+- [UP Police ASI & Computer Operator Typing Rules](https://blog.typingwire.in/blog/up-police-asi-computer-operator-typing-rules/): 25 WPM Hindi Unicode Mangal (Inscript/Remington) & 30 WPM English, 85% accuracy cutoff.
+- [Delhi Police Head Constable (Ministerial)](https://blog.typingwire.in/blog/delhi-police-head-constable-typing-test-rules/): 25-mark speed slabs (up to 25/25 for 50+ WPM).
+- [Court & Steno Typing Rules: Full vs Half Mistakes](https://blog.typingwire.in/blog/court-steno-typing-rules/): 100% penalty vs 50% penalty breakdown, spacing, punctuation, and capitalization errors.
 
-## RSS Feed
-- [RSS](https://blog.typingwire.in/rss.xml): Real-time feed of all published articles.
+## Technical Tutorials & Speed Drills
+- [Hindi Typing Layouts Guide: Mangal vs Remington vs KrutiDev](https://blog.typingwire.in/blog/hindi-typing-exams-mangal-remington-inscript-guide/): Keymaps, alt codes, Unicode vs non-Unicode, and exam compatibility matrix.
+- [KDPH to WPM Speed Calculation Formula Guide](https://blog.typingwire.in/blog/kdph-to-wpm-speed-calculation-formula-guide/): Exact mathematical formulas for Gross Speed, Net Speed, and accuracy deduction.
+- [10 Proven Tips to Increase Typing Speed to 80+ WPM](https://blog.typingwire.in/blog/10-tips-to-increase-typing-speed/): Home-row anchor technique, n-gram combinations, and ergonomics.
+- [Mechanical Keyboard Switches Guide for Fast Typing](https://blog.typingwire.in/blog/mechanical-keyboard-switch-guide/): Cherry MX & Gateron Red vs Blue vs Brown switches comparison.
+
+## Interactive Tools & Feeds
+- [Main Practice Platform](https://typingwire.in): Free live typing tests, Hindi/English passages, and exam simulators.
+- [XML Sitemap](https://blog.typingwire.in/sitemap-index.xml): Full URL directory for web crawlers.
+- [RSS Feed](https://blog.typingwire.in/rss.xml): Real-time syndication feed.
+- [LLMs Full Context](https://blog.typingwire.in/llms-full.txt): Complete textual corpus for LLM indexing.

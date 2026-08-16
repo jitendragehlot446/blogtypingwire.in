@@ -1,0 +1,109 @@
+# TypingWire Blog — Full Knowledge Base & Examination Corpus (llms-full.txt)
+Website: https://blog.typingwire.in
+Main Practice Platform: https://typingwire.in
+Publisher: TypingWire Editorial Team
+
+---
+
+# 1. SSC CGL DEST (Data Entry Speed Test) Rules
+- Required Speed: 2000 Key Depressions in 15 Minutes (~27 WPM English / 30 WPM Hindi).
+- Standard Qualifying Error Cutoff: UR 20%, OBC/EWS 25%, SC/ST/PwD 30%.
+- Higher Cutoff Posts (Tax Assistant CBDT/CBIC, Executive Assistant): UR 5%, OBC/EWS 7%, SC/ST 7%, PwD 10%.
+- Full Mistakes (100% deduction): Omission of words, substitution of words, addition of extra words, spelling errors.
+- Half Mistakes (50% deduction): Spacing errors, punctuation errors, capitalization errors.
+- Calculation Formula: Total Mistakes = Full Mistakes + (Half Mistakes / 2). Error % = (Total Mistakes * 100) / Total Words in Passage.
+- Keyboard: Standard QWERTY for English; Mangal Inscript or Remington Gail for Hindi. Backspace is functional.
+
+---
+
+# 2. SSC CHSL Typing Test & DEO DEST Rules
+- LDC / JSA Speed: 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 Minutes.
+- DEO Speed: 8000 KDPH in 15 Minutes (~27 WPM).
+- DEO Grade 'A' Speed: 15000 KDPH in 15 Minutes (~50 WPM).
+- Allowed Error Limit: UR 7% (LDC) / 5% (DEO); Reserved Categories (OBC, EWS, SC, ST, PwD, ESM) 10% (LDC) / 7% (DEO).
+- Standard Word Definition: 1 Word = 5 Keystrokes (Key Depressions), including spaces and punctuation.
+- Net WPM Formula: Net WPM = (Total Keystrokes / 5 - Mistakes * Penalty) / Time in Minutes.
+
+---
+
+# 3. Rajasthan High Court LDC Typing & Efficiency Test
+- Total Score: 100 Marks (Added directly to merit).
+- Paper-I (Speed Test - 50 Marks): 5 Min Hindi (KrutiDev 010) 25 Marks + 5 Min English (Times New Roman) 25 Marks. Required speed for 25/25 marks is 50 WPM (8000 KDPH). Minimum qualifying is 20 marks (SC/ST/PwD) or 22.5 marks (Others).
+- Paper-II (Efficiency Test - 50 Marks): 10 Minutes in MS Word / Excel. Tests formatting: font size, bold/italic, header/footer, borders, alignment, line spacing, table styling. Qualifying marks: 20 (SC/ST) / 22.5 (Others).
+
+---
+
+# 4. RSSB / RSMSSB LDC Phase-II 100-Mark Scheme
+- Paper-I (Hindi): 10 Min Speed Test (DevLys 010, 25 Marks) + 10 Min Efficiency Test (25 Marks).
+- Paper-II (English): 10 Min Speed Test (25 Marks) + 10 Min Efficiency Test (25 Marks).
+- Total Marks: 100 Marks. Minimum qualifying marks: 36% (36 Marks combined).
+
+---
+
+# 5. Allahabad High Court RO/ARO & Clerk Typing Test
+- Requirements: 25 WPM English on computer, 500-word passage in 15 minutes.
+- Maximum Marks: 50 Marks. Minimum qualifying marks: 25 Marks (50%). Less than 25 marks leads to direct disqualification.
+- Deduction: Approximately 0.1 mark per mistake.
+
+---
+
+# 6. Patna High Court Assistant & Steno Typing Rules
+- English Typing: 40 WPM with minimum 90% accuracy in 10 minutes.
+- Hindi Typing: 30 WPM with minimum 85% accuracy in 10 minutes.
+- Computer Proficiency Test (CPT): Qualifying test on MS Word, MS Excel, and Internet operations.
+- Stenographer: 80 WPM dictation (5 mins) + 30 mins transcription.
+
+---
+
+# 7. Bombay High Court Clerk Typist Rules
+- English Typing: 40 WPM on computer (10 minutes, 20 marks).
+- Marathi Typing: 30 WPM on computer (10 minutes, 20 marks).
+- Minimum qualifying score: 10 marks out of 20. Accuracy target: 95%+.
+
+---
+
+# 8. UP Police ASI & Computer Operator Typing Rules
+- ASI (Clerk): 25 WPM Hindi (85% Accuracy) & 30 WPM English (85% Accuracy) in 15 minutes each.
+- Computer Operator Grade-A: 25 WPM Hindi & 30 WPM English in 15 minutes each (85% accuracy cutoff).
+- Hindi Font: Unicode Mangal Font using Inscript or Remington (Gail) layout.
+
+---
+
+# 9. Delhi Police Head Constable (Ministerial) Slabs
+- Maximum Marks: 25 Marks.
+- 50+ WPM English / 45+ WPM Hindi: 25 Marks.
+- 46-50 WPM English / 41-45 WPM Hindi: 21 Marks.
+- 41-45 WPM English / 36-40 WPM Hindi: 18 Marks.
+- 36-40 WPM English / 31-35 WPM Hindi: 15 Marks.
+- 30-35 WPM English / 25-30 WPM Hindi: 10 Marks (Minimum Qualifying).
+- Below 30 WPM English / Below 25 WPM Hindi: Disqualified (0 Marks).
+
+---
+
+# 10. Hindi Typing Keyboard Layouts Guide
+- Mangal Inscript: Standardized by Government of India. Vowels on left, consonants on right. Conjuncts typed with Halant (D key). Built into modern Windows OS.
+- Mangal Remington Gail: Typewriter layout mapped to Unicode Mangal font.
+- KrutiDev 010 / DevLys 010: Legacy non-Unicode ASCII mapping. Requires memorizing Alt codes (e.g. Alt+0161 for ऋ, Alt+0216 for क्र).
+
+---
+
+# 11. KDPH to WPM Speed Calculation Formulas
+- 1 Word = 5 Key Depressions.
+- 8,000 KDPH = 1,600 Words/Hour = 26.67 WPM (~27 WPM).
+- 9,000 KDPH = 1,800 Words/Hour = 30.00 WPM.
+- 10,500 KDPH = 2,100 Words/Hour = 35.00 WPM.
+- 12,000 KDPH = 2,400 Words/Hour = 40.00 WPM.
+- 15,000 KDPH = 3,000 Words/Hour = 50.00 WPM.
+- Gross Speed (WPM) = (Total Keystrokes / 5) / Time (Minutes).
+- Net Speed (WPM) = Gross Speed - (Mistakes * Penalty Factor / Time).
+- Accuracy (%) = (Correct Keystrokes / Total Keystrokes) * 100.
+
+---
+
+# 12. 10 Proven Typing Speed Principles
+1. Master the Home Row Anchor (ASDF - JKL;). Index fingers always anchored on F and J tactile bumps.
+2. Accuracy First: 98%+ accuracy creates faster muscle memory than rushed typos requiring backspace.
+3. N-gram drills (2 and 3 letter common sequences: 'the', 'ing', 'tion', 'ment').
+4. Burst training (15-second sprints to push maximum finger actuation frequency).
+5. Minimize wrist travel and avoid bouncing hands.
+6. Use mechanical switches with tactile feedback (Brown / Red switches).

@@ -37,8 +37,15 @@ const fullTitle = `${title} | TypingWire Blog`;
   rel="stylesheet"
 />
 
+<!-- Robots Directives for Top Google & AI Indexing -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
+
+<!-- LLMs Discovery Metadata for AI Search (ChatGPT, Claude, Perplexity) -->
+<link rel="llms" type="text/plain" href="https://blog.typingwire.in/llms.txt" />
+<link rel="llms-full" type="text/plain" href="https://blog.typingwire.in/llms-full.txt" />
 
 <!-- Primary Meta Tags -->
 <title>{fullTitle}</title>
@@ -47,6 +54,7 @@ const fullTitle = `${title} | TypingWire Blog`;
 <meta name="author" content={author} />
 
 <!-- Open Graph / Facebook -->
+<meta property="og:locale" content="en_IN" />
 <meta property="og:type" content={articleDate ? "article" : "website"} />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={fullTitle} />
