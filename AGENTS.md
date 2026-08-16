@@ -77,7 +77,19 @@ d:\typingwire blogs\
 │   └── llms.txt             # AI contextual index document
 ├── src/
 │   ├── content/
-│   │   └── blog/            # Markdown articles (*.md)
+│   │   └── blog/            # 15 In-Depth Official Exam Guides (*.md)
+│   │       ├── ssc-cgl-dest-typing-test-rules.md
+│   │       ├── ssc-chsl-typing-test-rules.md
+│   │       ├── rajasthan-high-court-ldc-typing-efficiency-rules.md
+│   │       ├── rssb-rsmssb-ldc-typing-efficiency-test-rules.md
+│   │       ├── allahabad-high-court-ro-aro-clerk-typing-rules.md
+│   │       ├── patna-high-court-assistant-stenographer-typing-rules.md
+│   │       ├── bombay-high-court-clerk-typist-typing-rules.md
+│   │       ├── gujarat-high-court-computer-operator-typing-rules.md
+│   │       ├── up-police-asi-computer-operator-typing-rules.md
+│   │       ├── delhi-police-head-constable-typing-test-rules.md
+│   │       ├── hindi-typing-exams-mangal-remington-inscript-guide.md
+│   │       ├── kdph-to-wpm-speed-calculation-formula-guide.md
 │   │       ├── 10-tips-to-increase-typing-speed.md
 │   │       ├── court-steno-typing-rules.md
 │   │       └── mechanical-keyboard-switch-guide.md
