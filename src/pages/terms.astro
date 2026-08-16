@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Terms of Service - TypingWire"
+  description="Read the Terms and Conditions for using TypingWire and the TypingWire Blog."
+>
+  <div class="prose-container terms-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">/</span>
+      <span class="current">Terms of Service</span>
+    </nav>
+
+    <div class="header-tags">
+      <span class="post-card-badge">LEGAL</span>
+    </div>
+
+    <h1 class="display-lg">Terms of Service</h1>
+    <p class="last-updated">Last Updated: August 16, 2026</p>
+
+    <hr class="section-divider" />
+
+    <div class="article-content">
+      <p>
+        Welcome to <strong>TypingWire</strong>. By accessing this blog portal (<code>blog.typingwire.in</code>) or our main typing platform (<code>typingwire.in</code>), you agree to comply with and be bound by the following terms and conditions.
+      </p>
+
+      <h2>1. Intellectual Property Rights</h2>
+      <p>
+        Unless otherwise stated, TypingWire and/or its licensors own the intellectual property rights for all editorial material, speed exercises, formulas, and guides published on this website. You may view and print pages for your personal, non-commercial practice use.
+      </p>
+
+      <h2>2. Permitted Use</h2>
+      <p>
+        You must not:
+      </p>
+      <ul>
+        <li>Republish material from TypingWire without explicit written attribution</li>
+        <li>Sell, rent, or sub-license material from the website</li>
+        <li>Reproduce, duplicate, or copy software algorithms or proprietary practice text for commercial resale</li>
+      </ul>
+
+      <h2>3. Disclaimer of Warranties</h2>
+      <p>
+        The articles, guidelines, and calculator formulas provided on this blog are for educational and preparation purposes. While we strive to ensure total accuracy with government exam standards, candidates must always verify requirements against official recruitment notifications.
+      </p>
+
+      <h2>4. Modifications</h2>
+      <p>
+        We reserve the right to revise these terms of service at any time without notice. By using this website, you are agreeing to be bound by the then current version of these Terms and Conditions.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .terms-page {
+    padding: 3.5rem 1.5rem 5rem;
+  }
+
+  .breadcrumb {
+    display: flex;
+    gap: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--colors-muted-text);
+    margin-bottom: 1.5rem;
+  }
+
+  .breadcrumb a {
+    color: var(--colors-primary);
+  }
+
+  .last-updated {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--colors-muted-text);
+    margin-top: 0.5rem;
+  }
+
+  .section-divider {
+    border: 0;
+    height: 1px;
+    background-color: var(--colors-hairline);
+    margin: 2rem 0 2.5rem;
+  }
+</style>

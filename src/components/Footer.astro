@@ -3,90 +3,244 @@ const currentYear = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
-  <div class="container footer-inner">
-    <div class="footer-brand">
-      <div class="brand-title">Typing<span class="text-accent">Wire</span> Blog</div>
-      <p class="brand-desc">
-        The ultimate resource for high-speed typing techniques, government exam rules (SSC, High Court, Steno), and mechanical keyboard guides.
-      </p>
-      <div class="footer-links">
-        <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Main App</a>
-        <span class="sep">•</span>
-        <a href="/rss.xml">RSS Feed</a>
-        <span class="sep">•</span>
-        <a href="/sitemap.xml">XML Sitemap</a>
-        <span class="sep">•</span>
-        <a href="/llms.txt">llms.txt</a>
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Col 1: Brand -->
+      <div class="footer-col brand-col">
+        <div class="brand-header">
+          <img src="/logo.jpg" alt="TypingWire Logo" class="footer-logo" width="32" height="32" />
+          <span class="brand-name">TypingWire</span>
+          <span class="post-card-badge badge-mint">EDITORIAL</span>
+        </div>
+        <p class="brand-text">
+          Official editorial and knowledge portal of <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="link-app">TypingWire.in</a> — Empowering typists with scientific speed drills, government exam rules, and keyboard mechanics.
+        </p>
+        <div class="app-cta-box">
+          <span class="cta-mini-label">OFFICIAL PLATFORM</span>
+          <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="cta-link">
+            <span>Open TypingWire.in App</span>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- Col 2: Categories -->
+      <div class="footer-col">
+        <h4 class="col-title">Editorial Sections</h4>
+        <ul class="footer-links">
+          <li><a href="/">Overview</a></li>
+          <li><a href="/categories/typing-tips">Speed Drills & WPM</a></li>
+          <li><a href="/categories/exam-rules">Court & SSC Exam Rules</a></li>
+          <li><a href="/categories/hardware">Mechanical Keyboards</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 3: TypingWire Tools -->
+      <div class="footer-col">
+        <h4 class="col-title">TypingWire Ecosystem</h4>
+        <ul class="footer-links">
+          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Free Typing Test</a></li>
+          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Hindi Typing Practice</a></li>
+          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">English Speed Tests</a></li>
+          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Exam Passage Simulator</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 4: Legal & Feeds -->
+      <div class="footer-col">
+        <h4 class="col-title">Company & Legal</h4>
+        <ul class="footer-links">
+          <li><a href="/about">About Us</a></li>
+          <li><a href="/contact">Contact Support</a></li>
+          <li><a href="/privacy-policy">Privacy Policy</a></li>
+          <li><a href="/terms">Terms of Service</a></li>
+          <li><a href="/disclaimer">Exam Disclaimer</a></li>
+          <li><a href="/sitemap.xml">XML Sitemap</a></li>
+          <li><a href="/rss.xml">RSS Feed</a></li>
+          <li><a href="/llms.txt">llms.txt (AI Index)</a></li>
+        </ul>
       </div>
     </div>
 
+    <!-- Bottom Bar -->
     <div class="footer-bottom">
-      <p>&copy; {currentYear} TypingWire. All rights reserved. Built with Astro v5 for 100/100 Google PageSpeed.</p>
+      <p class="copyright-text">
+        &copy; {currentYear} <strong>TypingWire</strong> (typingwire.in). All rights reserved. Subdomain operated by TypingWire Editorial.
+      </p>
+      <div class="footer-meta-tags">
+        <span class="meta-tag">Astro v5 Static</span>
+        <span class="meta-dot">•</span>
+        <span class="meta-tag">100/100 PageSpeed</span>
+        <span class="meta-dot">•</span>
+        <span class="meta-tag">Edge Delivered</span>
+      </div>
     </div>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    border-top: 1px solid var(--border-color);
-    background: #f8fafc;
-    margin-top: 5rem;
-    padding: 3.5rem 0 2rem;
+    border-top: 1px solid var(--colors-hairline);
+    background-color: var(--colors-surface-soft);
+    margin-top: 6rem;
+    padding: 5rem 0 2.5rem;
   }
 
-  .footer-inner {
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 3.5rem;
+    margin-bottom: 4rem;
+  }
+
+  .brand-col {
+    max-width: 380px;
+  }
+
+  .brand-header {
     display: flex;
-    flex-direction: column;
-    gap: 2.5rem;
+    align-items: center;
+    gap: 0.65rem;
+    margin-bottom: 1rem;
   }
 
-  .footer-brand {
-    max-width: 600px;
+  .footer-logo {
+    border-radius: var(--rounded-sm);
+    border: 1px solid var(--colors-hairline);
+    object-fit: cover;
   }
 
-  .brand-title {
-    font-size: 1.35rem;
-    font-weight: 800;
-    color: #0f172a;
-    margin-bottom: 0.5rem;
+  .brand-name {
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--colors-primary);
+    letter-spacing: -0.3px;
   }
 
-  .text-accent {
-    color: var(--brand-primary);
-  }
-
-  .brand-desc {
-    color: var(--text-muted);
-    font-size: 0.95rem;
+  .brand-text {
+    font-size: 14px;
+    color: var(--colors-muted-text);
     line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .link-app {
+    font-weight: 600;
+    color: var(--colors-primary);
+    text-decoration: underline;
+  }
+
+  .app-cta-box {
+    padding: 1rem 1.25rem;
+    background-color: var(--colors-canvas);
+    border: 1px solid var(--colors-hairline);
+    border-radius: var(--rounded-md);
+  }
+
+  .cta-mini-label {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--colors-muted-text);
+    letter-spacing: 0.06em;
+    margin-bottom: 0.35rem;
+  }
+
+  .cta-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--colors-primary);
+  }
+
+  .cta-link:hover {
+    text-decoration: underline;
+  }
+
+  .col-title {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--colors-primary);
     margin-bottom: 1.25rem;
   }
 
   .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
-    align-items: center;
+    flex-direction: column;
     gap: 0.75rem;
-    font-size: 0.9rem;
   }
 
   .footer-links a {
-    color: #475569;
-    font-weight: 500;
+    font-size: 14px;
+    color: var(--colors-muted-text);
+    transition: color 0.15s ease;
   }
 
   .footer-links a:hover {
-    color: var(--brand-primary);
+    color: var(--colors-primary);
   }
 
-  .sep {
-    color: var(--text-dim);
-  }
-
+  /* Bottom Bar */
   .footer-bottom {
-    border-top: 1px solid var(--border-color);
-    padding-top: 1.5rem;
-    color: var(--text-dim);
-    font-size: 0.85rem;
-    text-align: center;
+    border-top: 1px solid var(--colors-hairline);
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+    color: var(--colors-muted-text);
+  }
+
+  .copyright-text {
+    margin: 0;
+    font-size: 13px;
+  }
+
+  .footer-meta-tags {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: 11px;
+  }
+
+  .meta-dot {
+    color: var(--colors-hairline);
+  }
+
+  @media (max-width: 900px) {
+    .footer-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 2.5rem;
+    }
+    .brand-col {
+      grid-column: span 2;
+      max-width: 100%;
+    }
+    .footer-bottom {
+      flex-direction: column;
+      gap: 1rem;
+      text-align: center;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .footer-grid {
+      grid-template-columns: 1fr;
+    }
+    .brand-col {
+      grid-column: span 1;
+    }
   }
 </style>
