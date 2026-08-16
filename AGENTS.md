@@ -77,7 +77,12 @@ d:\typingwire blogs\
 │   └── llms.txt             # AI contextual index document
 ├── src/
 │   ├── content/
-│   │   └── blog/            # 30 Comprehensive Official Exam & Speed Guides (*.md)
+│   │   └── blog/            # 35 Comprehensive Official Exam & Speed Guides (*.md)
+│   │       ├── ssc-stenographer-grade-c-d-typing-skill-test-rules.md
+│   │       ├── ssc-selection-post-phase-typing-test-rules.md
+│   │       ├── ssc-cgl-vs-chsl-typing-test-comparison.md
+│   │       ├── ssc-typing-test-software-interface-backspace-rules.md
+│   │       ├── ssc-hindi-typing-mangal-remington-gail-inscript-rules.md
 │   │       ├── rrb-ntpc-cbtst-typing-skill-test-rules.md
 │   │       ├── supreme-court-sci-jca-typing-test-rules.md
 │   │       ├── upsssc-junior-assistant-clerk-typing-rules.md
