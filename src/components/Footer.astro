@@ -1,0 +1,91 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <div class="brand-title">Typing<span class="text-accent">Wire</span> Blog</div>
+      <p class="brand-desc">
+        The ultimate resource for high-speed typing techniques, government exam rules (SSC, High Court, Steno), and mechanical keyboard guides.
+      </p>
+      <div class="footer-links">
+        <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Main App</a>
+        <span class="sep">•</span>
+        <a href="/rss.xml">RSS Feed</a>
+        <span class="sep">•</span>
+        <a href="/sitemap.xml">XML Sitemap</a>
+        <span class="sep">•</span>
+        <a href="/llms.txt">llms.txt</a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {currentYear} TypingWire. All rights reserved. Built with Astro v5 for 100/100 Google PageSpeed.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--border-color);
+    background: rgba(10, 14, 23, 0.95);
+    margin-top: 5rem;
+    padding: 3.5rem 0 2rem;
+  }
+
+  .footer-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+  }
+
+  .footer-brand {
+    max-width: 600px;
+  }
+
+  .brand-title {
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+  }
+
+  .text-accent {
+    color: var(--brand-accent);
+  }
+
+  .brand-desc {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .footer-links a {
+    color: var(--text-muted);
+  }
+
+  .footer-links a:hover {
+    color: var(--brand-accent);
+  }
+
+  .sep {
+    color: var(--text-dim);
+  }
+
+  .footer-bottom {
+    border-top: 1px solid var(--border-color);
+    padding-top: 1.5rem;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BlogCard from '../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const featuredPost = posts.find((post) => post.data.featured) || posts[0];
+const regularPosts = posts.filter((post) => post.id !== featuredPost?.id);
+
+const categories = [
+  { name: 'All Articles', slug: '/', count: posts.length },
+  { name: 'Typing Tips', slug: '/categories/typing-tips', count: posts.filter(p => p.data.category === 'Typing Tips').length },
+  { name: 'Exam Rules', slug: '/categories/exam-rules', count: posts.filter(p => p.data.category === 'Exam Rules').length },
+  { name: 'Hardware', slug: '/categories/hardware', count: posts.filter(p => p.data.category === 'Hardware').length },
+];
+---
+
+<BaseLayout
+  title="TypingWire Blog - High Speed Typing, Exam Rules & Keyboard Guides"
+  description="Master touch typing, prepare for SSC & High Court typing tests, and explore expert mechanical keyboard reviews on the official TypingWire blog."
+>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container hero-container">
+      <div class="hero-badge">
+        <span class="pulse-dot"></span>
+        <span>Official Knowledge Portal</span>
+      </div>
+      <h1 class="hero-title">
+        Master Your Keystrokes. <br />
+        <span class="gradient-text">Type 2x Faster With Confidence.</span>
+      </h1>
+      <p class="hero-subtitle">
+        Actionable speed drills, error calculation formulas for government typing tests, and hardware optimizations curated by competitive typists.
+      </p>
+
+      <!-- Category Filter Pills -->
+      <div class="category-pills">
+        {categories.map((cat, i) => (
+          <a href={cat.slug} class={`cat-pill ${i === 0 ? 'active' : ''}`}>
+            <span>{cat.name}</span>
+            <span class="cat-count">{cat.count}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Grid -->
+  <section class="blog-grid-section">
+    <div class="container">
+      {featuredPost && (
+        <div class="featured-wrapper">
+          <div class="section-label">
+            <span class="badge">Featured Guide</span>
+          </div>
+          <BlogCard
+            title={featuredPost.data.title}
+            description={featuredPost.data.description}
+            pubDate={featuredPost.data.pubDate}
+            slug={featuredPost.id}
+            category={featuredPost.data.category}
+            tags={featuredPost.data.tags}
+            featured={true}
+          />
+        </div>
+      )}
+
+      <div class="latest-header">
+        <h2>Latest Articles</h2>
+        <span class="article-count">{posts.length} Guides Available</span>
+      </div>
+
+      <div class="posts-grid">
+        {regularPosts.map((post) => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            slug={post.id}
+            category={post.data.category}
+            tags={post.data.tags}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero-section {
+    padding: 4.5rem 0 3rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .hero-container {
+    max-width: 800px;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.25);
+    color: var(--brand-accent);
+    padding: 0.35rem 0.9rem;
+    border-radius: var(--radius-full);
+    font-size: 0.82rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+  }
+
+  .pulse-dot {
+    width: 8px;
+    height: 8px;
+    background: var(--brand-accent);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--brand-accent);
+  }
+
+  .hero-title {
+    font-size: 3rem;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+  }
+
+  .hero-subtitle {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+
+  .category-pills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .cat-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 1rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-full);
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    transition: all 0.2s ease;
+  }
+
+  .cat-pill:hover,
+  .cat-pill.active {
+    border-color: var(--brand-accent);
+    color: #ffffff;
+    background: rgba(56, 189, 248, 0.15);
+  }
+
+  .cat-count {
+    background: rgba(255, 255, 255, 0.08);
+    font-size: 0.75rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 10px;
+  }
+
+  /* Grid Section */
+  .blog-grid-section {
+    padding: 3.5rem 0 5rem;
+  }
+
+  .featured-wrapper {
+    margin-bottom: 3.5rem;
+  }
+
+  .section-label {
+    margin-bottom: 1rem;
+  }
+
+  .latest-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.75rem;
+  }
+
+  .latest-header h2 {
+    margin: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .article-count {
+    color: var(--text-dim);
+    font-size: 0.9rem;
+  }
+
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.75rem;
+  }
+
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2.1rem;
+    }
+    .hero-subtitle {
+      font-size: 1rem;
+    }
+  }
+</style>

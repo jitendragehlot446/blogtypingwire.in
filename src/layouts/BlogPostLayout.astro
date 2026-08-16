@@ -1,0 +1,315 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  heroImage?: string;
+  imageAlt?: string;
+  category?: string;
+  tags?: string[];
+  author?: string;
+  faqs?: Array<{ question: string; answer: string }>;
+}
+
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  heroImage,
+  imageAlt,
+  category = 'General',
+  tags = [],
+  author = 'TypingWire Team',
+  faqs = [],
+} = Astro.props;
+
+const siteUrl = Astro.site?.toString() || 'https://blog.typingwire.in';
+const currentUrl = new URL(Astro.url.pathname, siteUrl).toString();
+
+const breadcrumbs = [
+  { name: 'Home', url: siteUrl },
+  { name: category, url: `${siteUrl}/categories/${category.toLowerCase().replace(/\s+/g, '-')}` },
+  { name: title, url: currentUrl },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={heroImage}
+  articleDate={pubDate}
+  author={author}
+  faqs={faqs}
+  breadcrumbs={breadcrumbs}
+>
+  <div class="prose-container blog-detail-wrapper">
+    <!-- Breadcrumb bar -->
+    <nav class="breadcrumb-bar" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">/</span>
+      <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`}>{category}</a>
+      <span class="sep">/</span>
+      <span class="current">{title.slice(0, 30)}...</span>
+    </nav>
+
+    <!-- Post Header -->
+    <header class="post-header">
+      <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class="badge category-badge">
+        {category}
+      </a>
+      <h1 class="post-title">{title}</h1>
+      <p class="post-lead">{description}</p>
+
+      <div class="post-meta">
+        <div class="author-info">
+          <div class="author-avatar">TW</div>
+          <span class="author-name">{author}</span>
+        </div>
+        <span class="meta-sep">•</span>
+        <div class="publish-date">
+          <span>Published on </span>
+          <FormattedDate date={pubDate} />
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <article class="article-content">
+      <slot />
+    </article>
+
+    <!-- Interactive FAQ Section if present -->
+    {
+      faqs && faqs.length > 0 && (
+        <section class="faq-container">
+          <h2>Frequently Asked Questions</h2>
+          <div class="faq-list">
+            {faqs.map((faq, index) => (
+              <details class="faq-item card-glass" open={index === 0}>
+                <summary class="faq-question">
+                  <span>{faq.question}</span>
+                  <span class="faq-icon">+</span>
+                </summary>
+                <div class="faq-answer">
+                  <p>{faq.answer}</p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <!-- Tags -->
+    {
+      tags.length > 0 && (
+        <div class="tags-section">
+          <span class="tags-label">Tags:</span>
+          <div class="tags-list">
+            {tags.map((t) => (
+              <span class="tag-pill">#{t}</span>
+            ))}
+          </div>
+        </div>
+      )
+    }
+
+    <!-- High-conversion Call-To-Action Banner -->
+    <div class="cta-banner card-glass">
+      <div class="cta-content">
+        <h3>Ready to Boost Your Typing Speed?</h3>
+        <p>Practice with real exam passages, live WPM counter, and accuracy analysis on TypingWire.</p>
+      </div>
+      <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+        Start Free Practice
+      </a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .blog-detail-wrapper {
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .breadcrumb-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin-bottom: 1.5rem;
+  }
+
+  .breadcrumb-bar a {
+    color: var(--text-muted);
+  }
+
+  .breadcrumb-bar a:hover {
+    color: var(--brand-accent);
+  }
+
+  .post-header {
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 2rem;
+  }
+
+  .category-badge {
+    margin-bottom: 1rem;
+  }
+
+  .post-title {
+    font-size: 2.4rem;
+    line-height: 1.25;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .post-lead {
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .post-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+  }
+
+  .author-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .author-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--brand-primary);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .author-name {
+    color: #e2e8f0;
+    font-weight: 500;
+  }
+
+  .meta-sep {
+    color: var(--text-dim);
+  }
+
+  /* FAQs */
+  .faq-container {
+    margin-top: 3.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color);
+  }
+
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1.25rem;
+  }
+
+  .faq-item {
+    padding: 1.25rem 1.5rem;
+    border-radius: var(--radius-md);
+  }
+
+  .faq-question {
+    font-weight: 600;
+    font-size: 1.05rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    list-style: none;
+  }
+
+  .faq-question::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-answer {
+    margin-top: 0.75rem;
+    color: var(--text-muted);
+    font-size: 0.98rem;
+    line-height: 1.6;
+  }
+
+  /* Tags */
+  .tags-section {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .tags-label {
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    font-weight: 600;
+  }
+
+  .tag-pill {
+    font-size: 0.85rem;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--tag-text);
+    padding: 0.25rem 0.6rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-color);
+  }
+
+  /* CTA Banner */
+  .cta-banner {
+    margin-top: 3.5rem;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    border-color: rgba(56, 189, 248, 0.3);
+    background: linear-gradient(135deg, rgba(2, 132, 199, 0.15), rgba(129, 140, 248, 0.15));
+  }
+
+  .cta-content h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.3rem;
+  }
+
+  .cta-content p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 768px) {
+    .post-title {
+      font-size: 1.85rem;
+    }
+    .cta-banner {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>

@@ -1,0 +1,12 @@
+# TypingWire Blog
+
+> High-speed typing tests, steno guidelines, keyboard reviews, and productivity insights.
+
+## Main Sections
+- [Homepage](https://blog.typingwire.in/): Latest typing guides, test rules, and keyboard optimizations.
+- [Typing Tips](https://blog.typingwire.in/categories/typing-tips): Guides on increasing WPM and accuracy.
+- [Court & Exam Rules](https://blog.typingwire.in/categories/exam-rules): Typing test evaluation formulas (SSC, High Court, Steno).
+- [Hardware & Keyboards](https://blog.typingwire.in/categories/hardware): Mechanical keyboards and switch reviews.
+
+## RSS Feed
+- [RSS](https://blog.typingwire.in/rss.xml): Real-time feed of all published articles.

@@ -1,0 +1,102 @@
+---
+interface FAQ {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  type?: 'WebSite' | 'Article';
+  title: string;
+  description: string;
+  url: string;
+  image?: string;
+  pubDate?: Date;
+  updatedDate?: Date;
+  author?: string;
+  faqs?: FAQ[];
+  breadcrumbs?: Array<{ name: string; url: string }>;
+}
+
+const {
+  type = 'WebSite',
+  title,
+  description,
+  url,
+  image = 'https://blog.typingwire.com/favicon.svg',
+  pubDate,
+  updatedDate,
+  author = 'TypingWire Team',
+  faqs = [],
+  breadcrumbs = [],
+} = Astro.props;
+
+// 1. Article or WebSite schema
+const mainSchema = type === 'Article' ? {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  'headline': title,
+  'description': description,
+  'image': image,
+  'author': {
+    '@type': 'Organization',
+    'name': author,
+    'url': 'https://typingwire.com'
+  },
+  'publisher': {
+    '@type': 'Organization',
+    'name': 'TypingWire',
+    'url': 'https://typingwire.com',
+    'logo': {
+      '@type': 'ImageObject',
+      'url': 'https://blog.typingwire.com/favicon.svg'
+    }
+  },
+  'datePublished': pubDate ? pubDate.toISOString() : undefined,
+  'dateModified': (updatedDate || pubDate) ? (updatedDate || pubDate)!.toISOString() : undefined,
+  'mainEntityOfPage': {
+    '@type': 'WebPage',
+    '@id': url
+  }
+} : {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  'name': 'TypingWire Blog',
+  'url': url,
+  'description': description,
+  'publisher': {
+    '@type': 'Organization',
+    'name': 'TypingWire',
+    'url': 'https://typingwire.com'
+  }
+};
+
+// 2. Breadcrumbs schema
+const breadcrumbsSchema = breadcrumbs.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  'itemListElement': breadcrumbs.map((item, index) => ({
+    '@type': 'ListItem',
+    'position': index + 1,
+    'name': item.name,
+    'item': item.url
+  }))
+} : null;
+
+// 3. FAQ Schema
+const faqSchema = faqs && faqs.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  'mainEntity': faqs.map(faq => ({
+    '@type': 'Question',
+    'name': faq.question,
+    'acceptedAnswer': {
+      '@type': 'Answer',
+      'text': faq.answer
+    }
+  }))
+} : null;
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(mainSchema)} />
+{breadcrumbsSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbsSchema)} />}
+{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
