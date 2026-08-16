@@ -63,13 +63,23 @@ Write your article content here in Markdown...
 
 ---
 
-## 🚀 Deployment to Cloudflare Pages (Free & Fast)
+## 🚀 Deployment to Vercel (Free & Instant)
 
-1. Go to [Cloudflare Dashboard](https://dash.cloudflare.com) $\rightarrow$ **Workers & Pages** $\rightarrow$ **Create Application** $\rightarrow$ **Pages**.
-2. Select **Connect to Git** $\rightarrow$ choose `blogtypingwire.in`.
-3. Configure Build Settings:
-   * **Framework Preset**: `Astro`
-   * **Build Command**: `npm run build`
-   * **Build Output Directory**: `dist`
-4. Click **Save and Deploy**.
-5. In the Pages project settings $\rightarrow$ **Custom Domains** $\rightarrow$ Add `blog.typingwire.in`.
+### Option A: Via Vercel Dashboard (Recommended)
+1. Go to [Vercel Dashboard](https://vercel.com/new).
+2. Click **Import** next to `jitendragehlot446/blogtypingwire.in`.
+3. Vercel automatically detects the **Astro** framework preset.
+4. Click **Deploy** (site goes live in ~30 seconds).
+5. Go to **Settings** $\rightarrow$ **Domains** $\rightarrow$ Add `blog.typingwire.in`.
+6. Add this **CNAME Record** in your DNS:
+   - **Type**: `CNAME`
+   - **Name**: `blog`
+   - **Target**: `cname.vercel-dns.com`
+
+---
+
+### Option B: Via Terminal (Vercel CLI)
+```bash
+npx vercel
+# Follow prompts to link and deploy!
+```
