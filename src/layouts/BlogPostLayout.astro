@@ -36,6 +36,14 @@ const breadcrumbs = [
   { name: category, url: `${siteUrl}/categories/${category.toLowerCase().replace(/\s+/g, '-')}` },
   { name: title, url: currentUrl },
 ];
+
+const getBadgeClass = (cat: string) => {
+  const c = cat.toLowerCase();
+  if (c.includes('tips') || c.includes('speed')) return 'badge-mint';
+  if (c.includes('exam') || c.includes('rule')) return 'badge-lilac';
+  if (c.includes('hardware') || c.includes('keyboard')) return 'badge-cream';
+  return 'badge-lime';
+};
 ---
 
 <BaseLayout
@@ -54,25 +62,27 @@ const breadcrumbs = [
       <span class="sep">/</span>
       <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`}>{category}</a>
       <span class="sep">/</span>
-      <span class="current">{title.slice(0, 30)}...</span>
+      <span class="current">{title.slice(0, 32)}...</span>
     </nav>
 
     <!-- Post Header -->
     <header class="post-header">
-      <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class="badge category-badge">
-        {category}
-      </a>
-      <h1 class="post-title">{title}</h1>
+      <div class="header-tags">
+        <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class={`post-card-badge ${getBadgeClass(category)}`}>
+          {category}
+        </a>
+      </div>
+      <h1 class="display-lg post-title">{title}</h1>
       <p class="post-lead">{description}</p>
 
       <div class="post-meta">
         <div class="author-info">
-          <div class="author-avatar">TW</div>
+          <span class="author-label">WRITTEN BY</span>
           <span class="author-name">{author}</span>
         </div>
         <span class="meta-sep">•</span>
         <div class="publish-date">
-          <span>Published on </span>
+          <span class="date-label">PUBLISHED</span>
           <FormattedDate date={pubDate} />
         </div>
       </div>
@@ -87,10 +97,10 @@ const breadcrumbs = [
     {
       faqs && faqs.length > 0 && (
         <section class="faq-container">
-          <h2>Frequently Asked Questions</h2>
+          <h2 class="headline">Frequently Asked Questions</h2>
           <div class="faq-list">
             {faqs.map((faq, index) => (
-              <details class="faq-item card-glass" open={index === 0}>
+              <details class="faq-item" open={index === 0}>
                 <summary class="faq-question">
                   <span>{faq.question}</span>
                   <span class="faq-icon">+</span>
@@ -109,7 +119,7 @@ const breadcrumbs = [
     {
       tags.length > 0 && (
         <div class="tags-section">
-          <span class="tags-label">Tags:</span>
+          <span class="tags-label">INDEXED UNDER:</span>
           <div class="tags-list">
             {tags.map((t) => (
               <span class="tag-pill">#{t}</span>
@@ -119,129 +129,124 @@ const breadcrumbs = [
       )
     }
 
-    <!-- High-conversion Call-To-Action Banner -->
-    <div class="cta-banner card-glass">
-      <div class="cta-content">
-        <h3>Ready to Boost Your Typing Speed?</h3>
-        <p>Practice with real exam passages, live WPM counter, and accuracy analysis on TypingWire.</p>
+    <!-- High-conversion Pastel CTA Card (Mint Block) -->
+    <div class="post-cta-block">
+      <div class="cta-inner">
+        <span class="post-card-badge" style="background:#ffffff;">TYPING PRACTICE</span>
+        <h3>Benchmark Your Keystrokes on TypingWire</h3>
+        <p>Real-time accuracy analysis, exam passages, and speed benchmarks.</p>
+        <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">
+          Start Typing Test →
+        </a>
       </div>
-      <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
-        Start Free Practice
-      </a>
     </div>
   </div>
 </BaseLayout>
 
 <style>
   .blog-detail-wrapper {
-    padding-top: 2.5rem;
-    padding-bottom: 4rem;
+    padding-top: 3.5rem;
+    padding-bottom: 5rem;
   }
 
   .breadcrumb-bar {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 0.85rem;
-    color: var(--text-dim);
-    margin-bottom: 1.5rem;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--colors-muted-text);
+    margin-bottom: 2rem;
   }
 
   .breadcrumb-bar a {
-    color: var(--text-muted);
+    color: var(--colors-primary);
   }
 
   .breadcrumb-bar a:hover {
-    color: var(--brand-accent);
+    text-decoration: underline;
   }
 
   .post-header {
-    margin-bottom: 2.5rem;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 2rem;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid var(--colors-hairline);
+    padding-bottom: 2.5rem;
   }
 
-  .category-badge {
-    margin-bottom: 1rem;
+  .header-tags {
+    margin-bottom: 1.25rem;
   }
 
   .post-title {
-    font-size: 2.4rem;
-    line-height: 1.25;
     margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
   }
 
   .post-lead {
-    font-size: 1.2rem;
-    color: var(--text-muted);
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
+    font-size: 20px;
+    color: var(--colors-muted-text);
+    line-height: 1.55;
+    margin-bottom: 2rem;
   }
 
   .post-meta {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    font-size: 0.9rem;
-    color: var(--text-dim);
+    gap: 1.25rem;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--colors-muted-text);
   }
 
-  .author-info {
+  .author-info, .publish-date {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.4rem;
   }
 
-  .author-avatar {
-    width: 28px;
-    height: 28px;
-    border-radius: 50%;
-    background: var(--brand-primary);
-    color: #fff;
-    font-size: 0.75rem;
-    font-weight: 700;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .author-name {
-    color: #e2e8f0;
+  .author-label, .date-label {
+    color: var(--colors-muted-text);
     font-weight: 500;
   }
 
+  .author-name {
+    color: var(--colors-primary);
+    font-weight: 600;
+  }
+
   .meta-sep {
-    color: var(--text-dim);
+    color: var(--colors-hairline);
   }
 
   /* FAQs */
   .faq-container {
-    margin-top: 3.5rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--border-color);
+    margin-top: 4rem;
+    padding-top: 2.5rem;
+    border-top: 1px solid var(--colors-hairline);
   }
 
   .faq-list {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    margin-top: 1.25rem;
+    margin-top: 1.5rem;
   }
 
   .faq-item {
     padding: 1.25rem 1.5rem;
-    border-radius: var(--radius-md);
+    background-color: var(--colors-surface-soft);
+    border: 1px solid var(--colors-hairline);
+    border-radius: var(--rounded-md);
   }
 
   .faq-question {
     font-weight: 600;
-    font-size: 1.05rem;
+    font-size: 16px;
     cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #ffffff;
+    color: var(--colors-primary);
     list-style: none;
   }
 
@@ -251,9 +256,9 @@ const breadcrumbs = [
 
   .faq-answer {
     margin-top: 0.75rem;
-    color: var(--text-muted);
-    font-size: 0.98rem;
-    line-height: 1.6;
+    font-size: 15px;
+    color: var(--colors-body-text);
+    line-height: 1.65;
   }
 
   /* Tags */
@@ -261,55 +266,55 @@ const breadcrumbs = [
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    margin-top: 2.5rem;
+    margin-top: 3rem;
     flex-wrap: wrap;
   }
 
   .tags-label {
-    font-size: 0.9rem;
-    color: var(--text-dim);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--colors-muted-text);
     font-weight: 600;
   }
 
   .tag-pill {
-    font-size: 0.85rem;
-    background: rgba(255, 255, 255, 0.05);
-    color: var(--tag-text);
-    padding: 0.25rem 0.6rem;
-    border-radius: var(--radius-sm);
-    border: 1px solid var(--border-color);
+    font-family: var(--font-mono);
+    font-size: 12px;
+    background: var(--colors-surface-soft);
+    color: var(--colors-primary);
+    padding: 0.25rem 0.65rem;
+    border-radius: var(--rounded-xs);
+    border: 1px solid var(--colors-hairline);
   }
 
   /* CTA Banner */
-  .cta-banner {
-    margin-top: 3.5rem;
-    padding: 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1.5rem;
-    border-color: rgba(56, 189, 248, 0.3);
-    background: linear-gradient(135deg, rgba(2, 132, 199, 0.15), rgba(129, 140, 248, 0.15));
+  .post-cta-block {
+    margin-top: 4rem;
+    padding: 3rem 2.5rem;
+    background-color: var(--colors-block-mint);
+    border: 1px solid #bbf7e6;
+    border-radius: var(--rounded-lg);
   }
 
-  .cta-content h3 {
-    margin: 0 0 0.5rem;
-    font-size: 1.3rem;
+  .post-cta-block h3 {
+    margin: 1rem 0 0.5rem;
+    font-size: 24px;
+    color: #064e3b;
+    font-weight: 700;
   }
 
-  .cta-content p {
-    margin: 0;
-    color: var(--text-muted);
-    font-size: 0.95rem;
+  .post-cta-block p {
+    margin: 0 0 1.5rem;
+    color: #047857;
+    font-size: 15.5px;
   }
 
   @media (max-width: 768px) {
-    .post-title {
-      font-size: 1.85rem;
+    .blog-detail-wrapper {
+      padding-top: 2.5rem;
     }
-    .cta-banner {
-      flex-direction: column;
-      text-align: center;
+    .post-cta-block {
+      padding: 2rem 1.5rem;
     }
   }
 </style>

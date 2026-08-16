@@ -12,11 +12,20 @@ interface Props {
 }
 
 const { title, description, pubDate, slug, category = 'General', tags = [], featured = false } = Astro.props;
+
+// Assign pastel badge classes based on category
+const getBadgeClass = (cat: string) => {
+  const c = cat.toLowerCase();
+  if (c.includes('tips') || c.includes('speed')) return 'badge-mint';
+  if (c.includes('exam') || c.includes('rule')) return 'badge-lilac';
+  if (c.includes('hardware') || c.includes('keyboard')) return 'badge-cream';
+  return 'badge-lime';
+};
 ---
 
-<article class={`blog-card card-glass ${featured ? 'card-featured' : ''}`}>
-  <div class="card-header">
-    <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class="badge">
+<article class={`editorial-card ${featured ? 'card-featured' : ''}`}>
+  <div class="card-top">
+    <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class={`post-card-badge ${getBadgeClass(category)}`}>
       {category}
     </a>
     <span class="card-date">
@@ -32,16 +41,16 @@ const { title, description, pubDate, slug, category = 'General', tags = [], feat
     {description}
   </p>
 
-  <div class="card-footer">
+  <div class="card-bottom">
     <div class="card-tags">
       {tags.slice(0, 2).map((t) => (
         <span class="tag-item">#{t}</span>
       ))}
     </div>
 
-    <a href={`/blog/${slug}`} class="read-more-link">
+    <a href={`/blog/${slug}`} class="read-link">
       <span>Read Article</span>
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M5 12h14M12 5l7 7-7 7"/>
       </svg>
     </a>
@@ -49,61 +58,70 @@ const { title, description, pubDate, slug, category = 'General', tags = [], feat
 </article>
 
 <style>
-  .blog-card {
+  .editorial-card {
     display: flex;
     flex-direction: column;
-    padding: 1.75rem;
+    padding: 2rem;
     height: 100%;
-    position: relative;
+    background-color: var(--colors-canvas);
+    border: 1px solid var(--colors-hairline);
+    border-radius: var(--rounded-lg);
+    box-shadow: var(--shadow-subtle);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  }
+
+  .editorial-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-float);
+    border-color: #cbd5e1;
   }
 
   .card-featured {
-    border-color: rgba(56, 189, 248, 0.4);
-    background: linear-gradient(135deg, rgba(17, 24, 39, 0.9) 0%, rgba(30, 41, 59, 0.8) 100%);
+    background-color: var(--colors-surface-soft);
+    border-color: #d1d5db;
   }
 
-  .card-header {
+  .card-top {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
   }
 
   .card-date {
-    font-size: 0.85rem;
-    color: var(--text-dim);
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--colors-muted-text);
   }
 
   .card-title {
-    font-size: 1.25rem;
     margin-top: 0;
     margin-bottom: 0.75rem;
-    line-height: 1.4;
   }
 
   .card-title a {
-    color: #ffffff;
+    color: var(--colors-primary);
+    transition: color 0.15s ease;
   }
 
   .card-title a:hover {
-    color: var(--brand-accent);
+    color: #4b5563;
   }
 
   .card-description {
-    color: var(--text-muted);
-    font-size: 0.95rem;
+    color: var(--colors-body-text);
+    font-size: 15px;
     line-height: 1.6;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.75rem;
     flex: 1;
   }
 
-  .card-footer {
+  .card-bottom {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 1px solid var(--border-color);
-    padding-top: 1rem;
-    font-size: 0.85rem;
+    border-top: 1px solid var(--colors-hairline);
+    padding-top: 1.25rem;
   }
 
   .card-tags {
@@ -112,18 +130,21 @@ const { title, description, pubDate, slug, category = 'General', tags = [], feat
   }
 
   .tag-item {
-    color: var(--text-dim);
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--colors-muted-text);
   }
 
-  .read-more-link {
+  .read-link {
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
+    font-size: 13.5px;
     font-weight: 600;
-    color: var(--brand-accent);
+    color: var(--colors-primary);
   }
 
-  .read-more-link:hover {
+  .read-link:hover {
     gap: 0.55rem;
   }
 </style>

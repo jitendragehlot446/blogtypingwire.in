@@ -1,29 +1,29 @@
 ---
 const pathname = new URL(Astro.request.url).pathname;
-const currentPath = pathname.slice(1); // remove first slash
+const currentPath = pathname.slice(1);
 ---
 
 <header class="site-header">
   <div class="container header-inner">
     <a href="/" class="brand-logo">
-      <img src="/logo.jpg" alt="TypingWire Logo" class="brand-logo-img" width="38" height="38" />
+      <img src="/logo.jpg" alt="TypingWire Logo" class="brand-logo-img" width="34" height="34" />
       <div class="logo-text">
-        <span class="logo-title">Typing<span class="text-accent">Wire</span></span>
-        <span class="logo-badge">BLOG</span>
+        <span class="logo-title">TypingWire</span>
+        <span class="post-card-badge">EDITORIAL</span>
       </div>
     </a>
 
     <nav class="main-nav">
-      <a href="/" class={currentPath === "" ? "active" : ""}>Home</a>
-      <a href="/categories/typing-tips" class={currentPath.includes("typing-tips") ? "active" : ""}>Speed Tips</a>
-      <a href="/categories/exam-rules" class={currentPath.includes("exam-rules") ? "active" : ""}>Exam Rules</a>
-      <a href="/categories/hardware" class={currentPath.includes("hardware") ? "active" : ""}>Keyboards</a>
+      <a href="/" class={currentPath === "" ? "active" : ""}>Overview</a>
+      <a href="/categories/typing-tips" class={currentPath.includes("typing-tips") ? "active" : ""}>Speed Drills</a>
+      <a href="/categories/exam-rules" class={currentPath.includes("exam-rules") ? "active" : ""}>Exam Guidelines</a>
+      <a href="/categories/hardware" class={currentPath.includes("hardware") ? "active" : ""}>Hardware</a>
     </nav>
 
     <div class="header-actions">
-      <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="btn btn-primary app-btn">
+      <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">
         <span>Start Typing Test</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <path d="M5 12h14M12 5l7 7-7 7"/>
         </svg>
       </a>
@@ -36,83 +36,62 @@ const currentPath = pathname.slice(1); // remove first slash
     position: sticky;
     top: 0;
     z-index: 50;
-    backdrop-filter: blur(16px);
-    background: rgba(10, 14, 23, 0.85);
-    border-bottom: 1px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--colors-hairline);
   }
 
   .header-inner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 70px;
+    height: 68px;
   }
 
   .brand-logo {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    color: #ffffff;
-    font-weight: 800;
-    font-size: 1.25rem;
+    color: var(--colors-primary);
+    font-weight: 700;
+    font-size: 1.15rem;
+    letter-spacing: -0.3px;
   }
 
   .brand-logo-img {
-    width: 38px;
-    height: 38px;
-    border-radius: 8px;
+    width: 34px;
+    height: 34px;
+    border-radius: var(--rounded-sm);
     object-fit: cover;
   }
 
   .logo-text {
     display: flex;
     align-items: center;
-    gap: 0.4rem;
-  }
-
-  .text-accent {
-    color: var(--brand-accent);
-  }
-
-  .logo-badge {
-    font-size: 0.65rem;
-    font-weight: 700;
-    background: rgba(56, 189, 248, 0.15);
-    color: var(--brand-accent);
-    padding: 0.15rem 0.45rem;
-    border-radius: 4px;
-    border: 1px solid rgba(56, 189, 248, 0.3);
-    letter-spacing: 0.05em;
+    gap: 0.5rem;
   }
 
   .main-nav {
     display: flex;
     align-items: center;
-    gap: 1.75rem;
+    gap: 2rem;
   }
 
   .main-nav a {
-    color: var(--text-muted);
-    font-size: 0.95rem;
+    color: var(--colors-muted-text);
+    font-size: 14px;
     font-weight: 500;
-    transition: color 0.2s ease;
+    transition: color 0.15s ease;
   }
 
   .main-nav a:hover,
   .main-nav a.active {
-    color: #ffffff;
-  }
-
-  .app-btn {
-    padding: 0.5rem 1.1rem;
-    font-size: 0.88rem;
+    color: var(--colors-primary);
+    font-weight: 600;
   }
 
   @media (max-width: 768px) {
     .main-nav {
-      display: none;
-    }
-    .app-btn span {
       display: none;
     }
   }

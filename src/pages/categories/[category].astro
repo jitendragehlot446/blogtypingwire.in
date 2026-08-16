@@ -23,10 +23,18 @@ export async function getStaticPaths() {
 }
 
 const { categoryName, posts } = Astro.props;
+
+const getBadgeClass = (cat: string) => {
+  const c = cat.toLowerCase();
+  if (c.includes('tips') || c.includes('speed')) return 'badge-mint';
+  if (c.includes('exam') || c.includes('rule')) return 'badge-lilac';
+  if (c.includes('hardware') || c.includes('keyboard')) return 'badge-cream';
+  return 'badge-lime';
+};
 ---
 
 <BaseLayout
-  title={`${categoryName} Articles & Guides`}
+  title={`${categoryName} - TypingWire Editorial`}
   description={`Explore all expert articles, tips, and guides in the ${categoryName} category on TypingWire Blog.`}
 >
   <section class="category-header">
@@ -38,17 +46,17 @@ const { categoryName, posts } = Astro.props;
         <span class="sep">/</span>
         <span class="current">{categoryName}</span>
       </nav>
-      <div class="badge">{categoryName}</div>
-      <h1 class="cat-title">{categoryName} Articles</h1>
+      <span class={`post-card-badge ${getBadgeClass(categoryName)}`}>{categoryName}</span>
+      <h1 class="display-lg cat-title">{categoryName}</h1>
       <p class="cat-desc">
-        Browse {posts.length} {posts.length === 1 ? 'article' : 'articles'} covering {categoryName.toLowerCase()} and related strategies.
+        Showing {posts.length} {posts.length === 1 ? 'article' : 'articles'} covering {categoryName.toLowerCase()} and related precision strategies.
       </p>
     </div>
   </section>
 
   <section class="category-posts">
     <div class="container">
-      <div class="posts-grid">
+      <div class="editorial-grid">
         {posts.map((post) => (
           <BlogCard
             title={post.data.title}
@@ -66,41 +74,45 @@ const { categoryName, posts } = Astro.props;
 
 <style>
   .category-header {
-    padding: 3.5rem 0 2.5rem;
-    border-bottom: 1px solid var(--border-color);
-    background: rgba(17, 24, 39, 0.4);
+    padding: 4.5rem 0 3.5rem;
+    border-bottom: 1px solid var(--colors-hairline);
+    background-color: var(--colors-canvas);
   }
 
   .breadcrumb {
     display: flex;
     gap: 0.5rem;
-    font-size: 0.85rem;
-    color: var(--text-dim);
-    margin-bottom: 1.25rem;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--colors-muted-text);
+    margin-bottom: 1.5rem;
   }
 
   .breadcrumb a {
-    color: var(--text-muted);
+    color: var(--colors-primary);
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
   }
 
   .cat-title {
-    font-size: 2.4rem;
-    margin: 0.75rem 0 0.5rem;
+    margin: 1rem 0 0.5rem;
   }
 
   .cat-desc {
-    color: var(--text-muted);
-    font-size: 1.1rem;
+    color: var(--colors-muted-text);
+    font-size: 18px;
     margin: 0;
   }
 
   .category-posts {
-    padding: 3.5rem 0 5rem;
+    padding: 4rem 0 6rem;
   }
 
-  .posts-grid {
+  .editorial-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.75rem;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 2rem;
   }
 </style>
