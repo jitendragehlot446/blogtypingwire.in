@@ -4,77 +4,60 @@ const currentYear = new Date().getFullYear();
 
 <footer class="site-footer">
   <div class="container">
-    <div class="footer-grid">
-      <!-- Col 1: Brand -->
-      <div class="footer-col brand-col">
-        <div class="brand-header">
-          <img src="/logo.jpg" alt="TypingWire Logo" class="footer-logo" width="32" height="32" />
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="brand-link">
+          <img src="/logo.jpg" alt="TypingWire" class="footer-logo" width="28" height="28" />
           <span class="brand-name">TypingWire</span>
-          <span class="post-card-badge badge-mint">EDITORIAL</span>
-        </div>
-        <p class="brand-text">
-          Official editorial and knowledge portal of <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="link-app">TypingWire.in</a> — Empowering typists with scientific speed drills, government exam rules, and keyboard mechanics.
+        </a>
+        <p class="brand-tagline">
+          The knowledge hub for speed typists, exam aspirants, and mechanical keyboard enthusiasts.
         </p>
-        <div class="app-cta-box">
-          <span class="cta-mini-label">OFFICIAL PLATFORM</span>
-          <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="cta-link">
-            <span>Open TypingWire.in App</span>
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M5 12h14M12 5l7 7-7 7"/>
-            </svg>
-          </a>
+      </div>
+
+      <div class="footer-nav-grid">
+        <div class="nav-group">
+          <span class="group-title">Platform</span>
+          <ul>
+            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Typing Test</a></li>
+            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Hindi Typing</a></li>
+            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Exam Passages</a></li>
+          </ul>
         </div>
-      </div>
 
-      <!-- Col 2: Categories -->
-      <div class="footer-col">
-        <h4 class="col-title">Editorial Sections</h4>
-        <ul class="footer-links">
-          <li><a href="/">Overview</a></li>
-          <li><a href="/categories/typing-tips">Speed Drills & WPM</a></li>
-          <li><a href="/categories/exam-rules">Court & SSC Exam Rules</a></li>
-          <li><a href="/categories/hardware">Mechanical Keyboards</a></li>
-        </ul>
-      </div>
+        <div class="nav-group">
+          <span class="group-title">Guides</span>
+          <ul>
+            <li><a href="/categories/typing-tips">Speed Drills</a></li>
+            <li><a href="/categories/exam-rules">Exam Rules</a></li>
+            <li><a href="/categories/hardware">Keyboards</a></li>
+          </ul>
+        </div>
 
-      <!-- Col 3: TypingWire Tools -->
-      <div class="footer-col">
-        <h4 class="col-title">TypingWire Ecosystem</h4>
-        <ul class="footer-links">
-          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Free Typing Test</a></li>
-          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Hindi Typing Practice</a></li>
-          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">English Speed Tests</a></li>
-          <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Exam Passage Simulator</a></li>
-        </ul>
-      </div>
-
-      <!-- Col 4: Legal & Feeds -->
-      <div class="footer-col">
-        <h4 class="col-title">Company & Legal</h4>
-        <ul class="footer-links">
-          <li><a href="/about">About Us</a></li>
-          <li><a href="/contact">Contact Support</a></li>
-          <li><a href="/privacy-policy">Privacy Policy</a></li>
-          <li><a href="/terms">Terms of Service</a></li>
-          <li><a href="/disclaimer">Exam Disclaimer</a></li>
-          <li><a href="/sitemap.xml">XML Sitemap</a></li>
-          <li><a href="/rss.xml">RSS Feed</a></li>
-          <li><a href="/llms.txt">llms.txt (AI Index)</a></li>
-        </ul>
+        <div class="nav-group">
+          <span class="group-title">Company</span>
+          <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/privacy-policy">Privacy</a></li>
+            <li><a href="/terms">Terms</a></li>
+          </ul>
+        </div>
       </div>
     </div>
 
-    <!-- Bottom Bar -->
     <div class="footer-bottom">
-      <p class="copyright-text">
-        &copy; {currentYear} <strong>TypingWire</strong> (typingwire.in). All rights reserved. Subdomain operated by TypingWire Editorial.
-      </p>
-      <div class="footer-meta-tags">
-        <span class="meta-tag">Astro v5 Static</span>
-        <span class="meta-dot">•</span>
-        <span class="meta-tag">100/100 PageSpeed</span>
-        <span class="meta-dot">•</span>
-        <span class="meta-tag">Edge Delivered</span>
+      <p class="copyright">&copy; {currentYear} TypingWire. All rights reserved.</p>
+      <div class="legal-links">
+        <a href="/privacy-policy">Privacy</a>
+        <span class="dot">·</span>
+        <a href="/terms">Terms</a>
+        <span class="dot">·</span>
+        <a href="/disclaimer">Disclaimer</a>
+        <span class="dot">·</span>
+        <a href="/sitemap.xml">Sitemap</a>
+        <span class="dot">·</span>
+        <a href="/rss.xml">RSS</a>
       </div>
     </div>
   </div>
@@ -83,164 +66,131 @@ const currentYear = new Date().getFullYear();
 <style>
   .site-footer {
     border-top: 1px solid var(--colors-hairline);
-    background-color: var(--colors-surface-soft);
+    background-color: #fafafa;
     margin-top: 6rem;
-    padding: 5rem 0 2.5rem;
+    padding: 4rem 0 2.5rem;
   }
 
-  .footer-grid {
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
-    gap: 3.5rem;
-    margin-bottom: 4rem;
-  }
-
-  .brand-col {
-    max-width: 380px;
-  }
-
-  .brand-header {
+  .footer-top {
     display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 4rem;
+    padding-bottom: 3.5rem;
+    border-bottom: 1px solid var(--colors-hairline);
+  }
+
+  .footer-brand {
+    max-width: 320px;
+  }
+
+  .brand-link {
+    display: inline-flex;
     align-items: center;
-    gap: 0.65rem;
-    margin-bottom: 1rem;
+    gap: 0.6rem;
+    color: var(--colors-primary);
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.3px;
+    margin-bottom: 0.75rem;
   }
 
   .footer-logo {
     border-radius: var(--rounded-sm);
-    border: 1px solid var(--colors-hairline);
     object-fit: cover;
   }
 
-  .brand-name {
-    font-size: 17px;
-    font-weight: 700;
-    color: var(--colors-primary);
-    letter-spacing: -0.3px;
-  }
-
-  .brand-text {
-    font-size: 14px;
-    color: var(--colors-muted-text);
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
-  }
-
-  .link-app {
-    font-weight: 600;
-    color: var(--colors-primary);
-    text-decoration: underline;
-  }
-
-  .app-cta-box {
-    padding: 1rem 1.25rem;
-    background-color: var(--colors-canvas);
-    border: 1px solid var(--colors-hairline);
-    border-radius: var(--rounded-md);
-  }
-
-  .cta-mini-label {
-    display: block;
-    font-family: var(--font-mono);
-    font-size: 10px;
-    font-weight: 600;
-    color: var(--colors-muted-text);
-    letter-spacing: 0.06em;
-    margin-bottom: 0.35rem;
-  }
-
-  .cta-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
+  .brand-tagline {
     font-size: 13.5px;
-    font-weight: 600;
-    color: var(--colors-primary);
+    color: var(--colors-muted-text);
+    line-height: 1.55;
+    margin: 0;
   }
 
-  .cta-link:hover {
-    text-decoration: underline;
+  .footer-nav-grid {
+    display: flex;
+    gap: 4.5rem;
   }
 
-  .col-title {
-    font-family: var(--font-mono);
+  .nav-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .group-title {
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.05em;
     color: var(--colors-primary);
-    margin-bottom: 1.25rem;
+    margin-bottom: 1rem;
   }
 
-  .footer-links {
+  .nav-group ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 0.75rem;
+    gap: 0.65rem;
   }
 
-  .footer-links a {
-    font-size: 14px;
+  .nav-group a {
+    font-size: 13.5px;
     color: var(--colors-muted-text);
     transition: color 0.15s ease;
   }
 
-  .footer-links a:hover {
+  .nav-group a:hover {
     color: var(--colors-primary);
   }
 
-  /* Bottom Bar */
   .footer-bottom {
-    border-top: 1px solid var(--colors-hairline);
     padding-top: 2rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: 13px;
+    font-size: 12.5px;
     color: var(--colors-muted-text);
   }
 
-  .copyright-text {
+  .copyright {
     margin: 0;
-    font-size: 13px;
+    font-size: 12.5px;
   }
 
-  .footer-meta-tags {
+  .legal-links {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    font-family: var(--font-mono);
-    font-size: 11px;
+    gap: 0.75rem;
   }
 
-  .meta-dot {
+  .legal-links a {
+    color: var(--colors-muted-text);
+    transition: color 0.15s ease;
+  }
+
+  .legal-links a:hover {
+    color: var(--colors-primary);
+  }
+
+  .dot {
     color: var(--colors-hairline);
   }
 
-  @media (max-width: 900px) {
-    .footer-grid {
-      grid-template-columns: 1fr 1fr;
+  @media (max-width: 768px) {
+    .footer-top {
+      flex-direction: column;
       gap: 2.5rem;
     }
-    .brand-col {
-      grid-column: span 2;
-      max-width: 100%;
+    .footer-nav-grid {
+      gap: 3rem;
+      flex-wrap: wrap;
     }
     .footer-bottom {
       flex-direction: column;
       gap: 1rem;
-      text-align: center;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .footer-grid {
-      grid-template-columns: 1fr;
-    }
-    .brand-col {
-      grid-column: span 1;
+      align-items: flex-start;
     }
   }
 </style>
