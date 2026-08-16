@@ -77,7 +77,22 @@ d:\typingwire blogs\
 │   └── llms.txt             # AI contextual index document
 ├── src/
 │   ├── content/
-│   │   └── blog/            # 15 In-Depth Official Exam Guides (*.md)
+│   │   └── blog/            # 30 Comprehensive Official Exam & Speed Guides (*.md)
+│   │       ├── rrb-ntpc-cbtst-typing-skill-test-rules.md
+│   │       ├── supreme-court-sci-jca-typing-test-rules.md
+│   │       ├── upsssc-junior-assistant-clerk-typing-rules.md
+│   │       ├── dsssb-ldc-junior-assistant-steno-jja-typing-rules.md
+│   │       ├── bihar-beltron-deo-bssc-inter-level-typing-rules.md
+│   │       ├── aiims-cre-junior-admin-assistant-typing-rules.md
+│   │       ├── bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules.md
+│   │       ├── ukpsc-uksssc-ro-aro-aps-typing-rules.md
+│   │       ├── nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules.md
+│   │       ├── jharkhand-high-court-clerk-steno-dso-typing-rules.md
+│   │       ├── bihar-civil-court-vidhan-sabha-parishad-typing-rules.md
+│   │       ├── telangana-andhra-pradesh-high-court-typing-rules.md
+│   │       ├── mpsc-group-c-marathi-english-typing-rules.md
+│   │       ├── wbpsc-clerkship-odisha-ossc-jkssb-typing-rules.md
+│   │       ├── kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules.md
 │   │       ├── ssc-cgl-dest-typing-test-rules.md
 │   │       ├── ssc-chsl-typing-test-rules.md
 │   │       ├── rajasthan-high-court-ldc-typing-efficiency-rules.md
