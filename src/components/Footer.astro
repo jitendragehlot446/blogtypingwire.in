@@ -2,192 +2,122 @@
 const currentYear = new Date().getFullYear();
 ---
 
-<footer class="site-footer">
-  <div class="container">
-    <div class="footer-top">
-      <div class="footer-brand">
-        <a href="/" class="brand-link">
-          <img src="/logo.jpg" alt="TypingWire" class="footer-logo" width="28" height="28" />
-          <span class="brand-name">TypingWire</span>
-        </a>
-        <p class="brand-tagline">
-          Official Exam Rules & Guidelines Subdomain of <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" style="color:var(--colors-primary); text-decoration:underline;">TypingWire.in</a> — Publishing verified government typing test rules (SSC, High Court, Steno), mistake calculation formulas, and speed drills.
-        </p>
-      </div>
-
-      <div class="footer-nav-grid">
-        <div class="nav-group">
-          <span class="group-title">Main Platform</span>
-          <ul>
-            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">TypingWire.in App</a></li>
-            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Hindi Typing Test</a></li>
-            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">English Speed Test</a></li>
-            <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Exam Passages</a></li>
-          </ul>
-        </div>
-
-        <div class="nav-group">
-          <span class="group-title">Exam Guides</span>
-          <ul>
-            <li><a href="/categories/exam-rules">Court & SSC Rules</a></li>
-            <li><a href="/categories/typing-tips">Speed Drills & WPM</a></li>
-            <li><a href="/categories/hardware">Mechanical Keyboards</a></li>
-          </ul>
-        </div>
-
-        <div class="nav-group">
-          <span class="group-title">Company</span>
-          <ul>
-            <li><a href="/about">About TypingWire</a></li>
-            <li><a href="/contact">Contact Support</a></li>
-            <li><a href="/privacy-policy">Privacy Policy</a></li>
-            <li><a href="/disclaimer">Exam Disclaimer</a></li>
-          </ul>
-        </div>
-      </div>
+<footer>
+  <div class="footer-container">
+    <div class="footer-info">
+      <h3>TypingWire Blog</h3>
+      <p>
+        यह <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Typingwire.in</a> का आधिकारिक ब्लॉग पोर्टल है। यहाँ हम विभिन्न सरकारी परीक्षाओं (जैसे SSC CGL, CHSL, RRB NTPC, Army Clerk, High Court, और State Exams) के टाइपिंग टेस्ट नियमों, मूल्यांकन विधियों, कीबोर्ड लेआउट और परीक्षा दिशानिर्देशों को विस्तार से समझाते हैं ताकि उम्मीदवारों को अभ्यास करने में आसानी हो।
+      </p>
+      <p class="en-desc">
+        This is the official blog extension of <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Typingwire.in</a> (our free typing practice platform). We publish complete guidelines, evaluation criteria, and speed formulas for all major typing exams.
+      </p>
     </div>
 
-    <div class="footer-bottom">
-      <p class="copyright">&copy; {currentYear} TypingWire.in. Official Exam Rules & Speed Subdomain. All rights reserved.</p>
-      <div class="legal-links">
-        <a href="/privacy-policy">Privacy</a>
-        <span class="dot">·</span>
-        <a href="/terms">Terms</a>
-        <span class="dot">·</span>
-        <a href="/disclaimer">Disclaimer</a>
-      </div>
+    <div class="footer-links">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer">Free Mock Test Platform</a></li>
+        <li><a href="/categories/typing-tips">Speed Drills & Accuracy</a></li>
+        <li><a href="/categories/exam-rules">All Exam Guidelines</a></li>
+        <li><a href="/categories/hardware">Mechanical Keyboards</a></li>
+        <li><a href="/about">About TypingWire</a></li>
+        <li><a href="/contact">Contact Support</a></li>
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Service</a></li>
+        <li><a href="/disclaimer">Exam Disclaimer</a></li>
+      </ul>
     </div>
+  </div>
+
+  <div class="footer-bottom">
+    &copy; {currentYear} TypingWire. All rights reserved.
   </div>
 </footer>
 
 <style>
-  .site-footer {
+  footer {
+    background-color: var(--colors-surface-soft);
     border-top: 1px solid var(--colors-hairline);
-    background-color: #fafafa;
-    margin-top: 6rem;
-    padding: 4rem 0 2.5rem;
+    padding: var(--spacing-section) var(--spacing-md) var(--spacing-lg);
+    margin-top: auto;
   }
 
-  .footer-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 4rem;
-    padding-bottom: 3.5rem;
-    border-bottom: 1px solid var(--colors-hairline);
+  .footer-container {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-xl);
   }
 
-  .footer-brand {
-    max-width: 320px;
-  }
-
-  .brand-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    color: var(--colors-primary);
+  .footer-info h3 {
+    margin-top: 0;
+    margin-bottom: var(--spacing-sm);
+    font-size: 20px;
     font-weight: 700;
-    font-size: 16px;
-    letter-spacing: -0.3px;
-    margin-bottom: 0.75rem;
   }
 
-  .footer-logo {
-    border-radius: var(--rounded-sm);
-    object-fit: cover;
-  }
-
-  .brand-tagline {
-    font-size: 13.5px;
+  .footer-info p {
     color: var(--colors-muted-text);
-    line-height: 1.55;
-    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: var(--spacing-md);
   }
 
-  .footer-nav-grid {
-    display: flex;
-    gap: 4.5rem;
-  }
-
-  .nav-group {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .group-title {
-    font-size: 12px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+  .footer-info a {
     color: var(--colors-primary);
-    margin-bottom: 1rem;
+    font-weight: 600;
+    text-decoration: underline;
   }
 
-  .nav-group ul {
+  .en-desc {
+    opacity: 0.85;
+  }
+
+  .footer-links h4 {
+    margin-top: 0;
+    margin-bottom: var(--spacing-sm);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--colors-primary);
+  }
+
+  .footer-links ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 0.65rem;
+    gap: var(--spacing-xs);
   }
 
-  .nav-group a {
-    font-size: 13.5px;
+  .footer-links a {
     color: var(--colors-muted-text);
+    font-size: 14px;
+    text-decoration: none;
     transition: color 0.15s ease;
   }
 
-  .nav-group a:hover {
+  .footer-links a:hover {
     color: var(--colors-primary);
   }
 
   .footer-bottom {
-    padding-top: 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-size: 12.5px;
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--colors-hairline);
+    text-align: center;
     color: var(--colors-muted-text);
-  }
-
-  .copyright {
-    margin: 0;
-    font-size: 12.5px;
-  }
-
-  .legal-links {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-  }
-
-  .legal-links a {
-    color: var(--colors-muted-text);
-    transition: color 0.15s ease;
-  }
-
-  .legal-links a:hover {
-    color: var(--colors-primary);
-  }
-
-  .dot {
-    color: var(--colors-hairline);
+    font-size: 13px;
   }
 
   @media (max-width: 768px) {
-    .footer-top {
-      flex-direction: column;
-      gap: 2.5rem;
-    }
-    .footer-nav-grid {
-      gap: 3rem;
-      flex-wrap: wrap;
-    }
-    .footer-bottom {
-      flex-direction: column;
-      gap: 1rem;
-      align-items: flex-start;
+    .footer-container {
+      grid-template-columns: 1fr;
+      gap: var(--spacing-lg);
     }
   }
 </style>

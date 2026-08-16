@@ -1,23 +1,23 @@
 /* ==========================================================================
-   Editorial / Modern Swiss Minimalist Design System
-   TypingWire Blog
+   TypingWire Editorial / Modern Swiss Minimalist Design System
+   Exact Design Architecture as blog.typingnexus.in
    ========================================================================== */
 
 :root {
-  /* Core Base Colors (High Contrast Minimalist) */
+  /* Base Colors (High Contrast Minimalist) */
   --colors-primary: #000000;
   --colors-on-primary: #ffffff;
   --colors-canvas: #ffffff;
   --colors-inverse-canvas: #000000;
-  
-  /* Surfaces and Hairlines (Subtle Neutral Grays) */
+
+  /* Surfaces & Hairlines */
   --colors-surface-soft: #f5f5f7;
   --colors-hairline: #e5e7eb;
   --colors-hairline-soft: #f3f4f6;
   --colors-muted-text: #6b7280;
   --colors-body-text: #1f2937;
 
-  /* Semantic Status */
+  /* Semantic */
   --colors-semantic-success: #0f8b44;
   --colors-semantic-error: #991b1b;
 
@@ -34,17 +34,20 @@
   --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-section: 64px;
+
   /* Border Radii */
   --rounded-xs: 2px;
   --rounded-sm: 6px;
   --rounded-md: 8px;
   --rounded-lg: 24px;
   --rounded-pill: 50px;
-
-  /* Shadows */
-  --shadow-subtle: 0 2px 10px rgba(0, 0, 0, 0.04);
-  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.06);
-  --shadow-float: 0 12px 32px rgba(0, 0, 0, 0.08);
 
   /* Containers */
   --container-max: 1160px;
@@ -94,14 +97,14 @@ img {
   width: 100%;
   max-width: var(--container-max);
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 var(--spacing-md);
 }
 
 .prose-container {
   width: 100%;
   max-width: var(--container-prose);
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 var(--spacing-md);
 }
 
 /* ==========================================================================
@@ -117,7 +120,7 @@ img {
 }
 
 .display-lg {
-  font-size: clamp(38px, 4.5vw, 64px);
+  font-size: clamp(36px, 4.5vw, 64px);
   font-weight: 340;
   letter-spacing: -0.96px;
   line-height: 1.1;
@@ -132,22 +135,37 @@ img {
 }
 
 .card-title {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 1.4;
   letter-spacing: -0.2px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--colors-primary);
-  font-weight: 700;
-  line-height: 1.25;
-  letter-spacing: -0.02em;
 }
 
-p {
-  color: var(--colors-body-text);
-  line-height: 1.7;
+.body-lg {
+  font-size: 18px;
+  line-height: 1.65;
+  color: var(--colors-muted-text);
+}
+
+.body {
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--colors-muted-text);
+}
+
+.caption {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--colors-muted-text);
 }
 
 /* ==========================================================================
@@ -206,38 +224,87 @@ p {
    Badges
    ========================================================================== */
 
-.post-card-badge,
-.badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
+.post-card-badge {
   background: rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(8px);
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   color: var(--colors-primary);
-  padding: 4px 12px;
+  padding: 4px 10px;
   font-family: var(--font-mono);
   font-size: 11px;
   font-weight: 600;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
   border-radius: var(--rounded-pill);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
-  letter-spacing: 0.05em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Category Accent Badges */
-.badge-mint { background-color: var(--colors-block-mint); border-color: #bbf7e6; }
-.badge-lilac { background-color: var(--colors-block-lilac); border-color: #d8b4fe; }
-.badge-cream { background-color: var(--colors-block-cream); border-color: #fef08a; }
-.badge-lime { background-color: var(--colors-block-lime); border-color: #bef264; }
-.badge-coral { background-color: var(--colors-block-coral); border-color: #fecdd3; }
-.badge-pink { background-color: var(--colors-block-pink); border-color: #fbcfe8; }
-
 /* ==========================================================================
-   Data Tables (Swiss Minimalist)
+   Color Blocks
    ========================================================================== */
 
-.article-content table,
+.color-block {
+  padding: var(--spacing-section) var(--spacing-md);
+}
+
+.color-block-lilac {
+  background-color: var(--colors-block-lilac);
+}
+
+.color-block-mint {
+  background-color: var(--colors-block-mint);
+}
+
+.color-block-navy {
+  background-color: var(--colors-block-navy);
+  color: var(--colors-on-primary);
+}
+
+.color-block-navy .display-lg,
+.color-block-navy .eyebrow,
+.color-block-navy h2 {
+  color: var(--colors-on-primary);
+}
+
+.color-block-navy p,
+.color-block-navy .body {
+  color: #94a3b8;
+}
+
+.color-block-navy .button-secondary {
+  color: var(--colors-on-primary);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.color-block-navy .button-secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: var(--colors-on-primary);
+}
+
+.block-content {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.block-content .eyebrow {
+  margin-bottom: var(--spacing-md);
+  display: block;
+}
+
+.block-content h2 {
+  margin-bottom: var(--spacing-md);
+}
+
+.block-content p {
+  margin-bottom: var(--spacing-xl);
+}
+
+/* ==========================================================================
+   Data Tables
+   ========================================================================== */
+
 table {
   width: 100%;
   border-collapse: separate;
@@ -246,38 +313,31 @@ table {
   border-radius: var(--rounded-md);
   overflow: hidden;
   margin: 2rem 0;
-  font-size: 14.5px;
 }
 
-.article-content th,
 th {
   background-color: var(--colors-surface-soft);
-  color: var(--colors-primary);
   padding: 12px 16px;
   font-weight: 600;
   text-align: left;
   border-bottom: 2px solid var(--colors-hairline);
 }
 
-.article-content td,
 td {
   padding: 12px 16px;
   border-bottom: 1px solid var(--colors-hairline-soft);
-  color: var(--colors-body-text);
 }
 
-.article-content tbody tr:nth-child(even),
 tbody tr:nth-child(even) {
-  background-color: rgba(245, 245, 247, 0.5);
+  background-color: rgba(245, 245, 247, 0.45);
 }
 
-.article-content tbody tr:hover,
 tbody tr:hover {
   background-color: var(--colors-surface-soft);
 }
 
 /* ==========================================================================
-   Article / Prose Typography
+   Article / Markdown Content
    ========================================================================== */
 
 .article-content {
@@ -324,10 +384,8 @@ tbody tr:hover {
   margin: 2rem 0;
   border-radius: 0 var(--rounded-md) var(--rounded-md) 0;
   font-style: italic;
-  color: #3f3f46;
 }
 
-/* Code */
 code {
   font-family: var(--font-mono);
   font-size: 13.5px;

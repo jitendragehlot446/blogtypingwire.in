@@ -8,143 +8,143 @@ interface Props {
   slug: string;
   category?: string;
   tags?: string[];
-  featured?: boolean;
+  heroImage?: string;
+  imageAlt?: string;
 }
 
-const { title, description, pubDate, slug, category = 'General', tags = [], featured = false } = Astro.props;
+const {
+  title,
+  description,
+  pubDate,
+  slug,
+  category = 'Exam Rules',
+  heroImage,
+  imageAlt = title,
+} = Astro.props;
 
-// Assign pastel badge classes based on category
-const getBadgeClass = (cat: string) => {
+// Placeholder images tailored for typing topics if heroImage not provided
+const getPlaceholderImage = (cat: string) => {
   const c = cat.toLowerCase();
-  if (c.includes('tips') || c.includes('speed')) return 'badge-mint';
-  if (c.includes('exam') || c.includes('rule')) return 'badge-lilac';
-  if (c.includes('hardware') || c.includes('keyboard')) return 'badge-cream';
-  return 'badge-lime';
+  if (c.includes('speed') || c.includes('tips')) {
+    return 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80';
+  }
+  if (c.includes('hardware') || c.includes('keyboard')) {
+    return 'https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80';
+  }
+  return 'https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80';
 };
+
+const displayImage = heroImage || getPlaceholderImage(category);
 ---
 
-<article class={`editorial-card ${featured ? 'card-featured' : ''}`}>
-  <div class="card-top">
-    <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class={`post-card-badge ${getBadgeClass(category)}`}>
-      {category}
-    </a>
-    <span class="card-date">
-      <FormattedDate date={pubDate} />
-    </span>
-  </div>
-
-  <h3 class="card-title">
-    <a href={`/blog/${slug}`}>{title}</a>
-  </h3>
-
-  <p class="card-description">
-    {description}
-  </p>
-
-  <div class="card-bottom">
-    <div class="card-tags">
-      {tags.slice(0, 2).map((t) => (
-        <span class="tag-item">#{t}</span>
-      ))}
+<article class="post-card">
+  <a href={`/blog/${slug}`}>
+    <div class="post-card-image-container">
+      <img src={displayImage} alt={imageAlt} loading="lazy" decoding="async" width="720" height="360" />
+      <span class="post-card-badge">{category}</span>
     </div>
-
-    <a href={`/blog/${slug}`} class="read-link">
-      <span>Read Article</span>
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M5 12h14M12 5l7 7-7 7"/>
-      </svg>
-    </a>
-  </div>
+    <div class="post-card-body">
+      <h3 class="card-title">{title}</h3>
+      <p class="post-card-desc">{description}</p>
+      <span class="caption date">
+        <FormattedDate date={pubDate} />
+      </span>
+    </div>
+  </a>
 </article>
 
 <style>
-  .editorial-card {
-    display: flex;
-    flex-direction: column;
-    padding: 2rem;
-    height: 100%;
+  .post-card {
     background-color: var(--colors-canvas);
     border: 1px solid var(--colors-hairline);
     border-radius: var(--rounded-lg);
-    box-shadow: var(--shadow-subtle);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-  }
-
-  .editorial-card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-float);
-    border-color: #cbd5e1;
-  }
-
-  .card-featured {
-    background-color: var(--colors-surface-soft);
-    border-color: #d1d5db;
-  }
-
-  .card-top {
+    overflow: hidden;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 1.25rem;
+    flex-direction: column;
+    transition: transform 0.2s ease, border-color 0.2s ease;
   }
 
-  .card-date {
-    font-family: var(--font-mono);
-    font-size: 12px;
-    color: var(--colors-muted-text);
+  .post-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--colors-primary);
   }
 
-  .card-title {
-    margin-top: 0;
-    margin-bottom: 0.75rem;
+  .post-card a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
 
-  .card-title a {
+  .post-card-image-container {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    border-bottom: 1px solid var(--colors-hairline);
+    background-color: var(--colors-surface-soft);
+  }
+
+  .post-card-image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .post-card:hover .post-card-image-container img {
+    transform: scale(1.03);
+  }
+
+  .post-card-badge {
+    position: absolute;
+    top: var(--spacing-sm);
+    left: var(--spacing-sm);
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.4);
     color: var(--colors-primary);
-    transition: color 0.15s ease;
+    padding: 4px 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    border-radius: var(--rounded-pill);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 2;
   }
 
-  .card-title a:hover {
-    color: #4b5563;
-  }
-
-  .card-description {
-    color: var(--colors-body-text);
-    font-size: 15px;
-    line-height: 1.6;
-    margin-bottom: 1.75rem;
+  .post-card-body {
+    padding: var(--spacing-lg);
+    display: flex;
+    flex-direction: column;
     flex: 1;
   }
 
-  .card-bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border-top: 1px solid var(--colors-hairline);
-    padding-top: 1.25rem;
+  .post-card-body h3 {
+    margin-top: 0;
+    margin-bottom: var(--spacing-xs);
+    font-size: 18.5px;
+    line-height: 1.4;
   }
 
-  .card-tags {
-    display: flex;
-    gap: 0.5rem;
-  }
-
-  .tag-item {
-    font-family: var(--font-mono);
-    font-size: 11.5px;
+  .post-card-desc {
+    font-size: 14px;
     color: var(--colors-muted-text);
+    line-height: 1.55;
+    margin-bottom: var(--spacing-md);
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
-  .read-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
-    font-size: 13.5px;
-    font-weight: 600;
-    color: var(--colors-primary);
-  }
-
-  .read-link:hover {
-    gap: 0.55rem;
+  .post-card-body .date {
+    margin-top: auto;
   }
 </style>

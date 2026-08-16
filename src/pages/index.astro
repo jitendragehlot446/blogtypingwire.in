@@ -7,88 +7,96 @@ const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-const featuredPost = posts.find((post) => post.data.featured) || posts[0];
-const regularPosts = posts.filter((post) => post.id !== featuredPost?.id);
-
-const categories = [
-  { name: 'All', slug: '/' },
-  { name: 'Speed Drills', slug: '/categories/typing-tips' },
-  { name: 'Exam Guidelines', slug: '/categories/exam-rules' },
-  { name: 'Hardware', slug: '/categories/hardware' },
+const marqueeExams = [
+  'SSC CHSL', 'RRB NTPC', 'SSC CGL', 'UP POLICE ASI', 'DELHI POLICE HC',
+  'HIGH COURT LDC', 'DSSSB LDC', 'RSMSSB LDC', 'ARMY CLERK', 'CISF HC',
+  'BSF HC', 'CRPF ASI', 'PATNA HIGH COURT', 'ALLAHABAD HIGH COURT', 'BOMBAY HIGH COURT',
+  'GUJARAT HIGH COURT', 'MP HIGH COURT AG-3', 'CHHATTISGARH HC'
 ];
 ---
 
 <BaseLayout
   title="TypingWire Blog - Official Exam Rules, Typing Guidelines & Speed Drills | TypingWire.in"
-  description="Official examination rules & guidelines subdomain of TypingWire.in. Verified evaluation formulas, Full vs Half mistake rules for SSC CGL, CHSL, High Court, Steno, and touch-typing drills."
+  description="The official examination rules and speed training portal of TypingWire.in. Master speed, accuracy, and mistake calculation formulas for SSC CGL, CHSL, High Courts, DSSSB, and Steno exams."
 >
   <!-- Hero Section -->
-  <section class="hero-section">
-    <div class="container">
-      <div class="hero-label">
-        <span class="post-card-badge badge-mint">OFFICIAL SUBDOMAIN OF TYPINGWIRE.IN</span>
-        <span class="edition-tag">EXAM RULES & SPEED PORTAL</span>
-      </div>
-
-      <h1 class="display-xl hero-headline">
-        Government Typing Exam Rules, <br />
-        Evaluation Guidelines & Speed Drills.
-      </h1>
-
-      <p class="hero-subtext">
-        This portal is the official knowledge and examination rules subdomain of <strong><a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="link-highlight">TypingWire.in</a></strong>. Here we publish verified government typing test guidelines, full mistake vs half mistake error calculation formulas (SSC CGL, CHSL, High Court, Steno, DSSSB, RRB), accuracy drills, and keyboard mechanics to help you rank and pass your typing skill tests.
-      </p>
-
-      <!-- Category Navigation Pills -->
-      <div class="category-filters">
-        {categories.map((cat, i) => (
-          <a href={cat.slug} class={`cat-pill ${i === 0 ? 'active' : ''}`}>
-            {cat.name}
-          </a>
-        ))}
-      </div>
+  <section class="hero">
+    <span class="eyebrow">Introducing TypingWire Blog</span>
+    <h1 class="sr-only">TypingWire Blog</h1>
+    <div class="display-xl hero-title">Type faster. Pass exams.</div>
+    <p class="body-lg">
+      The ultimate online knowledge and practice portal for Indian government typing examinations. Master speed, accuracy, and error evaluation formulas for SSC CHSL, CGL, High Courts, DSSSB, and State Exams on <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" style="color:var(--colors-primary); text-decoration:underline;">TypingWire.in</a>.
+    </p>
+    <div class="cta-buttons">
+      <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">Try a mock test</a>
+      <a href="/categories/exam-rules" class="button-secondary">Read Guides</a>
     </div>
   </section>
 
-  <!-- Content Section -->
-  <section class="content-section">
+  <!-- Animated Marquee Strip -->
+  <div class="marquee-strip">
+    <div class="marquee-content">
+      {marqueeExams.map((exam) => (
+        <>
+          <span class="marquee-item">{exam}</span>
+          <span class="marquee-item">·</span>
+        </>
+      ))}
+      {marqueeExams.map((exam) => (
+        <>
+          <span class="marquee-item">{exam}</span>
+          <span class="marquee-item">·</span>
+        </>
+      ))}
+    </div>
+  </div>
+
+  <main>
+    <!-- Lilac Block: Layout Ergonomics -->
+    <section class="color-block color-block-lilac">
+      <div class="block-content">
+        <span class="eyebrow">Layout Ergonomics</span>
+        <h2 class="display-lg">Ergonomic keymaps.</h2>
+        <p class="body">
+          Learn how scientific touch-typing posture and home-row anchors reduce finger travel distance by up to 60%, preventing repetitive strain injuries (RSI) while boosting speed past 80+ WPM.
+        </p>
+        <a href="/categories/typing-tips" class="button-primary">Learn Speed Drills</a>
+      </div>
+    </section>
+
+    <!-- Mint Block: Exam Preparation -->
+    <section class="color-block color-block-mint">
+      <div class="block-content">
+        <span class="eyebrow">Exam Preparation</span>
+        <h2 class="display-lg">Exact exam simulations.</h2>
+        <p class="body">
+          Practice on interfaces that exactly mirror exams like SSC CGL DEST, CHSL, DSSSB, Supreme Court JCA, and High Court LDC. Configure custom settings including Remington Gail, Inscript, or Krutidev, with disabled backspace options.
+        </p>
+        <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">Try exam simulations</a>
+      </div>
+    </section>
+
+    <!-- Navy Block (Dark): Performance Metrics -->
+    <section class="color-block color-block-navy">
+      <div class="block-content">
+        <span class="eyebrow">Performance Metrics</span>
+        <h2 class="display-lg">Analyze your mistakes.</h2>
+        <p class="body">
+          Track your typing speed (WPM) and accuracy in real-time. TypingWire maps your errors and highlights specific bottleneck keys and mistyped combinations to help you optimize your speed for competitive exams.
+        </p>
+        <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-secondary">Analyze your typing</a>
+      </div>
+    </section>
+
+    <!-- Recent Posts Grid (White Canvas) -->
     <div class="container">
-      {featuredPost && (
-        <div class="featured-block">
-          <div class="block-header">
-            <span class="section-kicker">FEATURED INSIGHT</span>
-          </div>
-          <BlogCard
-            title={featuredPost.data.title}
-            description={featuredPost.data.description}
-            pubDate={featuredPost.data.pubDate}
-            slug={featuredPost.id}
-            category={featuredPost.data.category}
-            tags={featuredPost.data.tags}
-            featured={true}
-          />
-        </div>
-      )}
+      <section class="section-heading">
+        <h2 class="headline">Recent Blog Posts</h2>
+        <a href="/categories/exam-rules">View all posts &rarr;</a>
+      </section>
 
-      <!-- Pastel Mock Test CTA Card (Mint Block) -->
-      <div class="mint-cta-block">
-        <div class="cta-inner">
-          <span class="post-card-badge" style="background:#ffffff;">FREE TOOL</span>
-          <h2 class="headline cta-title">Test Your Live WPM & Accuracy in 60 Seconds</h2>
-          <p class="cta-desc">Instant error breakdown, live keystroke velocity, and certificate generation.</p>
-          <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">
-            Start Live Test →
-          </a>
-        </div>
-      </div>
-
-      <div class="section-title-row">
-        <h2 class="headline">Recent Publications</h2>
-        <span class="count-badge">{posts.length} Guides Available</span>
-      </div>
-
-      <div class="editorial-grid">
-        {regularPosts.map((post) => (
+      <section class="posts-grid">
+        {posts.map((post) => (
           <BlogCard
             title={post.data.title}
             description={post.data.description}
@@ -96,150 +104,138 @@ const categories = [
             slug={post.id}
             category={post.data.category}
             tags={post.data.tags}
+            heroImage={post.data.heroImage}
+            imageAlt={post.data.imageAlt}
           />
         ))}
-      </div>
+      </section>
     </div>
-  </section>
+  </main>
 </BaseLayout>
 
 <style>
-  .hero-section {
-    padding: 5rem 0 3.5rem;
-    border-bottom: 1px solid var(--colors-hairline);
+  .hero {
+    text-align: center;
+    padding: var(--spacing-section) var(--spacing-md) calc(var(--spacing-section) * 1.5);
     background-color: var(--colors-canvas);
   }
 
-  .hero-label {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .edition-tag {
-    font-family: var(--font-mono);
-    font-size: 11px;
-    color: var(--colors-muted-text);
-    letter-spacing: 0.05em;
-  }
-
-  .hero-headline {
-    margin-bottom: 1.5rem;
-  }
-
-  .hero-subtext {
-    font-size: 17.5px;
-    color: var(--colors-muted-text);
-    max-width: 780px;
-    line-height: 1.7;
-    margin-bottom: 2.5rem;
-  }
-
-  .link-highlight {
+  .hero .eyebrow {
     color: var(--colors-primary);
-    text-decoration: underline;
-    text-underline-offset: 3px;
+    margin-bottom: var(--spacing-md);
+    display: block;
   }
 
-  .category-filters {
+  .hero h1,
+  .hero .hero-title {
+    margin-bottom: var(--spacing-lg);
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero p {
+    color: var(--colors-primary);
+    max-width: 680px;
+    margin: 0 auto var(--spacing-xl);
+  }
+
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-md);
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+
+  /* Marquee Strip */
+  .marquee-strip {
+    background-color: var(--colors-inverse-canvas);
+    color: var(--colors-on-primary);
+    height: 48px;
+    overflow: hidden;
     display: flex;
     align-items: center;
-    gap: 0.6rem;
-    flex-wrap: wrap;
+    white-space: nowrap;
+    border-top: 1px solid var(--colors-primary);
+    border-bottom: 1px solid var(--colors-primary);
   }
 
-  .cat-pill {
-    padding: 7px 18px;
-    border-radius: var(--rounded-pill);
-    font-size: 13.5px;
+  .marquee-content {
+    display: inline-flex;
+    animation: marquee 30s linear infinite;
+    gap: var(--spacing-xl);
+    padding-left: var(--spacing-xl);
+  }
+
+  .marquee-item {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
     font-weight: 500;
-    color: var(--colors-body-text);
-    background-color: var(--colors-surface-soft);
-    border: 1px solid var(--colors-hairline);
-    transition: all 0.15s ease;
   }
 
-  .cat-pill:hover,
-  .cat-pill.active {
-    background-color: var(--colors-primary);
-    color: var(--colors-on-primary);
-    border-color: var(--colors-primary);
-  }
-
-  /* Content Section */
-  .content-section {
-    padding: 4rem 0 6rem;
-  }
-
-  .featured-block {
-    margin-bottom: 3.5rem;
-  }
-
-  .block-header {
-    margin-bottom: 1rem;
-  }
-
-  .section-kicker {
-    font-family: var(--font-mono);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    color: var(--colors-muted-text);
-  }
-
-  /* Pastel Mint CTA Block */
-  .mint-cta-block {
-    background-color: var(--colors-block-mint);
-    border: 1px solid #bbf7e6;
-    border-radius: var(--rounded-lg);
-    padding: 3rem 2.5rem;
-    margin-bottom: 4rem;
-  }
-
-  .cta-inner {
-    max-width: 620px;
-  }
-
-  .cta-title {
-    margin: 1rem 0 0.5rem;
-    color: #064e3b;
-    font-weight: 700;
-  }
-
-  .cta-desc {
-    color: #047857;
-    font-size: 16px;
-    margin-bottom: 1.5rem;
-  }
-
-  .section-title-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    margin-bottom: 2rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid var(--colors-hairline);
-  }
-
-  .count-badge {
-    font-family: var(--font-mono);
-    font-size: 12px;
-    color: var(--colors-muted-text);
-  }
-
-  .editorial-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-    gap: 2rem;
-  }
-
-  @media (max-width: 768px) {
-    .hero-section {
-      padding: 3.5rem 0 2.5rem;
+  @keyframes marquee {
+    0% {
+      transform: translate(0);
     }
-    .mint-cta-block {
-      padding: 2rem 1.5rem;
+    100% {
+      transform: translate(-50%);
+    }
+  }
+
+  /* Section Heading */
+  .section-heading {
+    margin-top: var(--spacing-section);
+    margin-bottom: var(--spacing-xl);
+    border-bottom: 1px solid var(--colors-hairline);
+    padding-bottom: var(--spacing-sm);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .section-heading h2 {
+    margin-bottom: 0;
+  }
+
+  .section-heading a {
+    font-family: var(--font-sans);
+    font-size: 16px;
+    font-weight: 540;
+    text-decoration: none;
+    color: var(--colors-primary);
+  }
+
+  .section-heading a:hover {
+    text-decoration: underline;
+  }
+
+  /* 3-Column Posts Grid */
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-section);
+  }
+
+  @media (max-width: 960px) {
+    .posts-grid {
+      grid-template-columns: 1fr;
+    }
+    .cta-buttons {
+      flex-direction: column;
+      align-items: center;
     }
   }
 </style>
