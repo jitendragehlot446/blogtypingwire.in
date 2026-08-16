@@ -1,85 +1,43 @@
-# 🚀 TypingWire Blog Portal (Astro v5)
+# 🚀 TypingWire Blog Portal (`blog.typingwire.in`)
 
-An ultra-fast, SEO-engineered static blog portal built with **Astro v5**, **Markdown Content Collections**, and **Automated Schema & Sitemap generators**.
-
-Target URL: `https://blog.typingwire.in`  
-GitHub Repository: `https://github.com/jitendragehlot446/blogtypingwire.in.git`
+> **Official Examination Rules & Speed Training Subdomain of [TypingWire.in](https://typingwire.in)**  
+> Built with **Astro v5**, **Markdown Content Collections**, **Schema.org SEO Engine**, and **Swiss Minimalist Clean White Theme**.
 
 ---
 
-## ⚡ Key Features
-
-* 🚀 **100/100 Google PageSpeed Score**: Pure static HTML generation with zero runtime JS overhead.
-* 📝 **Markdown / MDX Publishing**: Simply create `.md` files in `src/content/blog/` to publish.
-* 🤖 **SEO & AI Bot Ready**:
-  * Automated XML Sitemaps (`sitemap-index.xml`, `sitemap.xml`)
-  * Schema.org Structured Data (`BlogPosting`, `FAQPage`, `BreadcrumbList`)
-  * AI Crawler permissions in `robots.txt` (`GPTBot`, `ClaudeBot`, `PerplexityBot`)
-  * Contextual `llms.txt` for AI search engines
-* 🎨 **Modern TypingWire Theme**: Clean glassmorphism cards, responsive tables, interactive FAQ accordions, and tag filtering.
-* 🌐 **Cloudflare Pages / Vercel Ready**: Connect with GitHub for automatic 30-second builds on every push.
+## 📌 Quick Links
+* 🌐 **Live Website**: [https://blog.typingwire.in](https://blog.typingwire.in)
+* 💻 **Main Platform**: [https://typingwire.in](https://typingwire.in)
+* 🐙 **GitHub Repository**: [jitendragehlot446/blogtypingwire.in](https://github.com/jitendragehlot446/blogtypingwire.in)
+* 🤖 **AI Agent & Developer Guide**: See [AGENTS.md](AGENTS.md) for full architecture, secrets, and workflow details.
 
 ---
 
-## 🛠️ Local Development
+## ⚡ Key Highlights
+* 🏎️ **100/100 Google PageSpeed**: Pure Static HTML generated with Astro v5.
+* 🤖 **SEO & AI Bot Ready**: Automated XML Sitemaps (`sitemap.xml`), `llms.txt`, and Schema.org rich snippets (`BlogPosting`, `FAQPage`, `BreadcrumbList`).
+* 🎨 **Editorial / Swiss Minimalist Design**: Clean white canvas (`#ffffff`), Apple-style surfaces (`#f5f5f7`), pastel CTA blocks (`#d2fff2`), and `Inter` + `JetBrains Mono` typography.
+* 🚀 **Continuous Deployment**: Push to `main` $\rightarrow$ Vercel automatically deploys within 20-30 seconds.
+
+---
+
+## 🛠️ Local Development Commands
 
 ```bash
 # 1. Install dependencies
 npm install
 
-# 2. Run local development server
+# 2. Start local development server (http://localhost:4321)
 npm run dev
 
-# 3. Build static production files
+# 3. Build static production bundle
 npm run build
 
-# 4. Preview local build
+# 4. Preview build locally
 npm run preview
-```
 
----
-
-## ✍️ How to Publish a New Blog Post
-
-Create a new `.md` file inside `src/content/blog/` (e.g. `src/content/blog/my-new-article.md`):
-
-```markdown
----
-title: "Your High-Ranking Article Title"
-description: "A compelling 150-character summary for Google search snippets."
-pubDate: 2026-08-16
-category: "Typing Tips"
-tags: ["typing", "wpm", "speed"]
-author: "TypingWire Team"
-featured: false
-faqs:
-  - question: "Your Question Here?"
-    answer: "Detailed answer for Google FAQ rich snippets."
----
-
-## 1. Introduction
-Write your article content here in Markdown...
-```
-
----
-
-## 🚀 Deployment to Vercel (Free & Instant)
-
-### Option A: Via Vercel Dashboard (Recommended)
-1. Go to [Vercel Dashboard](https://vercel.com/new).
-2. Click **Import** next to `jitendragehlot446/blogtypingwire.in`.
-3. Vercel automatically detects the **Astro** framework preset.
-4. Click **Deploy** (site goes live in ~30 seconds).
-5. Go to **Settings** $\rightarrow$ **Domains** $\rightarrow$ Add `blog.typingwire.in`.
-6. Add this **CNAME Record** in your DNS:
-   - **Type**: `CNAME`
-   - **Name**: `blog`
-   - **Target**: `cname.vercel-dns.com`
-
----
-
-### Option B: Via Terminal (Vercel CLI)
-```bash
-npx vercel
-# Follow prompts to link and deploy!
+# 5. Push updates to GitHub & Live Website
+git add .
+git commit -m "your commit message"
+git push origin main
 ```
