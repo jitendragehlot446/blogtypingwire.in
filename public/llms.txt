@@ -49,7 +49,22 @@
 - [NTA Typing Test Rules: EMRS JSA, IGNOU JAT & CSIR](https://blog.typingwire.in/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs.
 - [KVS, CBSE, BHU & DDA JSA Typing Test Rules](https://blog.typingwire.in/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/): 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes.
 
+- [Allahabad High Court Group C Junior Assistant Typing Rules](https://blog.typingwire.in/blog/allahabad-high-court-group-c-junior-assistant-typing-rules/): Hindi 25 WPM (Mangal Inscript/Remington) + English 30 WPM 50-mark pattern.
+- [SSC Typing Test Exemption Rules & Medical Certificate](https://blog.typingwire.in/blog/ssc-typing-test-exemption-rules-medical-certificate-format/): Complete guide to PwD DEST exemption, CMO Civil Surgeon certificate format.
+- [CISF & CRPF HCM Typing Test Ground Reality Experience](https://blog.typingwire.in/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/): Real exam hall experience, paper-to-screen typing, 10-word penalty and survival tips.
+
+## 🚆 Railway & Educational Institutes
+- [RRB NTPC Typing Test (CBTST) Rules 2026](https://blog.typingwire.in/blog/rrb-ntpc-cbtst-typing-skill-test-rules/): 30 WPM English / 25 WPM Hindi, 5% error limit, 10-word penalty formula and software interface rules.
+- [Official RRB NTPC CBTST Clause 13.5 Breakdown](https://blog.typingwire.in/blog/official-rrb-ntpc-cbtst-guidelines-cen-notification-rules/): Clause 13.5 notification guidelines, speed conversion, and mistake formula.
+- [AIIMS CRE Junior Administrative Assistant Typing Rules](https://blog.typingwire.in/blog/aiims-cre-junior-admin-assistant-typing-rules/): 35 WPM English or 30 WPM Hindi (10-minute test), stroke penalty formula and qualifying criteria.
+- [NTA Typing Test Rules: EMRS JSA, IGNOU JAT & CSIR](https://blog.typingwire.in/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs.
+- [KVS, CBSE, BHU & DDA JSA Typing Test Rules](https://blog.typingwire.in/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/): 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes.
+
 ## ⌨️ Technical Tutorials, Drills & Hardware
+- [English Typing Test Practice Passages (300 to 500 Words)](https://blog.typingwire.in/blog/english-typing-test-passages-practice-300-500-words/): Real exam paragraphs for SSC, High Courts, and Police exams.
+- [How to Increase Hindi Typing Speed: 30-Day Blueprint](https://blog.typingwire.in/blog/how-to-increase-hindi-typing-speed-mangal-krutidev/): Step-by-step drills to jump from 15 to 40+ WPM in Mangal and KrutiDev.
+- [Touch Typing Rules & Finger Placement Chart](https://blog.typingwire.in/blog/touch-typing-home-row-rules-finger-placement-chart/): Master home row blind typing and muscle memory for govt exams.
+- [TVS Gold Keyboard for Typing Test: Review & Exam Rules](https://blog.typingwire.in/blog/tvs-gold-keyboard-typing-test-review-guide/): Is mechanical keyboard mandatory vs TCS iON membrane keyboards.
 - [Hindi Typing Layouts Guide: Mangal Inscript vs Remington Gail vs KrutiDev 010](https://blog.typingwire.in/blog/hindi-typing-exams-mangal-remington-inscript-guide/): Keymaps, alt codes, Unicode vs non-Unicode, and exam compatibility matrix.
 - [KDPH to WPM Speed Calculation Formula Guide](https://blog.typingwire.in/blog/kdph-to-wpm-speed-calculation-formula-guide/): Exact mathematical formulas for Gross Speed, Net Speed, and accuracy deduction.
 - [10 Proven Tips to Increase Typing Speed to 80+ WPM](https://blog.typingwire.in/blog/10-tips-to-increase-typing-speed/): Home-row anchor technique, n-gram combinations, and ergonomics.
