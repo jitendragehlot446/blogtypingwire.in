@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["patna high court", "cpt rules", "ms word formatting", "excel test", "high court cpt", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Patna High Court CPT and typing test notification guidelines"
 faqs:
   - question: "What is tested in Patna High Court Assistant CPT?"

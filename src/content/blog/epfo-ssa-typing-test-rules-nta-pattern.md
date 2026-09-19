@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["epfo ssa typing", "epfo typing test", "nta typing software", "social security assistant", "35 wpm english", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "EPFO SSA Social Security Assistant typing test rules and NTA software pattern"
 faqs:
   - question: "What is the typing speed requirement for EPFO SSA?"

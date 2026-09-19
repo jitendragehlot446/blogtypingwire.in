@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bombay high court", "bhc clerk", "marathi typing", "clerk typist", "gcc-tbc", "high court typing"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Bombay High Court Clerk Typist typing test rules"
 faqs:
   - question: "What is the typing speed requirement for Bombay High Court Clerk Typist?"

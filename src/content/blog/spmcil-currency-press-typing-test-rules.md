@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["spmcil typing test", "currency note press typing speed", "bank note press typing rules", "spmcil joa skill test", "psu typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SPMCIL Junior Office Assistant typing test speed requirements and guidelines"
 faqs:
   - question: "What is the speed requirement for SPMCIL Junior Office Assistant (JOA) typing test?"

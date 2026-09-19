@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rrb ntpc", "cbtst rules", "railway notification", "cen ntpc", "5 percent formula"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Official RRB NTPC CEN typing test notification rules and formula"
 faqs:
   - question: "What does Clause 13.5 of RRB NTPC CEN Notification state?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["delhi high court", "dhc jja", "35 wpm typing", "3 percent error", "delhi judicial", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Delhi High Court JJA typing test notification rules"
 faqs:
   - question: "What is the speed requirement for Delhi High Court JJA typing test?"

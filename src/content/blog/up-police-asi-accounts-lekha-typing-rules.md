@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["up police asi accounts typing test", "up police lekha typing speed", "up police asi inscript typing", "up police typing rules", "police accounts typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "UP Police ASI Accounts Lekha typing test speed rules"
 faqs:
   - question: "What is the typing speed required for UP Police ASI (Accounts / Lekha)?"

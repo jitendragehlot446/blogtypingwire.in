@@ -6,6 +6,7 @@ category: "Typing Tips"
 tags: ["typing speed", "touch typing", "wpm", "productivity"]
 author: "TypingWire Team"
 featured: true
+heroImage: "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Hands typing efficiently on a modern mechanical keyboard"
 faqs:
   - question: "How long does it take to go from 30 WPM to 60 WPM?"

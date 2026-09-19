@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["dsssb stenographer typing test", "dsssb steno shorthand speed", "delhi stenographer typing rules", "dsssb junior steno exam", "shorthand transcription rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "DSSSB Stenographer shorthand and computer typing test guidelines"
 faqs:
   - question: "What is the shorthand speed required for DSSSB Stenographer?"

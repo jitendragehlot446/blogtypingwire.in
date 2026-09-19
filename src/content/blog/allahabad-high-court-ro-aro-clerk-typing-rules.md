@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["allahabad high court", "ro aro", "ahc clerk", "nta typing", "50 marks typing", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Allahabad High Court RO ARO typing test rules"
 faqs:
   - question: "What is the speed requirement for Allahabad High Court RO/ARO?"

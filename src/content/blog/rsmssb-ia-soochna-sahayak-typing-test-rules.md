@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rsmssb ia typing", "soochna sahayak typing", "informatics assistant", "rajasthan ia typing rules", "krutidev devlys mangal", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Rajasthan RSMSSB Informatics Assistant IA Soochna Sahayak typing test rules"
 faqs:
   - question: "What is the typing speed requirement for RSMSSB Informatics Assistant (IA)?"

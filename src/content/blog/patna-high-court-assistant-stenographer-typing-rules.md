@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["patna high court", "phc assistant", "steno", "cpt", "typing test", "patna typing tips"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Patna High Court Assistant typing test rules and CPT syllabus"
 faqs:
   - question: "What is the typing speed requirement for Patna High Court Assistant?"

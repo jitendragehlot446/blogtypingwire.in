@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["uttarakhand high court typing test", "uk high court clerk typing speed", "nainital high court typing rules", "high court junior assistant typing", "court typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Uttarakhand High Court Nainital clerk typing test guidelines"
 faqs:
   - question: "What is the speed requirement for Uttarakhand High Court Clerk typing test?"

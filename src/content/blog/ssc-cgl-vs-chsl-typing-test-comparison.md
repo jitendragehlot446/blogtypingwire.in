@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc cgl vs chsl", "cgl dest", "chsl typing test", "ssc typing comparison", "error cutoff", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Comparison between SSC CGL DEST and SSC CHSL typing test rules"
 faqs:
   - question: "Which typing test is harder: SSC CGL DEST or SSC CHSL?"

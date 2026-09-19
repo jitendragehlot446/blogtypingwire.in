@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssb hcm typing test", "ssb head constable ministerial typing speed", "ssb clerk skill test rules", "ssb typing test online", "paramilitary typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSB Head Constable Ministerial HCM typing test speed requirements and guidelines"
 faqs:
   - question: "What is the speed requirement for SSB HCM typing test?"

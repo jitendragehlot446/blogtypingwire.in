@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["jharkhand high court", "jhc clerk", "jhc assistant", "dso typing", "mangal remington", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Jharkhand High Court typing test rules"
 faqs:
   - question: "What is the typing speed requirement for Jharkhand High Court Clerk / Assistant?"

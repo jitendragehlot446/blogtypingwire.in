@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["itbp hcm typing test", "itbp head constable ministerial typing speed", "itbp clerk skill test rules", "itbp typing test online", "paramilitary typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "ITBP Head Constable Ministerial HCM typing test speed requirements and guidelines"
 faqs:
   - question: "What is the speed requirement for ITBP HCM typing test?"

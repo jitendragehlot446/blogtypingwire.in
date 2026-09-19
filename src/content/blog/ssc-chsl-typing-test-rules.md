@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc chsl", "typing test", "ldc typing", "deo", "dest"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC CHSL typing test guidelines and computer keyboard"
 faqs:
   - question: "What is the speed requirement for SSC CHSL LDC/JSA?"

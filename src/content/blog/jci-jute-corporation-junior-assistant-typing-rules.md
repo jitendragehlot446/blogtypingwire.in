@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["jci junior assistant typing test", "jute corporation typing speed", "jci clerk typing rules", "jci typing test online", "psu typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Jute Corporation of India JCI Junior Assistant typing test speed requirements"
 faqs:
   - question: "What is the speed requirement for JCI Junior Assistant typing test?"

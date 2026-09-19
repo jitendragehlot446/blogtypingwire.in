@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["typing test passages", "english typing paragraph", "300 words passage", "500 words passage", "ssc typing paragraph", "practice test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?w=720&auto=format&fit=crop&q=80"
 imageAlt: "English typing test practice passages and paragraphs for government exams"
 faqs:
   - question: "How many words are there in a standard government exam typing test passage?"

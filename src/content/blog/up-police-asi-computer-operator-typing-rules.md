@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["up police typing", "computer operator", "up police asi", "mangal inscript", "85 percent accuracy", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "UP Police ASI and Computer Operator typing test rules"
 faqs:
   - question: "What is the speed requirement for UP Police Computer Operator & ASI?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["mp high court", "mphc ag3", "assistant grade 3", "remington gail", "cpct", "mp typing test"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
 imageAlt: "MP High Court AG-3 typing test notification rules"
 faqs:
   - question: "What is the speed requirement for MP High Court Assistant Grade-3 (AG-3)?"

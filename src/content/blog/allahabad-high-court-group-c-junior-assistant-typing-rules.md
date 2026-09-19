@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["allahabad high court group c", "ahc junior assistant", "paid apprentice typing", "mangal inscript", "50 marks typing", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Allahabad High Court Group C Junior Assistant and Paid Apprentice typing test rules"
 faqs:
   - question: "Are both Hindi and English typing tests compulsory in Allahabad High Court Group C?"

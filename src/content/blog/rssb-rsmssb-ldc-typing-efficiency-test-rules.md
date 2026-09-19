@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rssb ldc", "rsmssb clerk typing", "efficiency test", "devlys 010", "100 marks typing", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "RSSB RSMSSB LDC typing test and efficiency test rules"
 faqs:
   - question: "What is the Phase-II pattern in RSSB / RSMSSB LDC Clerk Grade-II?"

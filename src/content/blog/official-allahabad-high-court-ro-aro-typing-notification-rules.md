@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["allahabad high court", "ro aro notification", "50 marks typing", "nta guidelines", "high court rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Allahabad High Court RO ARO official notification typing rules"
 faqs:
   - question: "What does Clause 3 of Allahabad High Court RO/ARO notification state regarding typing?"

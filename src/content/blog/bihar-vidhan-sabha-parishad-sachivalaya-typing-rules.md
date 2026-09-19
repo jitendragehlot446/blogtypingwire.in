@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bihar vidhan sabha typing test", "bihar vidhan parishad deo typing", "bihar sachivalaya typing speed", "mangal remington bihar typing", "assembly clerk typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Bihar Vidhan Sabha and Parishad DEO typing test speed requirements"
 faqs:
   - question: "What is the speed requirement for Bihar Vidhan Sabha & Parishad DEO?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["upsssc junior assistant", "upsssc typing test", "25 wpm hindi", "30 wpm english", "mangal krutidev", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "UPSSSC Junior Assistant typing test rules"
 faqs:
   - question: "Are both Hindi and English typing tests compulsory in UPSSSC Junior Assistant?"

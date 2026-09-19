@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["jssc inter level typing test", "jssc clerk typing speed", "jharkhand typing test krutidev", "jckcce typing test rules", "jssc typist exam"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "JSSC Inter Level clerk typing test speed rules and 2 percent error limit"
 faqs:
   - question: "What is the speed requirement for JSSC Inter Level Hindi typing test?"

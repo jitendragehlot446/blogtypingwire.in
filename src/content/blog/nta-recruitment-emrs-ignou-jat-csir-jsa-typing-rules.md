@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["nta typing test", "emrs jsa typing", "ignou jat typing", "csir jsa", "nta typing software", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?w=720&auto=format&fit=crop&q=80"
 imageAlt: "NTA typing test rules for EMRS JSA IGNOU JAT CSIR"
 faqs:
   - question: "What is the typing speed required for EMRS JSA in NTA typing test?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["mp police asi typing test", "mp police ldc typing speed", "madhya pradesh police clerk typing", "cpct score card mp police", "police typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "MP Police ASI and LDC typing test rules and CPCT requirements"
 faqs:
   - question: "Is MP CPCT scorecard mandatory for MP Police ASI & LDC recruitment?"

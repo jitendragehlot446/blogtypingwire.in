@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc cgl", "dest", "typing test", "exam rules", "error calculation"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC CGL DEST Typing test evaluation and speed formula"
 faqs:
   - question: "What is the qualifying speed for SSC CGL DEST?"

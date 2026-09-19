@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc selection post", "phase typing test", "kdph rules", "data entry operator", "ssc skill test", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC Selection Post Phase typing test rules"
 faqs:
   - question: "What are the speed requirements in SSC Selection Post Phase examinations?"

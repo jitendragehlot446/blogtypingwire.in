@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["hindi typing passages", "hindi typing practice paragraph", "mangal font paragraph", "krutidev practice text", "300 words hindi passage", "typing tips"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Hindi typing test practice passages and paragraphs for government exams"
 faqs:
   - question: "How many words are there in a standard government Hindi typing test?"

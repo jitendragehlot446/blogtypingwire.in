@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc steno", "stenographer grade c", "stenographer grade d", "shorthand test", "ssc exam rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC Stenographer Grade C and D skill test evaluation"
 faqs:
   - question: "What is the dictation speed in SSC Stenographer Grade C & D?"

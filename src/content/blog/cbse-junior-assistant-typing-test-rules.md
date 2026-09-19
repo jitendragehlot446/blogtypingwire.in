@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["cbse junior assistant typing test", "cbse clerk typing speed", "cbse non teaching typing rules", "central board typing test", "cbse jsa typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "CBSE Junior Assistant typing test speed rules and guidelines"
 faqs:
   - question: "What is the typing speed requirement for CBSE Junior Assistant?"

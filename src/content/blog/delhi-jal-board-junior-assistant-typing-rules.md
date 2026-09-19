@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["delhi jal board typing test", "djb junior assistant typing speed", "delhi jal board clerk typing", "dsssb djb typing rules", "delhi govt typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Delhi Jal Board DJB Junior Assistant typing test speed requirements"
 faqs:
   - question: "What is the typing speed requirement for Delhi Jal Board Junior Assistant?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["dsssb delhi district court jja typing test", "delhi jja typing speed", "district court junior judicial assistant typing", "dsssb court typing rules", "court typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=720&auto=format&fit=crop&q=80"
 imageAlt: "DSSSB Delhi District Court JJA typing test speed rules"
 faqs:
   - question: "What is the speed requirement for DSSSB Delhi District Court JJA typing test?"

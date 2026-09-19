@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["psssb clerk typing", "punjabi typing raavi font", "asees layout", "punjab clerk typing test", "30 wpm punjabi", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Punjab PSSSB Clerk typing test rules in Punjabi Raavi font and English"
 faqs:
   - question: "What is the typing speed required for Punjab PSSSB Clerk?"

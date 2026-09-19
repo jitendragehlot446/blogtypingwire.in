@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["kdph to wpm", "speed calculation", "net speed formula", "typing formulas", "dest"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "KDPH to WPM typing test speed calculator formula"
 faqs:
   - question: "How many key depressions make 1 word in typing exams?"

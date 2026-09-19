@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["crpf hcm typing", "cisf hcm typing", "bsf hcm", "paramilitary typing", "10 word penalty", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "BSF CISF CRPF Head Constable Ministerial typing test rules"
 faqs:
   - question: "What is the typing speed requirement for BSF, CISF, and CRPF HCM?"

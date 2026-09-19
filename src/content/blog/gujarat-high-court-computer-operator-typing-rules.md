@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["gujarat high court", "computer operator", "gujarati typing", "ghc steno", "indic input", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Gujarat High Court Computer Operator typing test rules"
 faqs:
   - question: "What is the speed requirement for Gujarat High Court Computer Operator?"

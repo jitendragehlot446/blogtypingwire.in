@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["hp high court clerk", "himachal high court typing", "proof reader", "30 wpm english", "hphc typing rules", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Himachal Pradesh High Court Clerk and Proof Reader typing test rules"
 faqs:
   - question: "What is the typing speed requirement for HP High Court Clerk / Proof Reader?"

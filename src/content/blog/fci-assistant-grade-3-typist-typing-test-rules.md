@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["fci typist typing test", "fci assistant grade 3 typing speed", "fci hindi typist rules", "food corporation typing test", "psu typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "FCI Assistant Grade-III Hindi Typist typing test speed requirements and rules"
 faqs:
   - question: "What is the typing speed requirement for FCI Assistant Grade-III Typist?"

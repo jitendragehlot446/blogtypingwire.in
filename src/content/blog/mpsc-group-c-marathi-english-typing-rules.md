@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["mpsc group c", "clerk typist", "marathi typing", "gcc-tbc", "mpsc typing test", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "MPSC Group C Clerk Typist typing test rules"
 faqs:
   - question: "What is the typing speed requirement for MPSC Group C Clerk Typist?"

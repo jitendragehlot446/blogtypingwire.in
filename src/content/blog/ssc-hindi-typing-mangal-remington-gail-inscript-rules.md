@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc hindi typing test", "ssc hindi typing", "mangal font", "remington gail", "inscript layout", "cbi layout", "ssc typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC Hindi typing test keyboard layout comparison"
 faqs:
   - question: "Which font is used for Hindi typing in SSC CGL & CHSL?"

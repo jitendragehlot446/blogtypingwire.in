@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["nta central university typing test", "visva bharati typing test rules", "mgcu clerk typing speed", "nta non teaching typing", "university jsa typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "NTA Central Universities non-teaching typing test guidelines"
 faqs:
   - question: "What is the speed requirement for NTA Central Universities typing test?"

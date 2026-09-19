@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["hand shivering typing test", "typing test nervousness", "exam hall anxiety", "how to stop trembling fingers", "typing fear", "typing tips"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "How to stop hand shivering and overcome anxiety during government typing tests"
 faqs:
   - question: "Why do my hands and fingers shake during the typing test?"

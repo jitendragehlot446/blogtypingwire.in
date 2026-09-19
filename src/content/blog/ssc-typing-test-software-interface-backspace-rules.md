@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc software interface", "tcs ion typing", "backspace rules", "mock typing test", "ssc dest software", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC typing test software interface layout and backspace rules"
 faqs:
   - question: "Is Backspace allowed in the SSC typing test software?"

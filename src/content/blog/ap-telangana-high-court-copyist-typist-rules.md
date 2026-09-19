@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ap high court typist copyist typing test", "telangana high court typing speed", "judicial ministerial services typing", "court copyist typing rules", "court typing test 45 wpm"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "AP and Telangana High Court Typist and Copyist typing test guidelines"
 faqs:
   - question: "What is the typing speed requirement for AP and Telangana High Court Typist / Copyist?"

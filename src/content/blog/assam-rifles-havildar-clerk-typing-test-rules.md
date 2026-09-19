@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["assam rifles havildar clerk typing test", "assam rifles clerk typing speed", "assam rifles rally typing rules", "assam rifles skill test", "defence clerk typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Assam Rifles Havildar Clerk typing test speed requirements and rally guidelines"
 faqs:
   - question: "What is the speed requirement for Assam Rifles Havildar Clerk typing test?"

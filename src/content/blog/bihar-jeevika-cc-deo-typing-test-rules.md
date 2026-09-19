@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bihar jeevika typing test", "brlps deo typing speed", "jeevika cc typing rules", "bihar typing test online", "brlps computer test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Bihar Jeevika CC and DEO typing test speed requirements and rules"
 faqs:
   - question: "What is the typing speed requirement for Bihar Jeevika DEO / CC?"

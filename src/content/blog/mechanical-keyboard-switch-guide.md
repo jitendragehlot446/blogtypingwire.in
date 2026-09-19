@@ -6,6 +6,7 @@ category: "Hardware"
 tags: ["mechanical keyboard", "switches", "cherry mx", "gateron", "hardware"]
 author: "TypingWire Lab"
 featured: false
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Comparison of mechanical keyboard switches Red Brown Blue"
 faqs:
   - question: "Which switch is best for office typing?"

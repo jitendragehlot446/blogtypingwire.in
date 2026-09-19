@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rrb ntpc typing test", "rrb ntpc english typing test", "rrb ntpc hindi typing test", "cbtst typing test", "railway typing speed", "krutidev typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?w=720&auto=format&fit=crop&q=80"
 imageAlt: "RRB NTPC CBTST typing test rules and 5% error formula"
 faqs:
   - question: "What is the qualifying speed for RRB NTPC CBTST?"

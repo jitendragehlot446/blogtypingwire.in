@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["wbpsc clerkship", "ossc typing", "jkssb junior assistant", "bengali typing", "state typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "WBPSC Clerkship and OSSC typing test rules"
 faqs:
   - question: "What is the typing speed required for WBPSC Clerkship Part-II?"

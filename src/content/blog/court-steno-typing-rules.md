@@ -6,6 +6,7 @@ category: "Exam Rules"
 tags: ["ssc cgl", "high court", "typing rules", "error calculation", "hindi typing"]
 author: "TypingWire Editorial Team"
 featured: true
+heroImage: "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Typing exam answer sheet and speed calculator"
 faqs:
   - question: "What counts as a Full Mistake in typing exams?"

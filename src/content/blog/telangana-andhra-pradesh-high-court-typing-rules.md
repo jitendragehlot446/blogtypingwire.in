@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["telangana high court", "ap high court", "typist salary", "copyist", "45 wpm english", "judicial typing"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Telangana and Andhra Pradesh High Court typing test rules and salary"
 faqs:
   - question: "What is the typing speed required for Telangana High Court Typist?"

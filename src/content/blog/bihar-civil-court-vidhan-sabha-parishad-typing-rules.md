@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bihar civil court", "court reader", "vidhan sabha", "vidhan parishad", "bihar typing", "patna civil court"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Bihar Civil Court and Vidhan Sabha typing test rules"
 faqs:
   - question: "What is the speed requirement for Bihar Civil Court Court Reader?"

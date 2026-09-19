@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["krutidev alt codes", "hindi typing alt code list", "devlys 010 alt code", "mangal alt codes", "hindi typing chart", "typing tips"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Complete Hindi typing Alt codes list and shortcut chart for KrutiDev 010 and DevLys"
 faqs:
   - question: "How do I type Alt codes on a computer keyboard?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rajasthan high court", "rhc ldc notification", "100 marks typing", "krutidev 010", "efficiency test rules", "jja typing"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Rajasthan High Court LDC and JJA official typing test notification scheme"
 faqs:
   - question: "What is the official 100-mark scheme in Rajasthan High Court LDC/JJA?"

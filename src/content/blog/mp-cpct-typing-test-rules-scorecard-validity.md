@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["mp cpct typing", "cpct scorecard validity", "cpct qualifying speed", "remington gail", "mp patwari typing", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Madhya Pradesh MP CPCT typing test rules, speed cutoffs, and scorecard validity"
 faqs:
   - question: "What is the qualifying speed for Hindi typing in MP CPCT?"

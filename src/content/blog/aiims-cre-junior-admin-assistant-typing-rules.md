@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["aiims cre typing", "junior administrative assistant", "aiims jaa", "aiims typing rules", "stroke penalty", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=720&auto=format&fit=crop&q=80"
 imageAlt: "AIIMS CRE Junior Administrative Assistant typing test rules"
 faqs:
   - question: "What is the speed requirement for AIIMS CRE Junior Administrative Assistant (JAA)?"

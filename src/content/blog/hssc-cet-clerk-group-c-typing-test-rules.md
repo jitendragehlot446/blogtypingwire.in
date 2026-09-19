@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["hssc clerk typing test", "haryana cet group c", "hssc steno", "haryana typing rules", "25 wpm hindi", "30 wpm english"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Haryana HSSC CET Group C Clerk typing test rules"
 faqs:
   - question: "What is the speed requirement for Haryana HSSC Clerk typing test?"

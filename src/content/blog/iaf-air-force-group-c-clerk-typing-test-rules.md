@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["air force group c typing test", "iaf ldc typing speed", "air force civilian typing test", "iaf clerk typing rules", "defence typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1519074069444-1ba4fff16def?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Indian Air Force Group C civilian typing test speed criteria"
 faqs:
   - question: "What is the typing speed required for Air Force Group C LDC / Typist?"

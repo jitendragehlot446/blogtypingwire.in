@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["dda jsa typing test", "dda clerk typing speed", "delhi development authority typing", "dda jsa skill test", "dda aso typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Delhi Development Authority DDA JSA typing test speed guidelines"
 faqs:
   - question: "What is the qualifying typing speed for DDA JSA?"

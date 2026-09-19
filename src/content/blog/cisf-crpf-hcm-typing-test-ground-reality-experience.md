@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["cisf hcm experience", "crpf hcm ground reality", "paramilitary typing test", "paper to screen typing", "typing experience", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?w=720&auto=format&fit=crop&q=80"
 imageAlt: "CISF and CRPF HCM typing test ground reality and student exam hall experience"
 faqs:
   - question: "Is CISF HCM typing test conducted from paper or on-screen text?"

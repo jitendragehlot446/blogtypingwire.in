@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["csir jsa typing test", "csir clerk typing speed", "council of scientific research typing", "csir typing test rules", "jsa skill test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "CSIR Junior Secretariat Assistant JSA typing test speed requirements and guidelines"
 faqs:
   - question: "What is the speed requirement for CSIR JSA typing test?"

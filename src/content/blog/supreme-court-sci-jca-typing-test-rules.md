@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["supreme court typing", "sci jca", "35 wpm english", "3 percent error", "court typing test", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Supreme Court of India Junior Court Assistant typing test rules"
 faqs:
   - question: "What is the speed requirement for Supreme Court Junior Court Assistant (JCA)?"

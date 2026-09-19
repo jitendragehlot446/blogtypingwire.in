@@ -6,7 +6,7 @@ category: "Typing Tips"
 tags: ["touch typing", "home row rules", "finger placement chart", "blind typing", "typing rules", "typing tips"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Touch typing finger placement chart and home row keyboard rules"
 faqs:
   - question: "What is the Home Row in touch typing?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bihar police bpssc steno asi typing test", "bpssc steno asi typing speed", "bihar police steno typing rules", "bpssc hindi typing mangal", "police steno typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Bihar Police BPSSC Steno ASI typing test speed criteria and guidelines"
 faqs:
   - question: "What is the typing speed requirement for Bihar Police BPSSC Steno ASI?"

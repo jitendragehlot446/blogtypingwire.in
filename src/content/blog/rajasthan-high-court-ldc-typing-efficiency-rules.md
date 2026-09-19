@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["rajasthan high court", "rhc ldc", "efficiency test", "krutidev", "ms word test"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Rajasthan High Court LDC typing and efficiency test pattern"
 faqs:
   - question: "Which font is used for Hindi typing in Rajasthan High Court LDC?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["chandigarh clerk typing test", "chandigarh administration typing speed", "clerk typing test 30 wpm", "chandigarh clerk skill test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Chandigarh Administration clerk typing test speed guidelines and rules"
 faqs:
   - question: "What is the speed requirement for Chandigarh Administration Clerk typing test?"

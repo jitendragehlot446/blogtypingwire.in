@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["dsssb typing test", "dsssb ldc", "junior assistant", "dsssb jja", "mangal font", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?w=720&auto=format&fit=crop&q=80"
 imageAlt: "DSSSB LDC and Junior Assistant typing test rules"
 faqs:
   - question: "What is the typing speed required for DSSSB Junior Assistant / LDC?"

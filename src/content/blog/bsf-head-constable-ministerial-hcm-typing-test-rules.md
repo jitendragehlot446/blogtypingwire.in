@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bsf hcm typing test", "bsf head constable ministerial typing speed", "bsf hcm skill test rules", "bsf asi steno typing", "paramilitary typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=720&auto=format&fit=crop&q=80"
 imageAlt: "BSF Head Constable Ministerial HCM typing test speed requirements and rules"
 faqs:
   - question: "What is the speed requirement for BSF HCM typing test?"

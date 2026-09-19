@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["uppsc ro aro typing test", "uppsc aro typing speed", "krutidev 010 hindi typing", "uppsc aps typing test", "up sachivalaya typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "UPPSC RO ARO and APS typing test guidelines and speed rules"
 faqs:
   - question: "Is typing test mandatory for both RO and ARO in UPPSC?"

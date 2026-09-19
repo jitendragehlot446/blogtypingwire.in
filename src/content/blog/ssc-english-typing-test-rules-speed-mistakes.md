@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc english typing test", "ssc english typing", "ssc cgl typing speed", "ssc chsl english typing", "ssc typing mistakes allowed", "dest exam rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=720&auto=format&fit=crop&q=80"
 imageAlt: "SSC English typing test speed requirements and mistake calculation chart"
 faqs:
   - question: "What is the qualifying speed for SSC English typing test?"

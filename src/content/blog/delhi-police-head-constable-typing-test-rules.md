@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["delhi police hcm", "head constable ministerial", "25 marks typing", "ssc delhi police", "typing speed marks", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Delhi Police Head Constable Ministerial typing test rules"
 faqs:
   - question: "What is the speed requirement for Delhi Police Head Constable (Ministerial)?"

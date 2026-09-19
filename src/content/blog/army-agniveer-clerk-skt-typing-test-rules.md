@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["army agniveer clerk typing test", "indian army clerk typing speed", "agniveer skt typing rules", "army typing test online", "defence typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Indian Army Agniveer Clerk typing test speed requirements and rules"
 faqs:
   - question: "Is typing test mandatory for Indian Army Agniveer Clerk / SKT?"

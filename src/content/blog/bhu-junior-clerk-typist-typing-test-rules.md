@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["bhu junior clerk typing test", "banaras hindu university typing speed", "bhu non teaching typing rules", "nta bhu clerk typing", "university typing test"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1562774053-701939374585?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Banaras Hindu University BHU Junior Clerk typing test speed criteria"
 faqs:
   - question: "What is the speed requirement for BHU Junior Clerk typing test?"

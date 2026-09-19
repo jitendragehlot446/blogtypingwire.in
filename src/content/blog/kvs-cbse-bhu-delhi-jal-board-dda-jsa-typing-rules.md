@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["kvs jsa typing", "dda jsa", "cbse clerk typing", "delhi jal board", "bhu clerk", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "KVS CBSE DDA JSA typing test rules"
 faqs:
   - question: "What is the typing speed requirement for KVS Junior Secretariat Assistant (JSA)?"

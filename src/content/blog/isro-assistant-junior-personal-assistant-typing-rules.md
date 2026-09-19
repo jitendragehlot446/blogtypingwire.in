@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["isro assistant typing test", "isro jpa typing speed", "isro clerk skill test rules", "isro icrb typing test", "space research assistant typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1517976487502-5731c30e1ef4?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=720&auto=format&fit=crop&q=80"
 imageAlt: "ISRO Assistant and JPA typing test speed criteria and ICRB guidelines"
 faqs:
   - question: "What is the speed requirement for ISRO Assistant typing test?"

@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ukpsc ro aro", "uksssc typing", "ukpsc aps", "mangal font", "uttarakhand typing", "4000 kdph"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1595225476474-87563907a212?w=720&auto=format&fit=crop&q=80"
 imageAlt: "UKPSC and UKSSSC RO ARO typing test rules"
 faqs:
   - question: "What is the speed requirement for UKPSC RO/ARO typing test?"

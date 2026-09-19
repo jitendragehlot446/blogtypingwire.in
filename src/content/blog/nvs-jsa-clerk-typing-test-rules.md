@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["nvs jsa typing test", "navodaya clerk typing test", "nvs typing speed", "nvs jsa skill test", "school clerk typing"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Navodaya Vidyalaya Samiti JSA typing test speed and rules"
 faqs:
   - question: "What is the speed requirement for NVS JSA typing test?"

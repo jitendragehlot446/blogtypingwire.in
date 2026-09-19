@@ -6,7 +6,7 @@ category: "Exam Rules"
 tags: ["ssc mistake calculation", "full vs half mistake", "ssc typing annexure", "dest evaluation formula", "ssc error percentage", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Official SSC typing test full and half mistake evaluation guidelines"
 faqs:
   - question: "What counts as a Full Mistake in SSC typing evaluation?"
