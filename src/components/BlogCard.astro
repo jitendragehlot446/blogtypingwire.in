@@ -48,7 +48,7 @@ const displayImage = optimizeImage(rawImage);
 ---
 
 <article class="post-card">
-  <a href={`/blog/${slug}`}>
+  <a href={`/blog/${slug}`} data-astro-prefetch="hover">
     <div class="post-card-image-container">
       <img src={displayImage} alt={imageAlt} loading="lazy" decoding="async" width="480" height="240" />
       <span class="post-card-badge">{category}</span>

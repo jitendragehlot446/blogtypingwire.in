@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://blog.typingwire.in',
   prefetch: {
     prefetchAll: true,
-    defaultStrategy: 'viewport',
+    defaultStrategy: 'hover',
   },
   integrations: [
     mdx(),
