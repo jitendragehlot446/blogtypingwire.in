@@ -1,6 +1,6 @@
 ---
-title: "Telangana & Andhra Pradesh High Court Typing Rules: Judicial Ministerial & Typist Pattern"
-description: "Everything you need to know about Telangana High Court (TGHC) and Andhra Pradesh High Court (APHC) Typist, Copyist, and Junior Assistant computer typing test rules (40-45 WPM English)."
+title: "Telangana High Court Typist Typing Test 2026: Speed, Salary, Marks & Rules"
+description: "Telangana and Andhra Pradesh High Court Typist & Copyist typing test rules. 45 WPM English speed test, pay scale, salary structure and exam syllabus."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["telangana high court", "andhra pradesh high court", "typist copyist", "judicial ministerial", "court typing"]

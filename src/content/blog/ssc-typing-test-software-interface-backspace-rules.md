@@ -1,6 +1,6 @@
 ---
-title: "SSC Typing Test Software Interface: Mock Test, Backspace & Arrow Key Rules Explained"
-description: "A complete guide to the official SSC Computer-Based Typing Test software interface, 10-minute mock warmup, 3-minute break, active backspace editing, and scrolling mechanics."
+title: "SSC Typing Test Software Interface 2026: Backspace, Auto-Scroll & Highlighting Rules"
+description: "SSC typing test software interface walkthrough. Split-screen layout, mock test session, backspace functionality, auto-scrolling and live timer behavior."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc typing interface", "backspace rules", "mock typing", "ssc cgl dest", "tcs ion typing"]

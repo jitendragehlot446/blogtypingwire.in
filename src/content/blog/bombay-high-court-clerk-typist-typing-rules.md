@@ -1,6 +1,6 @@
 ---
-title: "Bombay High Court Clerk Typist Typing Test Rules: English (40 WPM) & Marathi (30 WPM)"
-description: "Complete guide to Bombay High Court Clerk, Typist, and Stenographer typing test pattern, 20-mark evaluation scheme, and Marathi vs English speed rules."
+title: "Bombay High Court Typing Test 2026: Clerk Typist English (40 WPM) & Marathi (30 WPM)"
+description: "Bombay High Court Clerk Typist Typing Test 2026 rules. Speed requirements (English 40 WPM / Marathi 30 WPM), syllabus, and qualifying cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["bombay high court", "bhc clerk", "marathi typing", "typing rules", "court typing"]

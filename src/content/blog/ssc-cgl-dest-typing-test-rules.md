@@ -1,6 +1,6 @@
 ---
-title: "SSC CGL DEST Typing Test Rules 2026: Speed, Mistakes Allowed & Cutoff Marks"
-description: "Complete guide to SSC CGL Data Entry Speed Test (DEST), speed requirement (2000 KDPH / 27 WPM), category-wise error cutoff (UR 5%, OBC/EWS 7%), and Hindi vs English rules."
+title: "SSC CGL Typing Test 2026: Speed (27 WPM), Mistakes Allowed & Cutoff Marks"
+description: "SSC CGL Typing Test (DEST) 2026 complete guide. Qualifying speed (2000 KD / 27 WPM), category-wise error cutoff (UR 5%, OBC 7%), backspace rules and Hindi vs English guidelines."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc cgl", "dest", "typing test", "exam rules", "error calculation"]

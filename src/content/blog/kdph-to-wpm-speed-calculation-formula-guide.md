@@ -1,6 +1,6 @@
 ---
-title: "KDPH to WPM Converter: Exact Speed & Mistake Calculation Formula for Typing Exams"
-description: "How to convert Key Depressions Per Hour (KDPH) to Words Per Minute (WPM), calculate Gross vs Net Speed, and compute mistake penalties in SSC and Court exams."
+title: "KDPH to WPM Typing Speed Calculator 2026: Exact Conversion Formula for Exams"
+description: "Convert KDPH to WPM easily for SSC, High Court and State typing tests. Exact 5-keystroke conversion formula, net speed calculator and mistake deduction methods."
 pubDate: 2026-08-16
 category: "Typing Tips"
 tags: ["kdph to wpm", "speed calculation", "net speed formula", "typing formulas", "dest"]

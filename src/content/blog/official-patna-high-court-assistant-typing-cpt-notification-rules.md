@@ -1,6 +1,6 @@
 ---
-title: "Official Patna High Court Assistant Typing Rules: Notification CPT & Speed Standards"
-description: "A complete breakdown of the official Patna High Court (PHC) Assistant (Group-B) and Stenographer notification guidelines for computer typing (40 WPM English / 30 WPM Hindi) and CPT."
+title: "Patna High Court CPT & Typing Test Rules: MS Word & Excel Formatting Guidelines"
+description: "Official Patna High Court Assistant Computer Proficiency Test (CPT) and typing test rules. 40 WPM English & 30 WPM Hindi speed standards."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["patna high court", "phc assistant notification", "cpt rules", "high court typing", "english typing"]

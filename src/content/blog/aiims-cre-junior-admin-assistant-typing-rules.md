@@ -1,6 +1,6 @@
 ---
-title: "AIIMS CRE Typing Test Rules: 15-Min Speed, Stroke Deduction & 50-Key Penalty Formula"
-description: "Everything you need to know about AIIMS Common Recruitment Examination (CRE) Junior Administrative Assistant (JAA) typing test, 2625 key depressions in 15 minutes, and stroke deduction formula."
+title: "AIIMS CRE Typing Test 2026: Junior Admin Assistant (JAA) Speed & Cutoff Rules"
+description: "AIIMS CRE Typing Test 2026 for Junior Administrative Assistant. 35 WPM English or 30 WPM Hindi (10-minute test), stroke penalty formula and qualifying criteria."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["aiims cre", "aiims jaa", "stroke deduction", "typing test", "typing rules"]

@@ -1,6 +1,6 @@
 ---
-title: "Bihar Beltron DEO & BSSC 2nd Inter Level Typing Test Rules: Speed, Font & Pattern"
-description: "Comprehensive guide to Bihar Beltron Data Entry Operator (DEO), BSSC 2nd Inter Level Clerk, and Bihar Jeevika typing test rules in Hindi (Mangal Remington/Inscript) and English (30/35 WPM)."
+title: "Bihar Beltron DEO & BSSC Typing Test 2026: Hindi Mangal & English Speed Rules"
+description: "Bihar Beltron DEO & BSSC 2nd Inter Level Typing Test 2026 complete rules. Hindi Mangal Remington Gail (30 WPM), English (35 WPM) and passing cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["bihar beltron", "bssc inter level", "bihar typing", "mangal font", "deo"]

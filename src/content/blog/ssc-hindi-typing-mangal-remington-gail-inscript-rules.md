@@ -1,6 +1,6 @@
 ---
-title: "SSC Hindi Typing Test Rules: Mangal Inscript vs Remington Gail vs CBI Layout"
-description: "Everything you need to know about Hindi typing options in SSC CGL, CHSL, and Steno tests, keyboard layout selection (Inscript, Remington Gail, Remington CBI), and font settings."
+title: "SSC Hindi Typing Test Rules 2026: Mangal Inscript vs Remington Gail vs CBI Layout"
+description: "SSC Hindi typing test complete guide. 30 WPM speed, Mangal Unicode font, Inscript vs Remington Gail keyboard layout comparison and practice tips."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc hindi typing", "mangal inscript", "remington gail", "cbi layout", "ssc exam rules"]

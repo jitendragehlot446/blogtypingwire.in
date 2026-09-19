@@ -1,6 +1,6 @@
 ---
-title: "Official SSC Typing Evaluation Guidelines: Annexure Manual for Full & Half Mistakes"
-description: "The authoritative evaluation scheme released by the Staff Selection Commission (SSC) detailing official Full Mistake vs Half Mistake penalties for CGL DEST, CHSL, and Steno exams."
+title: "SSC Typing Test Mistakes Allowed: Official Full vs Half Mistake Guidelines"
+description: "Official Staff Selection Commission (SSC) typing test evaluation guidelines. Comprehensive manual for full mistakes, half mistakes and net speed calculation."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc evaluation manual", "full mistake", "half mistake", "ssc cgl dest", "ssc chsl typing"]

@@ -1,6 +1,6 @@
 ---
-title: "Official MP High Court AG-3 Typing Rules: 100-Mark Main Exam Notification Scheme"
-description: "Clause-by-clause analysis of Madhya Pradesh High Court (MPHC Jabalpur) Assistant Grade-3 (AG-3) and Stenographer Main Examination typing rules (100 Marks Scheme, KrutiDev 010 & English)."
+title: "MP High Court AG-3 Typing Test 2026: Assistant Grade 3 Speed, Remington Gail & Marks"
+description: "MP High Court Assistant Grade-3 (AG-3) typing test notification scheme. 30 WPM Hindi (Remington Gail, 350 words in 10 mins) and 40 WPM English."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["mp high court", "mphc ag3", "assistant grade 3", "krutidev 010", "high court notification"]

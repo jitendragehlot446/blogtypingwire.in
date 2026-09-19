@@ -1,6 +1,6 @@
 ---
-title: "Official State LDC Typing Rules: RSSB, UPSSSC, BSSC & High Court Notification Comparison"
-description: "State-by-state official notification comparison of Lower Division Clerk (LDC) and Junior Assistant typing tests in Rajasthan (RSSB/RHC), Uttar Pradesh (UPSSSC), and Bihar (BSSC/Beltron)."
+title: "State LDC Typing Test Comparison: Rajasthan RSSB vs UPSSSC vs BSSC vs High Court"
+description: "Comparative breakdown of State LDC typing test rules across Rajasthan RSSB, UPSSSC, Bihar BSSC and High Courts. Speed, fonts and marking differences."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["state ldc typing", "rssb ldc", "upsssc junior assistant", "bssc clerk", "state exam rules"]

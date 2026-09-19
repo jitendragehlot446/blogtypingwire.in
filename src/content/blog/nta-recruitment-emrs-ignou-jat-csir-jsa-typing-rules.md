@@ -1,6 +1,6 @@
 ---
-title: "NTA Typing Test Rules: EMRS JSA, IGNOU JAT, CSIR JSA & Central Universities"
-description: "A complete guide to National Testing Agency (NTA) computer typing skill tests for EMRS JSA, IGNOU Junior Assistant cum Typist (JAT), CSIR JSA, and Central University non-teaching posts."
+title: "NTA Recruitment Typing Test 2026: EMRS JSA, IGNOU JAT & CSIR Speed Rules"
+description: "NTA Typing Test 2026 rules for EMRS JSA, IGNOU JAT and CSIR JSA. 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["nta typing", "emrs jsa", "ignou jat", "csir jsa", "central university typing"]

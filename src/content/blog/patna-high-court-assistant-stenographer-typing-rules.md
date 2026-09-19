@@ -1,6 +1,6 @@
 ---
-title: "Patna High Court Assistant & Steno Typing Test Rules: Speed, CPT & Accuracy Pattern"
-description: "A complete guide to the Patna High Court Assistant and Stenographer computer typing test (English 40 WPM / Hindi 30 WPM), Computer Proficiency Test (CPT), and evaluation criteria."
+title: "Patna High Court Typing Test 2026: Assistant & Steno Speed, CPT & Preparation Tips"
+description: "Patna High Court Typing Test 2026 complete pattern. English 40 WPM (90% accuracy), Hindi 30 WPM, 80 WPM shorthand dictation, CPT syllabus and preparation tips."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["patna high court", "phc assistant", "steno", "cpt", "typing test"]

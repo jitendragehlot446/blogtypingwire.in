@@ -1,6 +1,6 @@
 ---
-title: "Bihar Civil Court & Vidhan Sabha / Parishad Typing Test Rules: Speed & Evaluation Pattern"
-description: "Complete guide to Bihar Civil Court Clerk, Stenographer, Court Reader-cum-Deposition Writer, and Bihar Vidhan Sabha / Parishad typing test guidelines in Hindi and English."
+title: "Bihar Civil Court Typing Test 2026: Clerk, Court Reader Speed & Accuracy Rules"
+description: "Bihar Civil Court & Vidhan Sabha Typing Test 2026 guidelines. Court Reader 40 WPM English & 30 WPM Hindi (90% accuracy), Vidhan Sabha 5% error tolerance rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["bihar civil court", "court reader", "vidhan sabha", "vidhan parishad", "bihar typing"]

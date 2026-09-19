@@ -1,6 +1,6 @@
 ---
-title: "UP Police ASI & Computer Operator Typing Test Rules: Speed, Mangal Inscript & 85% Accuracy"
-description: "Everything you need to know about the Uttar Pradesh Police Recruitment Board (UPPRPB) ASI (Clerk/Accounts) and Computer Operator Grade-A typing test rules, Mangal font, and 85% accuracy cutoff."
+title: "UP Police Typing Test 2026: Computer Operator & ASI Speed, Mangal Inscript Rules"
+description: "UP Police Typing Test 2026 for ASI & Computer Operator. Hindi 25 WPM (Mangal Inscript layout, 85% accuracy), English 30 WPM (85% accuracy) and exam guidelines."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["up police asi", "computer operator", "mangal inscript", "hindi typing", "typing rules"]

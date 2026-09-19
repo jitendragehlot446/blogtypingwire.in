@@ -1,6 +1,6 @@
 ---
-title: "Mechanical Keyboard Switches Explained: Red vs Blue vs Brown for Fast Typing"
-description: "Discover which mechanical switch type gives you maximum typing speed, reduces fatigue, and provides the best tactile feedback for long typing sessions."
+title: "Best Keyboard for Typing Test 2026: Red vs Blue vs Brown Mechanical Switches"
+description: "Find the best keyboard for typing exam preparation in 2026. Comparison of mechanical switch types (Red, Brown, Blue) for fast typing and low fatigue."
 pubDate: 2026-08-16
 category: "Hardware"
 tags: ["mechanical keyboard", "switches", "cherry mx", "gateron", "hardware"]

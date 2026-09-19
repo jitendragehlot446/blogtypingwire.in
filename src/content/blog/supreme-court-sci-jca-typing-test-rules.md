@@ -1,6 +1,6 @@
 ---
-title: "Supreme Court of India (SCI JCA) Typing Test Rules: 35 WPM & 3% Error Cutoff"
-description: "Everything you need to know about Supreme Court of India Junior Court Assistant (JCA) English typing test rules, 1750 & 2100 key depression targets, 35 WPM speed, and 3% mistake limit."
+title: "Supreme Court of India Typing Test 2026: SCI JCA 35 WPM Speed & 3% Error Cutoff"
+description: "Supreme Court of India (SCI JCA) Typing Test 2026 rules. 35 WPM English speed in 10 minutes, strict 3% maximum permissible error cutoff and evaluation pattern."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["supreme court", "sci jca", "court typing", "typing test", "speed test"]

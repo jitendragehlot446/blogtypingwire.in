@@ -1,6 +1,6 @@
 ---
-title: "Allahabad High Court RO/ARO & Clerk Typing Test Rules: 50-Mark Evaluation Pattern"
-description: "Everything you need to know about the Allahabad High Court (AHC) RO, ARO, and Group C Clerk typing test rules, 25 WPM speed requirement, and 50-mark scoring formula."
+title: "Allahabad High Court Typing Test 2026: RO/ARO & Clerk 25 WPM Speed & 50-Mark Rules"
+description: "Allahabad High Court Typing Test 2026 for RO, ARO and Clerk posts. 25 WPM English typing speed (500 words in 20 mins), 50-mark merit scoring and NTA software rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["allahabad high court", "ahc ro aro", "typing test", "group c clerk", "court typing"]

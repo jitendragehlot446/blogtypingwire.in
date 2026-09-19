@@ -1,6 +1,6 @@
 ---
-title: "SSC CHSL Typing Test Rules 2026: Speed Requirement, Error Cutoff & Marking Scheme"
-description: "Everything you need to know about the SSC CHSL Tier-II Typing Test (35 WPM English / 30 WPM Hindi), DEO Data Entry test (15000 KDPH), and category-wise allowed error percentage."
+title: "SSC CHSL Typing Test 2026: Speed in WPM, Error Cutoff & Marking Scheme"
+description: "SSC CHSL Typing Test 2026 complete rules. English 35 WPM (10500 KDPH) vs Hindi 30 WPM (9000 KDPH), UR 7% / Reserved 10% error cutoff, full vs half mistake calculation."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc chsl", "typing test", "ldc typing", "deo", "dest"]

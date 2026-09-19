@@ -1,6 +1,6 @@
 ---
-title: "Official Allahabad High Court RO/ARO Typing Rules: 50-Mark Notification Breakdown"
-description: "Clause-by-clause analysis of official Allahabad High Court (AHC) recruitment notification for Review Officer (RO), ARO, and Computer Assistant typing test (50 marks, 25 WPM, 25 qualifying marks)."
+title: "Allahabad High Court RO ARO Typing Test Rules: Official 50-Mark Evaluation Pattern"
+description: "Official Allahabad High Court RO/ARO typing test notification rules. 25 WPM English speed, 50-mark merit addition, 16.7-mark qualifying cutoff and NTA guidelines."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["allahabad high court", "ahc ro aro", "high court notification", "computer knowledge test", "court typing"]

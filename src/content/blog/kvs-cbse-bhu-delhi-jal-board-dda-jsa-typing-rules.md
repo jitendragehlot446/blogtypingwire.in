@@ -1,6 +1,6 @@
 ---
-title: "KVS LDC, CBSE, BHU, Delhi Jal Board & DDA JSA Typing Test Rules: Speed & Pattern"
-description: "Detailed guide to typing tests for KVS LDC, CBSE Junior Assistant, BHU Junior Clerk, Delhi Jal Board, and DDA JSA/ASO (35 WPM English / 30 WPM Hindi)."
+title: "KVS & DDA JSA Typing Test 2026: 35 WPM English & 30 WPM Hindi Speed Rules"
+description: "KVS, CBSE, BHU, Delhi Jal Board and DDA JSA Typing Test 2026 guidelines. 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["kvs ldc", "cbse junior assistant", "bhu clerk", "delhi jal board", "dda jsa"]

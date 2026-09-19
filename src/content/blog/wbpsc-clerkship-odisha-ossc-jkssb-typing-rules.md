@@ -1,6 +1,6 @@
 ---
-title: "WBPSC Clerkship, Odisha OSSC & JKSSB Typing Test Rules: Speed & Evaluation Pattern"
-description: "Everything you need to know about West Bengal PSC (WBPSC) Clerkship, Odisha Staff Selection Commission (OSSC) Odia/English typing, and JKSSB (Jammu & Kashmir) 10-minute typing tests."
+title: "WBPSC Clerkship & OSSC Typing Test 2026: Speed, Qualifying Cutoff & Guidelines"
+description: "WBPSC Clerkship, Odisha OSSC and JKSSB typing test rules. 20 WPM English / 10 WPM Bengali for WBPSC, 30-35 WPM for OSSC and JKSSB qualifying criteria."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["wbpsc clerkship", "odisha ossc", "jkssb typing", "state typing test", "typing speed"]

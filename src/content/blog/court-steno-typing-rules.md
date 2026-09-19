@@ -1,6 +1,6 @@
 ---
-title: "High Court & SSC Typing Test Rules: Full Mistake vs Half Mistake Explained"
-description: "A complete breakdown of typing test evaluation criteria, calculation formulas, permissible errors, and keyboard shortcuts allowed in government exams."
+title: "Stenographer Typing Speed & Skill Test Rules: SSC, High Court & Police Cutoff"
+description: "Stenographer typing speed and skill test rules across SSC, High Court and Police exams. Shorthand transcription speeds (80-100 WPM) and full vs half mistake rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc cgl", "high court", "typing rules", "error calculation", "hindi typing"]

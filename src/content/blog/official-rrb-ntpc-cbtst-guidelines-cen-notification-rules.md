@@ -1,6 +1,6 @@
 ---
-title: "Official RRB NTPC CBTST Typing Test Rules: Clause 13.5 Notification Breakdown & Exact Formula"
-description: "Clause-by-clause analysis of official Railway Recruitment Board (RRB) NTPC CEN notification rules for Computer Based Typing Skill Test (CBTST), 5% error formula, and backspace locking."
+title: "RRB NTPC Typing Test Rules: Official Clause 13.5 Speed & Penalty Formula"
+description: "Official RRB NTPC CBTST typing test notification guidelines under Clause 13.5. 30 WPM English / 25 WPM Hindi, 5% error allowance and 10x penalty formula."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["rrb ntpc", "cbtst rules", "railway notification", "cen ntpc", "5 percent formula"]

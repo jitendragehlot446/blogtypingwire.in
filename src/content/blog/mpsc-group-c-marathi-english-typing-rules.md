@@ -1,6 +1,6 @@
 ---
-title: "MPSC Group C Clerk Typist Typing Test Rules: Marathi (30 WPM) & English (40 WPM)"
-description: "A complete guide to Maharashtra Public Service Commission (MPSC) Group C Clerk-Typist and Tax Assistant typing skill test rules, 10-minute duration, and 5% error tolerance."
+title: "MPSC Clerk Typist Typing Test 2026: Marathi (30 WPM) & English (40 WPM) Rules"
+description: "MPSC Group C Clerk Typist Typing Test 2026 rules. Marathi 30 WPM and English 40 WPM standards, GCC-TBC certificate equivalence and preparation tips."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["mpsc group c", "clerk typist", "marathi typing", "mpsc typing", "typing rules"]

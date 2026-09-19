@@ -1,6 +1,6 @@
 ---
-title: "RSSB / RSMSSB LDC Typing & Efficiency Test Rules: Phase-II 100-Mark Scheme"
-description: "A comprehensive breakdown of Rajasthan Staff Selection Board (RSSB) LDC / Clerk Grade-II Phase-II typing speed test (Hindi 25 + English 25) and efficiency test (50 marks)."
+title: "RSSB RSMSSB LDC Typing Test 2026: 100-Mark Speed & Efficiency Test Pattern"
+description: "RSMSSB / RSSB LDC Clerk Grade-II typing test and efficiency test rules. Phase-II 100-mark scheme (Hindi & English typing plus MS Office efficiency)."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["rsmssb ldc", "rssb clerk", "efficiency test", "krutidev", "typing speed"]

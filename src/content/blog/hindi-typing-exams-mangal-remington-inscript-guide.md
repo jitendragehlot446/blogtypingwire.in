@@ -1,6 +1,6 @@
 ---
-title: "Hindi Typing Layouts for Exams: Mangal Inscript vs Remington Gail vs Krutidev 010"
-description: "A complete guide comparing Hindi typing keyboard layouts (Inscript, Remington Gail, KrutiDev 010), their keymaps, Alt codes, and which exams require which font."
+title: "Hindi Typing Test Guide 2026: Mangal Inscript vs Remington Gail vs KrutiDev 010"
+description: "Complete Hindi Typing Test guide for government exams. Comparison of Mangal Inscript, Remington Gail and KrutiDev 010 layouts, Alt codes and exam font matrix."
 pubDate: 2026-08-16
 category: "Typing Tips"
 tags: ["hindi typing", "mangal inscript", "remington gail", "krutidev 010", "unicode font"]

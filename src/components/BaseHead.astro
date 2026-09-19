@@ -19,7 +19,7 @@ const {
   author = 'TypingWire Team'
 } = Astro.props;
 
-const fullTitle = `${title} | TypingWire Blog`;
+const fullTitle = title.includes('TypingWire') ? title : `${title} | TypingWire`;
 ---
 
 <!-- Global Metadata -->

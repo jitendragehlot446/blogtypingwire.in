@@ -1,6 +1,6 @@
 ---
-title: "SSC CGL DEST vs SSC CHSL Typing Test: Key Differences, Speed & Error Comparison"
-description: "A side-by-side comparison of SSC CGL DEST (15 Min / 2000 KDPH / 27 WPM) and SSC CHSL Typing Test (10 Min / 35 WPM / 10500 KDPH), error limits, and preparation strategy."
+title: "SSC CGL vs CHSL Typing Test: Speed (27 vs 35 WPM), Mistakes & Duration Compared"
+description: "Comprehensive comparison between SSC CGL DEST and SSC CHSL typing test. Test duration (15m vs 10m), speeds (27 vs 35 WPM), and error percentage cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc cgl vs chsl", "dest comparison", "typing difference", "ssc exam rules", "speed calculation"]

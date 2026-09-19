@@ -1,6 +1,6 @@
 ---
-title: "Rajasthan High Court LDC Typing & Efficiency Test: Complete Rules & 100-Mark Pattern"
-description: "Detailed pattern and evaluation scheme for Rajasthan High Court LDC / Clerk Grade-II Typewriting and Efficiency Test (50 Marks Speed + 50 Marks MS Word Efficiency)."
+title: "Rajasthan High Court LDC Typing Test 2026: Speed, Efficiency & 100-Mark Pattern"
+description: "Rajasthan High Court LDC Typing Test 2026 guidelines. Paper-I Speed Test (Hindi KrutiDev 25M + English 25M) and Paper-II MS Word Efficiency Test (50 Marks)."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["rajasthan high court", "rhc ldc", "efficiency test", "krutidev", "ms word test"]

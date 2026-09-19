@@ -1,6 +1,6 @@
 ---
-title: "UPSSSC Junior Assistant Typing Test Rules: 5-Minute Speed & Mistake Deduction Formula"
-description: "Detailed guide to UPSSSC Junior Assistant & Clerk typing test rules, 5-minute duration (25 WPM Hindi / 30 WPM English), Mangal font, and the 5-mistake exemption penalty formula."
+title: "UPSSSC Junior Assistant Typing Test 2026: Hindi 25 WPM & English 30 WPM Rules"
+description: "UPSSSC Junior Assistant Typing Test 2026 complete details. Mandatory Hindi (25 WPM Mangal/KrutiDev) AND English (30 WPM) 5-minute qualifying test pattern."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["upsssc junior assistant", "upsssc clerk", "mangal font", "hindi typing", "typing rules"]

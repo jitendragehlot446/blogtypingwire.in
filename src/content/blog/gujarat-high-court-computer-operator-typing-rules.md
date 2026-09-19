@@ -1,6 +1,6 @@
 ---
-title: "Gujarat High Court Computer Operator & Steno Typing Test: Exact Rules & Speed Pattern"
-description: "Everything you need to know about the Gujarat High Court Computer Operator, English Steno, and Peon/Driver typing speed test rules, 5000 KDPH requirement, and CPT syllabus."
+title: "Gujarat High Court Typing Test 2026: Computer Operator Gujarati & English Speed"
+description: "Gujarat High Court Typing Test 2026 guidelines for Computer Operator and Steno. 5000 KDPH Gujarati & English speed tests and evaluation rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["gujarat high court", "computer operator", "english steno", "cpt", "court typing"]

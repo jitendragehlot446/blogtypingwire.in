@@ -1,6 +1,6 @@
 ---
-title: "DSSSB LDC, Junior Assistant & JJA Typing Test Rules: Speed, Retyping & KDPH Formula"
-description: "Everything you need to know about DSSSB (Delhi Subordinate Services Selection Board) LDC, Junior Assistant, Stenographer, and JJA typing skill test rules (35 WPM English / 30 WPM Hindi)."
+title: "DSSSB Typing Test 2026: LDC, Junior Assistant & JJA Speed & Qualifying Rules"
+description: "DSSSB Typing Test 2026 rules for LDC, Junior Assistant and JJA. 35 WPM English or 30 WPM Hindi (10 minutes), retyping rules, KDPH conversion and qualifying cutoff."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["dsssb ldc", "junior assistant", "dsssb typing", "delhi jja", "steno"]

@@ -1,6 +1,6 @@
 ---
-title: "RRB NTPC Typing Test (CBTST) Rules: 10-Min Speed, 5% Error Formula & Backspace Rules"
-description: "Complete guide to Railway Recruitment Board (RRB) NTPC Computer Based Typing Skill Test (CBTST), 30 WPM English / 25 WPM Hindi, 5% error deduction formula, KrutiDev font, and Backspace rules."
+title: "RRB NTPC Typing Test 2026: CBTST Speed Rules, 5% Error Formula & Backspace"
+description: "RRB NTPC Typing Test (CBTST) 2026 complete rules. Required speed (30 WPM English / 25 WPM Hindi), 5% error limit, 10-word penalty formula and software interface rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["rrb ntpc", "cbtst", "railway typing", "krutidev", "typing test"]

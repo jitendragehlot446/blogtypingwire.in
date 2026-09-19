@@ -1,6 +1,6 @@
 ---
-title: "Official Rajasthan High Court LDC/JJA Typing Rules: 100-Mark Notification Scheme"
-description: "Clause-by-clause breakdown of Section-B of Rajasthan High Court (RHC) notification for Junior Judicial Assistant (JJA) and Clerk Grade-II Typewriting and Efficiency Test (100 Marks)."
+title: "Rajasthan High Court JJA & LDC Typing Test: Official 100-Mark Notification Scheme"
+description: "Official Rajasthan High Court LDC and JJA typing test notification breakdown. 50-mark speed test and 50-mark computer efficiency test calculation."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["rajasthan high court", "rhc jja", "efficiency test rules", "krutidev 010", "court typing notification"]

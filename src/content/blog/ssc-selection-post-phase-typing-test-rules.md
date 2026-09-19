@@ -1,6 +1,6 @@
 ---
-title: "SSC Selection Post Typing Test Rules: Post-Wise Speed, KDPH & Skill Test Guidelines"
-description: "Everything you need to know about SSC Selection Post (Phase 12 / 13) typing skill tests, Data Entry Operator posts, Lower Division Clerk, and error evaluation criteria."
+title: "SSC Selection Post Typing Test 2026: Post-Wise Speed, KDPH & Evaluation Rules"
+description: "SSC Selection Post typing test guidelines. Matriculation, Higher Secondary and Graduate level post-wise speed criteria, KDPH limits and qualifying rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["ssc selection post", "phase 12", "phase 13", "ssc typing", "dest"]

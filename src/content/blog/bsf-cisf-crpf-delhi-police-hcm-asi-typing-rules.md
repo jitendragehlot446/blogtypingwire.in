@@ -1,6 +1,6 @@
 ---
-title: "Paramilitary & Police HCM Typing Rules: BSF, CISF, CRPF, ITBP & Air Force Group C"
-description: "Detailed breakdown of typing test rules for Head Constable Ministerial (HCM) and ASI in BSF, CISF, CRPF, ITBP, SSB, and Indian Air Force Group C (35 WPM English / 30 WPM Hindi)."
+title: "Paramilitary HCM Typing Test 2026: BSF, CISF, CRPF Head Constable Speed Rules"
+description: "Paramilitary Head Constable Ministerial (HCM) Typing Test 2026. BSF, CISF, CRPF 35 WPM English / 30 WPM Hindi, 5% error limit and 10-word deduction formula."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["bsf hcm", "cisf hcm", "crpf hcm", "police typing", "head constable"]

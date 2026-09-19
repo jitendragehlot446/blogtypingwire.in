@@ -1,6 +1,6 @@
 ---
-title: "Jharkhand High Court (JHC) Typing Test Rules: Clerk, Assistant, Steno & DSO"
-description: "Everything you need to know about Jharkhand High Court (JHC Ranchi) Assistant, Clerk, Stenographer, and Deputy Section Officer typing speed tests and accuracy criteria."
+title: "Jharkhand High Court Typing Test 2026: Clerk & Assistant Speed, Rules & Cutoff"
+description: "Jharkhand High Court (JHC) Typing Test 2026 rules for Clerk, Assistant and Steno. 20 WPM Hindi and 30 WPM English speed, marking scheme and cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
 tags: ["jharkhand high court", "jhc assistant", "jhc clerk", "steno", "court typing"]
