@@ -34,7 +34,7 @@ As part of the **Stage-II evaluation**, candidates shortlisted from the Stage-I 
 | **Minimum Required Speed** | **35 Words Per Minute (WPM)** | **30 Words Per Minute (WPM)** |
 | **Key Depressions (KDPH)** | **10,500 KDPH on Computer** | **9,000 KDPH on Computer** |
 | **Test Duration** | **10 Minutes** | **10 Minutes** |
-| **Required Keystrokes** | **1,750 Keystrokes ($\pm 5\%$)** | **1,500 Keystrokes ($\pm 5\%$)** |
+| **Required Keystrokes** | **1,750 Keystrokes (±5%)** | **1,500 Keystrokes (±5%)** |
 | **Font Standard** | Standard English Font | Mangal Unicode (Inscript / Remington Gail) |
 | **Software Platform** | TCS iON / Central Testing Platform | TCS iON / Central Testing Platform |
 | **Test Nature** | **Qualifying (Stage-II)** | **Qualifying (Stage-II)** |
@@ -47,9 +47,9 @@ As part of the **Stage-II evaluation**, candidates shortlisted from the Stage-I 
 The evaluation follows central government norms:
 * **Standard Word**: 5 Keystrokes = 1 Word.
 * **Gross Speed (WPM)**:
-  $$\text{Gross Speed} = \frac{\text{Total Key Depressions Typed} / 5}{10 \text{ Minutes}}$$
+  `Gross Speed = (Total Key Depressions Typed / 5 / 10 Minutes)`
 * **Net Speed (WPM)**:
-  $$\text{Net Speed} = \text{Gross Speed} - \left(\frac{\text{Mistakes Penalty}}{10}\right)$$
+  `Net Speed = Gross Speed - ((Mistakes Penalty / 10))`
 
 Candidates must achieve a minimum Net Speed of **35 WPM** in English or **30 WPM** in Hindi to be declared qualified.
 

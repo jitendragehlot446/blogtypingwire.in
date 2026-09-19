@@ -41,11 +41,11 @@ The **All India Institute of Medical Sciences (AIIMS, New Delhi)** conducts the 
 
 ## 1. AIIMS Speed Evaluation & Mathematical Formula
 
-$$\text{Gross Keystrokes} = \text{Total Characters & Spaces Typed}$$
+`Gross Keystrokes = Total Characters & Spaces Typed`
 
-$$\text{Standard Words Typed} = \frac{\text{Gross Keystrokes}}{5}$$
+`Standard Words Typed = (Gross Keystrokes / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Standard Words Typed} - (\text{Total Mistakes} \times \text{Penalty Weight})}{\text{10 Minutes}}$$
+`Net Speed (WPM) = (Standard Words Typed - (Total Mistakes × Penalty Weight) / 10 Minutes)`
 
 * Medical administrative texts tested in AIIMS exams include healthcare terminology (*procurement, patient records, clinical audit, diagnostic ledger, hospital administration*).
 

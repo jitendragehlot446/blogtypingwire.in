@@ -57,9 +57,9 @@ UPSSSC provides candidates the flexibility to choose their preferred Hindi typin
 
 Because the test is only 5 minutes long, even a minor freeze or keyboard jam can be disastrous:
 
-$$\text{Gross Words} = \frac{\text{Total Keystrokes Typed}}{5}$$
+`Gross Words = (Total Keystrokes Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{Time (5 Minutes)}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / Time (5 Minutes))`
 
 * In a 5-minute test, every second counts. Candidates must type with immediate fluidity from second zero.
 

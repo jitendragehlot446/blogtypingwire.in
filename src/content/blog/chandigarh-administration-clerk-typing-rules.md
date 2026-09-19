@@ -47,7 +47,7 @@ Following the written examination, candidates must clear the computer typing tes
 
 * **Standard Calculation**: 1 Word = 5 Keystrokes.
 * **Calculation Algorithm**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Total Keystrokes Typed} - (\text{Penalty for Errors} \times 5)}{5 \times 10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Total Keystrokes Typed - (Penalty for Errors × 5) / 5 × 10 Minutes)`
 * Candidates who type the full 300 words within 10 minutes with an accuracy of 92% or higher comfortably clear the official 30 WPM threshold.
 
 ---

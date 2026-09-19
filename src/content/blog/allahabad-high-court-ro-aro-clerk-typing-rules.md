@@ -50,7 +50,7 @@ The NTA evaluates candidate transcripts based on character-level precision. Full
 * **Each Half Mistake (Spelling/Punctuation/Spacing)**: Deducts **0.05 marks**.
 * **Incomplete Typing Penalty**: If a candidate types fewer than 500 words, marks are calculated proportionally:
 
-$$\text{Marks Obtained} = \left( \frac{\text{Correct Words Typed}}{500} \times 50 \right) - \text{Total Mistake Deductions}$$
+`Marks Obtained = ( (Correct Words Typed / 500) × 50 ) - Total Mistake Deductions`
 
 > [!IMPORTANT]
 > To qualify, candidates MUST achieve both **minimum 25 WPM speed** AND **minimum 25 out of 50 marks**. If your speed is 24.9 WPM, you are automatically failed.

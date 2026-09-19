@@ -45,11 +45,11 @@ The **Delhi Subordinate Services Selection Board (DSSSB)** conducts recruitment 
 
 DSSSB adheres to the standard 5-keystroke definition standardized by the Directorate General of Employment and Training (DGET):
 
-$$\text{Standard Words} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Standard Words = (Total Key Depressions Typed / 5)`
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Standard Words}}{\text{10 Minutes}}$$
+`Gross Speed (WPM) = (Standard Words / 10 Minutes)`
 
-$$\text{Net Speed (WPM)} = \text{Gross Speed} - \left( \frac{\text{Mistakes Counted}}{\text{10 Minutes}} \right)$$
+`Net Speed (WPM) = Gross Speed - ( (Mistakes Counted / 10 Minutes) )`
 
 ### 🔁 The Retyping Rule Explained:
 * If a candidate typing at 50 WPM completes a 350-word text in 7 minutes, they must **hit Space or Enter and continue typing the passage from the first word**.

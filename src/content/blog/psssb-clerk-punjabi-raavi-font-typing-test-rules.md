@@ -55,11 +55,11 @@ Unlike phonetic transliteration, PSSSB mandates **Asees keyboard layout on Raavi
 
 ## 2. Speed & Error Deduction Formula
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Total Words Typed}}{\text{Time (10 Minutes)}}$$
+`Gross Speed (WPM) = (Total Words Typed / Time (10 Minutes))`
 
-$$\text{Error Percentage (\%)} = \left( \frac{\text{Total Mistakes}}{\text{Total Words Typed}} \right) \times 100$$
+`Error Percentage (%) = ( (Total Mistakes / Total Words Typed) ) × 100`
 
-$$\text{Net Speed (WPM)} = \text{Gross Speed} - \left( \frac{\text{Mistakes}}{\text{10 Minutes}} \right)$$
+`Net Speed (WPM) = Gross Speed - ( (Mistakes / 10 Minutes) )`
 
 * If a candidate achieves 38 WPM gross speed but commits **8.5% mistakes**, they are declared **FAILED** due to exceeding the 8% error ceiling!
 

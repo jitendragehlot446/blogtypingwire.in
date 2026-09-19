@@ -46,7 +46,7 @@ The computer typing test in JSSC has one of the strictest accuracy standards in 
 ## 1. The Strict 2% Error Limit Explained
 
 Under official JSSC evaluation rules:
-* In a 250-word master passage, a candidate is allowed a maximum of **only 5 mistakes** ($250 \times 0.02 = 5$).
+* In a 250-word master passage, a candidate is allowed a maximum of **only 5 mistakes** (`250 × 0.02 = 5`).
 * If a candidate commits **6 mistakes or more**, they are automatically declared **Failed / Disqualified**, even if their typing speed was 35+ WPM.
 * Because every spelling omission, wrong character, or space counts toward the 2% cap, candidates must prioritize accuracy above raw speed.
 

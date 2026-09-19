@@ -39,26 +39,26 @@ Under the official **Railway Recruitment Board (RRB) Centralised Employment Noti
 
 As per the official RRB CBTST evaluation manual:
 
-$$\text{Mistakes Allowed (5\% Exemption)} = \text{Total Words Typed} \times \frac{5}{100}$$
+`Mistakes Allowed (5% Exemption) = Total Words Typed × (5 / 100)`
 
-$$\text{Excess Mistakes} = \text{Total Mistakes Committed} - \text{Mistakes Allowed}$$
+`Excess Mistakes = Total Mistakes Committed - Mistakes Allowed`
 
-$$\text{Penalty Deductions} = \text{Excess Mistakes} \times 10 \text{ Words}$$
+`Penalty Deductions = Excess Mistakes × 10 Words`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Total Words Typed} - \text{Penalty Deductions}}{10 \text{ Minutes}}$$
+`Net Speed (WPM) = (Total Words Typed - Penalty Deductions / 10 Minutes)`
 
 ### 📌 Notification Case Study:
 * **Scenario A**: Candidate types **350 words** with **15 mistakes**.
-  * 5% exemption = $350 \times 0.05 = \mathbf{17.5 \text{ mistakes exempted}}$.
+  * 5% exemption = 350 × 0.05 = 17.5 mistakes exempted.
   * Since total mistakes (15) are within 17.5, **zero penalty is deducted**.
-  * $\text{Net Speed} = 350 / 10 = \mathbf{35 \text{ WPM}}$ $\rightarrow$ **QUALIFIED!**
+  * Net Speed = 350 / 10 = 35 WPM \rightarrow **QUALIFIED!**
 
 * **Scenario B**: Candidate types **350 words** with **25 mistakes**.
   * 5% exemption = **17.5 mistakes**.
-  * Excess Mistakes = $25 - 17.5 = \mathbf{7.5 \text{ mistakes}}$.
-  * Penalty Deductions = $7.5 \times 10 = \mathbf{75 \text{ words deducted}}$.
-  * Net Words = $350 - 75 = \mathbf{275 \text{ words}}$.
-  * $\text{Net Speed} = 275 / 10 = \mathbf{27.5 \text{ WPM}}$ $\rightarrow$ **DISQUALIFIED (Below 30 WPM Cutoff).**
+  * Excess Mistakes = 25 - 17.5 = 7.5 mistakes.
+  * Penalty Deductions = 7.5 × 10 = 75 words deducted.
+  * Net Words = 350 - 75 = 275 words.
+  * Net Speed = 275 / 10 = 27.5 WPM \rightarrow **DISQUALIFIED (Below 30 WPM Cutoff).**
 
 ---
 

@@ -41,11 +41,11 @@ The **High Court of Himachal Pradesh (Shimla)** conducts recruitment for **Clerk
 
 ## 1. Speed & Mistake Calculation Formula
 
-$$\text{Gross Words} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Gross Words = (Total Key Depressions Typed / 5)`
 
-$$\text{Error Percentage (\%)} = \left( \frac{\text{Total Mistakes}}{\text{Total Words Typed}} \right) \times 100$$
+`Error Percentage (%) = ( (Total Mistakes / Total Words Typed) ) × 100`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{Time (10 Minutes)}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / Time (10 Minutes))`
 
 * Passages consist of legal precedents, judicial rulings, and administrative texts of Himachal Pradesh.
 

@@ -55,9 +55,9 @@ Most Hindi typists in North India learn on KrutiDev or Remington Gail. However, 
 
 ## 2. Speed & Accuracy Formula (UPPRPB Algorithm)
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Total Characters Typed} / 5}{\text{Time (15 Minutes)}}$$
+`Gross Speed (WPM) = (Total Characters Typed / 5 / Time (15 Minutes))`
 
-$$\text{Accuracy Percentage} = \left( \frac{\text{Correct Characters Typed}}{\text{Total Characters Typed}} \right) \times 100$$
+`Accuracy Percentage = ( (Correct Characters Typed / Total Characters Typed) ) × 100`
 
 * If your Gross Speed is 35 WPM but your accuracy is **84.9%**, you are declared **FAILED**.
 * If your Gross Speed is 26 WPM and your accuracy is **88%**, you are declared **QUALIFIED**.

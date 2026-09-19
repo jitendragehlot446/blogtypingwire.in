@@ -43,7 +43,7 @@ The **High Court of Madhya Pradesh (Jabalpur)** conducts the state-level recruit
 ## 1. Marking Scheme & Deduction Formula (100-Mark Main Exam)
 
 In the MPHC Assistant Grade-3 Main Examination:
-$$\text{Typing Score} = \text{Base Marks (30)} - (\text{Total Errors} \times 0.50)$$
+`Typing Score = Base Marks (30) - (Total Errors × 0.50)`
 
 * **Full Errors (0.50 Marks Deducted)**:
   - Missing or omitted Hindi/English words.

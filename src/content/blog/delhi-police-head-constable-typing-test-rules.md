@@ -70,9 +70,9 @@ The Delhi Police recruitment board awards marks on a graduated slab system based
 
 ## 2. Mistake Deduction & Net Speed Formula
 
-$$\text{Gross Words} = \frac{\text{Total Keystrokes Typed}}{5}$$
+`Gross Words = (Total Keystrokes Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - (\text{Mistakes} \times 10)}{\text{Time (10 Minutes)}}$$
+`Net Speed (WPM) = (Gross Words - (Mistakes × 10) / Time (10 Minutes))`
 
 > [!WARNING]
 > In police typing algorithms, each mistake penalizes **10 words (or 50 keystrokes)** from your gross output. Committing just 5 mistakes reduces your net speed by 5 full WPM (from 40 WPM down to 35 WPM), costing you 3 critical marks on the merit list!

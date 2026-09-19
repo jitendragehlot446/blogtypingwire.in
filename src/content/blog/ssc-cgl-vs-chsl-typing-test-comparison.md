@@ -33,7 +33,7 @@ While both examinations use the same TCS iON testing platform, their speed thres
 | :--- | :--- | :--- |
 | **Applicable Posts** | All CGL Posts (ASO, Tax Assistant, Inspector) | LDC, JSA, DEO (Data Entry Operator) |
 | **Duration of Test** | **15 Minutes** | **10 Minutes** (15 mins for DEO Grade A) |
-| **Target Keystrokes** | **2,000 Key Depressions ($\pm 5\%$)** | **1,750 Key Depressions (English LDC)** |
+| **Target Keystrokes** | **2,000 Key Depressions (±5%)** | **1,750 Key Depressions (English LDC)** |
 | **Effective Net Speed** | **~27 Words Per Minute (WPM)** | **35 WPM (English) / 30 WPM (Hindi)** |
 | **Error Limit (UR / Gen)**| **5% for High-Cutoff Posts / 20% Standard**| **7% Maximum Errors Allowed** |
 | **Error Limit (Reserved)**| **7% for High-Cutoff Posts / 25% Standard**| **10% Maximum Errors Allowed** |

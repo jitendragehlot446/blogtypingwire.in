@@ -45,7 +45,7 @@ Candidates qualifying Paper-I and Paper-II written examinations must clear the m
 
 * **Standard Character Count**: 5 key depressions = 1 word.
 * **Speed Formula**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Correct Keystrokes} / 5}{10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Correct Keystrokes / 5 / 10 Minutes)`
 * Accuracy is critical: Uncorrected spelling mistakes, missing words, and incorrect capitalization result in direct word penalties that reduce net speed.
 
 ---

@@ -38,15 +38,15 @@ Most government recruitment notifications express speed in **Key Depressions Per
 ### 🔹 1. Gross Speed (Raw WPM)
 Gross speed measures the total number of words typed per minute regardless of mistakes.
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Total Key Depressions Typed} / 5}{\text{Time Duration in Minutes}}$$
+`Gross Speed (WPM) = (Total Key Depressions Typed / 5 / Time Duration in Minutes)`
 
 ### 🔹 2. Net Speed (Actual Qualifying WPM)
 Net speed deducts your mistake penalty from the gross speed.
 
-$$\text{Net Speed (WPM)} = \text{Gross Speed} - \left(\frac{\text{Total Mistakes} \times \text{Penalty Factor}}{\text{Duration in Minutes}}\right)$$
+`Net Speed (WPM) = Gross Speed - ((Total Mistakes × Penalty Factor / Duration in Minutes))`
 
 ### 🔹 3. Accuracy Percentage
-$$\text{Accuracy (\%)} = \left(\frac{\text{Correct Keystrokes}}{\text{Total Keystrokes Typed}}\right) \times 100$$
+`Accuracy (%) = ((Correct Keystrokes / Total Keystrokes Typed)) × 100`
 
 ---
 

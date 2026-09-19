@@ -34,7 +34,7 @@ For Hindi typists, SSC provides multiple keyboard layout options on **Unicode Ma
 | **Mandatory Font** | **Mangal (Unicode Standard)** |
 | **Permitted Keyboard Layouts** | **1. Inscript \| 2. Remington (Gail) \| 3. Remington (CBI)** |
 | **SSC CHSL Speed Benchmark** | **30 Words Per Minute (9,000 KDPH)** in 10 Minutes |
-| **SSC CGL DEST Benchmark** | **2,000 Keystrokes ($\pm 5\%$)** in 15 Minutes |
+| **SSC CGL DEST Benchmark** | **2,000 Keystrokes (±5%)** in 15 Minutes |
 | **Error Limit (UR / Gen)** | **7% in CHSL / 5% in CGL (Higher Cutoff Posts)** |
 | **Software Platform** | TCS iON Online Examination Engine |
 | **Backspace Permitted** | **Yes (Full Editing Enabled)** |

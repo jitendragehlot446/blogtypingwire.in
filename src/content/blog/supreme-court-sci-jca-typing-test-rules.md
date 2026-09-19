@@ -47,7 +47,7 @@ While many exams allow 5% to 10% mistakes, the Supreme Court of India imposes a 
 
 In standard typing exams, a candidate typing 400 words can commit 20 to 28 mistakes (5% to 7%) and still qualify. In the Supreme Court JCA exam:
 
-$$\text{Maximum Allowed Errors} = \frac{3}{100} \times \text{Total Words Typed}$$
+`Maximum Allowed Errors = (3 / 100) × Total Words Typed`
 
 * If you type **350 words**, you are allowed at most **10 mistakes**. If you commit 11 mistakes, you are disqualified instantly.
 * If you type **450 words**, you are allowed at most **13.5 mistakes**.

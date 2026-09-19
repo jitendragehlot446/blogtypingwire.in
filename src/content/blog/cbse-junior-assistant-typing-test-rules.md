@@ -45,6 +45,6 @@ Shortlisted candidates must clear the computer-based typing skill test. Below ar
 
 * **Standard Calculation**: 1 Word = 5 Key Depressions.
 * **Net Speed Formula**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Correct Keystrokes} / 5}{10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Correct Keystrokes / 5 / 10 Minutes)`
 
 Practice CBSE Junior Assistant test simulations on [TypingWire.in](https://typingwire.in/practice-exams/cbse-english-typing-skill-test).

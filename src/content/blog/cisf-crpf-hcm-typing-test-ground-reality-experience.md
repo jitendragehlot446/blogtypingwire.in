@@ -61,9 +61,9 @@ Remember the paramilitary calculation:
 * You type **380 words** in 10 minutes.
 * Allowed 5% mistakes = **19 errors**.
 * If your eyes jump a line and you commit **26 errors** (only 7 excess errors):
-$$\text{Penalty} = 7 \times 10 = \mathbf{70 \text{ words deducted}}$$
-$$\text{Net Words} = 380 - 70 = \mathbf{310 \text{ words}}$$
-$$\text{Net Speed} = 310 / 10 = \mathbf{31.0 \text{ WPM}}$$
+`Penalty = 7 × 10 = 70 words deducted`
+`Net Words = 380 - 70 = 310 words`
+`Net Speed = 310 / 10 = 31.0 WPM`
 * Since minimum speed is 35 WPM, you are **FAILED immediately**.
 
 ---

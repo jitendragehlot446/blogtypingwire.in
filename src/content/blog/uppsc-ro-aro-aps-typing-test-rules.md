@@ -52,7 +52,7 @@ For the post of **ARO**, qualifying the computer typing test in Hindi is a stric
 ## 2. Mistake Deduction & Qualifying Criteria
 
 1. **Total Stroke / Word Evaluation**:
-   $$\text{Gross Speed (WPM)} = \frac{\text{Total Characters Typed} / 5}{5 \text{ Minutes}}$$
+   `Gross Speed (WPM) = (Total Characters Typed / 5 / 5 Minutes)`
 2. **Permissible Error Percentage**: Candidates must maintain a high level of accuracy. Typically, errors exceeding 5% lead to disqualification.
 3. **Short 5-Minute Window**: Because the test is only 5 minutes long, even a single 15-second pause or finger slip can lower your net speed below 25 WPM. Candidates must begin typing smoothly from the very first second.
 

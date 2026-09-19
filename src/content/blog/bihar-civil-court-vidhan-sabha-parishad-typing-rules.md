@@ -70,7 +70,7 @@ Errors in the Bihar Civil Court and Vidhan Sabha typing tests are categorized in
 * **Missing Punctuation**: Skipping periods, commas, or quotation marks.
 * **Case Mismatch**: Lowercase letters typed where capitalized letters were required.
 
-$$\text{Net Speed (WPM)} = \frac{\text{Total Words Typed} - (\text{Mistakes} \times 5)}{\text{Time in Minutes (10)}}$$
+`Net Speed (WPM) = (Total Words Typed - (Mistakes × 5) / Time in Minutes (10))`
 
 ---
 

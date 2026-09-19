@@ -46,7 +46,7 @@ This detailed guide analyzes the official notification clauses, NTA software mec
 
 According to the official scheme released by the High Court Registrar General and NTA:
 
-$$\text{Final Marks} = \left( \frac{\text{Correct Words Typed}}{500} \times 50 \right) - (\text{Full Errors} \times 0.10) - (\text{Half Errors} \times 0.05)$$
+`Final Marks = ( (Correct Words Typed / 500) × 50 ) - (Full Errors × 0.10) - (Half Errors × 0.05)`
 
 ### Error Deductions:
 1. **Full Error (0.10 Mark Penalty)**:

@@ -47,14 +47,14 @@ Clearing the typing test is mandatory for appointment to these executive clerica
 
 Beltron evaluates candidate typing through an automated algorithm:
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Total Keystrokes Typed} / 5}{\text{Time (10 Minutes)}}$$
+`Gross Speed (WPM) = (Total Keystrokes Typed / 5 / Time (10 Minutes))`
 
-$$\text{Net Speed (WPM)} = \text{Gross Speed} - \left( \frac{\text{Total Mistakes}}{\text{Time (10 Minutes)}} \right)$$
+`Net Speed (WPM) = Gross Speed - ( (Total Mistakes / Time (10 Minutes)) )`
 
-$$\text{Accuracy Percentage} = \left( \frac{\text{Correct Words Typed}}{\text{Total Words Typed}} \right) \times 100$$
+`Accuracy Percentage = ( (Correct Words Typed / Total Words Typed) ) × 100`
 
 > [!IMPORTANT]
-> To qualify for Beltron empanelment, your **Net Speed must be $\ge 30$ WPM in Hindi** AND your **Accuracy must be $\ge 90\%$**. High gross speed with sloppy accuracy will cause immediate failure.
+> To qualify for Beltron empanelment, your **Net Speed must be \ge 30 WPM in Hindi** AND your **Accuracy must be \ge 90%**. High gross speed with sloppy accuracy will cause immediate failure.
 
 ---
 

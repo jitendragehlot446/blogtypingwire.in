@@ -46,7 +46,7 @@ Following the computer-based written test (CBT), shortlisted candidates must app
 
 * **Word Formula**: In alignment with central government recruitment standards, 1 standard word equals **5 characters / key depressions**.
 * **Error Deduction**:
-  $$\text{Net WPM} = \frac{\text{Gross Keystrokes} - (\text{Mistakes} \times 5)}{5 \times 10 \text{ Minutes}}$$
+  `Net WPM = (Gross Keystrokes - (Mistakes × 5) / 5 × 10 Minutes)`
   Candidates must maintain high accuracy to prevent net speed deductions from pulling their final score below the mandatory 35 WPM (English) or 30 WPM (Hindi) thresholds.
 
 ---

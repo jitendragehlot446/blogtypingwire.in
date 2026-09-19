@@ -48,11 +48,11 @@ The **SSC CHSL (Combined Higher Secondary Level)** examination mandates a qualif
 
 In SSC examinations, **1 standard word = 5 key depressions (keystrokes)**, including spaces and punctuation marks.
 
-$$\text{Words Typed} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Words Typed = (Total Key Depressions Typed / 5)`
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Words Typed}}{\text{Duration in Minutes}}$$
+`Gross Speed (WPM) = (Words Typed / Duration in Minutes)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Words Typed} - (\text{Mistakes} \times \text{Penalty})}{\text{Duration in Minutes}}$$
+`Net Speed (WPM) = (Words Typed - (Mistakes × Penalty) / Duration in Minutes)`
 
 ---
 

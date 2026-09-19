@@ -42,11 +42,11 @@ The **100 marks** of the Typewriting & Efficiency Test directly determine final 
 
 Rajasthan High Court evaluates candidate speed based on exact Key Depressions:
 
-$$\text{Required Speed for Full 25/25 Marks} = \mathbf{50 \text{ WPM (8,000 KDPH)}}$$
+`Required Speed for Full 25/25 Marks = 50 WPM (8,000 KDPH)`
 
-$$\text{Minimum Speed for 11.25 Qualifying Marks} = \mathbf{26.67 \text{ WPM (4,267 KDPH)}}$$
+`Minimum Speed for 11.25 Qualifying Marks = 26.67 WPM (4,267 KDPH)`
 
-$$\text{Marks Awarded} = \frac{\text{Net Key Depressions Typed}}{\text{Target Keystrokes (8000/12)}} \times 25$$
+`Marks Awarded = (Net Key Depressions Typed / Target Keystrokes (8000/12)) × 25`
 
 > [!CAUTION]
 > If a candidate fails to achieve the minimum qualifying score of 22.5 marks in Paper-I or Paper-II, they are eliminated immediately, even if they scored 280/300 in the written exam!

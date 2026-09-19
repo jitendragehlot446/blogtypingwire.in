@@ -34,7 +34,7 @@ Candidates shortlisted from the Tier-1 written examination must qualify the mand
 | **Minimum Required Speed** | **35 Words Per Minute (WPM)** | **30 Words Per Minute (WPM)** |
 | **Key Depressions (KDPH)** | **10,500 KDPH on Computer** | **9,000 KDPH on Computer** |
 | **Duration of Test** | **10 Minutes** | **10 Minutes** |
-| **Required Keystrokes** | **1,750 Keystrokes ($\pm 5\%$)** | **1,500 Keystrokes ($\pm 5\%$)** |
+| **Required Keystrokes** | **1,750 Keystrokes (±5%)** | **1,500 Keystrokes (±5%)** |
 | **Recruitment Body** | **DSSSB (Govt. of NCT of Delhi)** | **DSSSB (Govt. of NCT of Delhi)** |
 | **Font Standard** | Standard English Font | Mangal Unicode (Inscript / Remington GAIL) |
 | **Test Nature** | **Qualifying Only** | **Qualifying Only** |

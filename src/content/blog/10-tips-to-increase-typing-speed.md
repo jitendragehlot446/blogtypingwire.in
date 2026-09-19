@@ -62,4 +62,4 @@ Keep your wrists elevated slightly or resting on a comfortable ergonomic palm re
 Yes, mechanical switches with tactile feedback (like Brown or Red switches) provide consistent actuation points and reduce finger fatigue over long typing sessions.
 
 ### Q2: How is Net WPM calculated in official tests?
-$$\text{Net WPM} = \frac{\text{Total Words Typed} - (\text{Mistakes} \times \text{Penalty})}{\text{Time in Minutes}}$$
+`Net WPM = (Total Words Typed - (Mistakes × Penalty) / Time in Minutes)`

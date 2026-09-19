@@ -53,9 +53,9 @@ Candidates qualifying Phase-I are called for the **Phase-II Computer Data Entry 
 
 ## 2. Speed & Error Calculation Algorithm
 
-$$\text{Standard Words Typed} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Standard Words Typed = (Total Key Depressions Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Standard Words} - \text{Mistakes Penalty}}{\text{10 Minutes}}$$
+`Net Speed (WPM) = (Standard Words - Mistakes Penalty / 10 Minutes)`
 
 * Candidates must maintain **at least 93% to 95% net accuracy** to ensure their net speed remains above the 35 WPM qualifying line.
 

@@ -54,7 +54,7 @@ Examiners calculate mistakes based on word-level integrity:
 2. **Spelling & Punctuation Errors**: Every misspelled word or misplaced punctuation mark deducts **0.5 mark**.
 3. **Speed Cutoff Threshold**: Candidates typing below 45 Net WPM are disqualified instantly regardless of high written scores.
 
-$$\text{Net Speed (WPM)} = \frac{\text{Total Keystrokes Typed} / 5 - \text{Mistakes Penalty}}{\text{Time (10 Minutes)}}$$
+`Net Speed (WPM) = (Total Keystrokes Typed / 5 - Mistakes Penalty / Time (10 Minutes))`
 
 ---
 

@@ -39,21 +39,21 @@ The **Railway Recruitment Board (RRB) NTPC Computer Based Typing Skill Test (CBT
 
 ## 2. The Official RRB 5% Error Penalty Formula
 
-$$\text{Mistakes Allowed (5\% Limit)} = \text{Total Words Typed} \times 0.05$$
+`Mistakes Allowed (5% Limit) = Total Words Typed × 0.05`
 
-$$\text{Excess Mistakes} = \text{Total Mistakes} - \text{Mistakes Allowed}$$
+`Excess Mistakes = Total Mistakes - Mistakes Allowed`
 
-$$\text{Penalty Words} = \text{Excess Mistakes} \times 10$$
+`Penalty Words = Excess Mistakes × 10`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Total Words Typed} - \text{Penalty Words}}{10 \text{ Minutes}}$$
+`Net Speed (WPM) = (Total Words Typed - Penalty Words / 10 Minutes)`
 
 ### 📊 Calculation Example:
 If a candidate types **400 words** in 10 minutes and makes **24 mistakes**:
 1. 5% of 400 = **20 mistakes are completely exempt/ignored**.
-2. Excess Mistakes = $24 - 20 = \mathbf{4 \text{ mistakes}}$.
-3. Penalty Words = $4 \times 10 = \mathbf{40 \text{ words deducted}}$.
-4. Net Words = $400 - 40 = \mathbf{360 \text{ words}}$.
-5. Net Speed = $360 / 10 = \mathbf{36 \text{ WPM}}$ $\rightarrow$ **QUALIFIED (Above 30 WPM)!**
+2. Excess Mistakes = 24 - 20 = 4 mistakes.
+3. Penalty Words = 4 × 10 = 40 words deducted.
+4. Net Words = 400 - 40 = 360 words.
+5. Net Speed = 360 / 10 = 36 WPM \rightarrow **QUALIFIED (Above 30 WPM)!**
 
 ---
 

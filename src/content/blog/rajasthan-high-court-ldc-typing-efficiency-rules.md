@@ -32,8 +32,8 @@ The test is divided into **Paper-I (Speed Test)** and **Paper-II (Efficiency Tes
 | **English Typing** | 5 Minutes | 25 Marks | - | - |
 
 *Speed Formula for Full 25 Marks*:
-$$\text{Required Speed for Full 25/25 Marks} = 50 \text{ WPM (8000 KDPH)}$$
-$$\text{Minimum Speed for 11.25 Marks} = 26.67 \text{ WPM (Minimum 66.67 WPM equivalent)}$$
+`Required Speed for Full 25/25 Marks = 50 WPM (8000 KDPH)`
+`Minimum Speed for 11.25 Marks = 26.67 WPM (Minimum 66.67 WPM equivalent)`
 
 ---
 

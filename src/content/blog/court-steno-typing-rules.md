@@ -48,8 +48,8 @@ In standard evaluation guidelines:
 
 ## 3. Calculation Formula for Net Speed
 
-$$\text{Gross Speed (WPM)} = \frac{\text{Total Key Depressions} / 5}{\text{Test Duration (Minutes)}}$$
+`Gross Speed (WPM) = (Total Key Depressions / 5 / Test Duration (Minutes))`
 
-$$\text{Net Speed (WPM)} = \text{Gross Speed} - \left(\frac{\text{Total Errors} \times \text{Penalty Factor}}{\text{Duration}}\right)$$
+`Net Speed (WPM) = Gross Speed - ((Total Errors × Penalty Factor / Duration))`
 
 Prepare daily on TypingWire software to practice on realistic exam-simulated passages.

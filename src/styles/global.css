@@ -378,12 +378,37 @@ tbody tr:hover {
 }
 
 .article-content blockquote {
-  border-left: 3px solid var(--colors-primary);
+  border-left: 4px solid var(--colors-primary);
   background-color: var(--colors-surface-soft);
-  padding: 1.25rem 1.75rem;
-  margin: 2rem 0;
-  border-radius: 0 var(--rounded-md) var(--rounded-md) 0;
-  font-style: italic;
+  padding: 1.1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: var(--rounded-sm);
+  border: 1px solid var(--colors-hairline);
+  border-left-width: 4px;
+  border-left-color: var(--colors-primary);
+  font-size: 15.5px;
+  line-height: 1.7;
+}
+
+.article-content blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+.article-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.article-content blockquote code {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 600;
+  color: #0f172a;
+  background-color: #ffffff;
+  padding: 3px 8px;
+  border: 1px solid #cbd5e1;
+  border-radius: var(--rounded-xs);
+  display: inline-block;
+  margin: 2px 0;
 }
 
 code {

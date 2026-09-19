@@ -35,7 +35,7 @@ Conducted on the centralized **TCS iON Examination Engine**, the English typing 
 | **Speed Benchmark (WPM)** | **35 Words Per Minute** | **~27 Words Per Minute** |
 | **Key Depressions (KDPH)** | **10,500 KDPH** | **8,000 KDPH** |
 | **Duration of Skill Test** | **10 Minutes** | **15 Minutes** |
-| **Target Keystrokes** | **1,750 Keystrokes ($\pm 5\%$)** | **2,000 Keystrokes ($\pm 5\%$)** |
+| **Target Keystrokes** | **1,750 Keystrokes (±5%)** | **2,000 Keystrokes (±5%)** |
 | **Permissible Errors (UR)** | **7% Maximum** | **5% (High Cutoff) / 20% (General)** |
 | **Permissible Errors (OBC/EWS/SC/ST)** | **10% Maximum** | **7% (High Cutoff) / 30% (General)** |
 | **Software Platform** | TCS iON Online Engine | TCS iON Online Engine |
@@ -78,9 +78,9 @@ A 0.5 word deduction is applied for minor structural errors:
 
 ### 🧮 The Official SSC Mistake Percentage Formula
 
-$$\text{Total Errors} = \text{Full Mistakes} + (\text{Half Mistakes} \times 0.5)$$
+`Total Errors = Full Mistakes + (Half Mistakes × 0.5)`
 
-$$\text{Percentage Error (\%)} = \left( \frac{\text{Total Errors}}{\text{Total Words in Master Passage}} \right) \times 100$$
+`Percentage Error (%) = ( (Total Errors / Total Words in Master Passage) ) × 100`
 
 If your calculated error percentage exceeds the official category cutoff, you are declared **disqualified** in the skill test, irrespective of high Tier-1 or Tier-2 written marks.
 

@@ -46,7 +46,7 @@ The **High Court of Delhi (DHC)** recruits for the post of **Junior Judicial Ass
 
 Delhi High Court enforces one of the most stringent accuracy thresholds in India:
 
-$$\text{Allowable Errors} = \frac{3}{100} \times \text{Total Words Typed}$$
+`Allowable Errors = (3 / 100) × Total Words Typed`
 
 | Words Typed in 10 Mins | Maximum Allowed Errors (3%) | Minimum Words to Clear 35 WPM | Status |
 | :--- | :--- | :--- | :--- |

@@ -45,7 +45,7 @@ The **Maharashtra Public Service Commission (MPSC)** conducts the **Group-C Comb
 Candidates who apply for MPSC clerical posts must clear the online typing skill test conducted on MPSC's proprietary testing portal:
 * **Passage Selection**: Passages are drawn from official Maharashtra government resolutions (शासन निर्णय), historical texts, and administrative administrative reports.
 * **Accuracy Evaluation**: Errors are calculated on a word-by-word basis.
-$$\text{Net Speed (WPM)} = \frac{\text{Correct Words Typed} - (\text{Mistakes} \times 0.5)}{\text{Time (10 Minutes)}}$$
+`Net Speed (WPM) = (Correct Words Typed - (Mistakes × 0.5) / Time (10 Minutes))`
 
 ---
 

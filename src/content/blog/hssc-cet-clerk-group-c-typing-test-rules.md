@@ -41,9 +41,9 @@ The **Haryana Staff Selection Commission (HSSC)** conducts typing and steno skil
 
 ## 1. Speed Calculation & Mathematical Formula
 
-$$\text{Gross Words} = \frac{\text{Total Keystrokes Typed}}{5}$$
+`Gross Words = (Total Keystrokes Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{Time (5 Minutes)}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / Time (5 Minutes))`
 
 * Because the test is only **5 minutes long**, candidates must avoid hesitant starts. Pausing for even 20 seconds can cost you 4 to 6 WPM.
 

@@ -45,7 +45,7 @@ The computer typing test and basic computer knowledge test are crucial qualifyin
 ## 1. Official Evaluation Method & Mistake Scoring
 
 * **Net Word Calculation**: 
-  $$\text{Net Speed (WPM)} = \frac{\text{Total Words Typed} - \text{Mistakes Penalty}}{10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Total Words Typed - Mistakes Penalty / 10 Minutes)`
 * **Passage Subject Matter**: Passages are derived from legal judgments, court notices, and government administrative correspondence.
 * **Capitalization and Punctuation**: Strict adherence to commas, colons, case-sensitivity, and section references is evaluated.
 

@@ -46,10 +46,10 @@ The skill test on computer is a decisive qualifying phase for candidates shortli
 
 According to the Ministry of Defence rules for civilian posts:
 * **English Typists**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Correct Keystrokes} / 5}{10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Correct Keystrokes / 5 / 10 Minutes)`
   Candidates must type at least 1,750 correct keystrokes in 10 minutes (35 WPM).
 * **Hindi Typists**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Correct Keystrokes} / 5}{10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Correct Keystrokes / 5 / 10 Minutes)`
   Candidates must type at least 1,500 correct keystrokes in 10 minutes (30 WPM).
 
 ---

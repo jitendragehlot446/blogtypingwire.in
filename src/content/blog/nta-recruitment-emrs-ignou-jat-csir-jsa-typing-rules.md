@@ -48,9 +48,9 @@ The NTA browser-based testing portal provides:
 
 ## 2. Speed Evaluation Formula & Mistake Penalty
 
-$$\text{Gross Words} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Gross Words = (Total Key Depressions Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{10 Minutes}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / 10 Minutes)`
 
 * **Permissible Error Cutoff**: Candidates must maintain **93% to 95% net accuracy** to pass the qualifying threshold.
 

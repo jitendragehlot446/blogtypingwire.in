@@ -43,7 +43,7 @@ The **Uttarakhand Public Service Commission (UKPSC)** and the **Uttarakhand Subo
 
 In UKPSC notifications, typing speed is evaluated strictly in keystrokes:
 
-$$\text{Required Keystrokes in 10 Minutes} = \frac{4,000 \text{ KDPH}}{60} \times 10 = \mathbf{667 \text{ Keystrokes}}$$
+`Required Keystrokes in 10 Minutes = (4,000 KDPH / 60) × 10 = 667 Keystrokes`
 
 * To ensure full qualification with a high safety margin, candidates should aim for **800 to 1,000 keystrokes** in 10 minutes.
 * Full errors (skipped words, wrong characters) are penalized by deducting keystroke value.

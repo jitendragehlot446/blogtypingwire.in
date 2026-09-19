@@ -43,7 +43,7 @@ The **High Court of Jharkhand at Ranchi (Jharkhand High Court)** conducts skill 
 * **English Typing Test**: Candidates are provided a 300-word passage to type in 10 minutes. Net speed must not fall below **30 Words Per Minute**.
 * **Hindi Typing Test**: Candidates must type a 200-word passage in 10 minutes, maintaining at least **20 Words Per Minute**.
 * **Error Deduction Formula**:
-$$\text{Net Speed} = \frac{\text{Gross Words} - (\text{Mistakes} \times 5)}{\text{Time (10 Minutes)}}$$
+`Net Speed = (Gross Words - (Mistakes × 5) / Time (10 Minutes))`
 
 ---
 

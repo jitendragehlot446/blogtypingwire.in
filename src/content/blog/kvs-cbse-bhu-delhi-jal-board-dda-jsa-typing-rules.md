@@ -37,8 +37,8 @@ Autonomous educational and civic bodies — including **Kendriya Vidyalaya Sanga
 ## 1. Speed Evaluation & Mistake Calculations
 
 * **Standard Definition**: Speed is calculated on the standard **5 key depressions = 1 word** principle.
-$$\text{Gross WPM} = \frac{\text{Total Keystrokes}}{5 \times 10}$$
-$$\text{Net WPM} = \text{Gross WPM} - \left( \frac{\text{Mistakes Penalty}}{10} \right)$$
+`Gross WPM = (Total Keystrokes / 5 × 10)`
+`Net WPM = Gross WPM - ( (Mistakes Penalty / 10) )`
 * **Accuracy Threshold**: Candidates must achieve **at least 93% to 95% net accuracy** to qualify safely.
 
 ---

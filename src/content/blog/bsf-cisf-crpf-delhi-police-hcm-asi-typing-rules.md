@@ -47,23 +47,23 @@ The paramilitary typing test is widely recognized as one of the toughest skill t
 Paramilitary recruitment boards calculate net speed using an aggressive penalty formula:
 
 ### Step 1: Calculate Allowed Errors (5%)
-$$\text{Allowed Errors} = \frac{5}{100} \times \text{Total Words Typed}$$
+`Allowed Errors = (5 / 100) × Total Words Typed`
 
 ### Step 2: Calculate Excess Mistakes
-$$\text{Excess Mistakes} = \max(0, \text{Total Mistakes Committed} - \text{Allowed Errors})$$
+`Excess Mistakes = max(0, Total Mistakes Committed - Allowed Errors)`
 
 ### Step 3: Compute Net Speed with 10-Word Penalty
-$$\text{Net Words} = \text{Total Words Typed} - (\text{Excess Mistakes} \times 10)$$
-$$\text{Net Speed (WPM)} = \frac{\text{Net Words}}{\text{Time (10 Minutes)}}$$
+`Net Words = Total Words Typed - (Excess Mistakes × 10)`
+`Net Speed (WPM) = (Net Words / Time (10 Minutes))`
 
 ### 📊 Real Example:
 * Candidate types **400 words** in 10 minutes (Gross Speed = 40 WPM).
 * Allowed 5% mistakes = **20 mistakes**.
 * Candidate commits **25 mistakes** (5 excess mistakes).
-* Penalty = $5 \times 10 = \mathbf{50 \text{ words deducted}}$.
-* Net Words = $400 - 50 = \mathbf{350 \text{ words}}$.
-* **Net Speed** = $350 / 10 = \mathbf{35.0 \text{ WPM}}$ $\rightarrow$ **Barely Qualified!**
-* *If the candidate had committed 26 mistakes instead of 25, Net Speed would drop to 34.0 WPM $\rightarrow$ FAILED!*
+* Penalty = 5 × 10 = 50 words deducted.
+* Net Words = 400 - 50 = 350 words.
+* **Net Speed** = 350 / 10 = 35.0 WPM \rightarrow **Barely Qualified!**
+* *If the candidate had committed 26 mistakes instead of 25, Net Speed would drop to 34.0 WPM \rightarrow FAILED!*
 
 ---
 

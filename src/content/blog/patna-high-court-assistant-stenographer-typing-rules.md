@@ -48,7 +48,7 @@ Unlike central qualifying examinations, Patna High Court requires a high benchma
 * **Target Word Count**: Candidates must type approximately 400 words without excessive errors.
 * **Accuracy Requirement**: Minimum **90% Net Accuracy**. If your gross speed is 45 WPM but error rate exceeds 10%, you are disqualified immediately.
 * **Formula**:
-$$\text{Net Speed (WPM)} = \frac{\text{Correct Words Typed} - \text{Penalty Words}}{\text{Time in Minutes (10)}}$$
+`Net Speed (WPM) = (Correct Words Typed - Penalty Words / Time in Minutes (10))`
 
 ### 🅱️ English & Hindi Stenography Standards
 * **Dictation Duration**: 5 minutes at continuous **80 words per minute** (400 words total).

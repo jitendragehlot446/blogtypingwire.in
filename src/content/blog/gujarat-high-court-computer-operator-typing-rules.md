@@ -43,7 +43,7 @@ The **High Court of Gujarat (Ahmedabad)** conducts typing tests and computer pro
 
 In Gujarat High Court notifications, speed is defined strictly in **Key Depressions Per Hour (KDPH)**:
 
-$$\text{Required Keystrokes in 10 Minutes} = \frac{5,000 \text{ KDPH}}{60} \times 10 = \mathbf{833 \text{ Keystrokes}}$$
+`Required Keystrokes in 10 Minutes = (5,000 KDPH / 60) × 10 = 833 Keystrokes`
 
 * To ensure safety, candidates should aim for **1,000 to 1,200 keystrokes** (~25 to 30 WPM) in 10 minutes.
 * Full deductions are levied for missing Gujarati matras, anusvara, and halant formations.

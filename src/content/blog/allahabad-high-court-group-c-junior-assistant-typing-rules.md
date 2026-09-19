@@ -47,9 +47,9 @@ Unlike RO/ARO recruitments which test only English typing, the **Group C examina
 
 In Allahabad High Court Group C, high marks in typing separate the top rankers from the rest:
 
-$$\text{Hindi Score (Out of 25)} = 25 - (\text{Total Errors} \times 0.25)$$
+`Hindi Score (Out of 25) = 25 - (Total Errors × 0.25)`
 
-$$\text{English Score (Out of 25)} = 25 - (\text{Total Errors} \times 0.25)$$
+`English Score (Out of 25) = 25 - (Total Errors × 0.25)`
 
 ### Error Deductions:
 * **Each Full Error (Word Omission, Word Substitution)**: Deducts **0.25 to 0.50 marks**.

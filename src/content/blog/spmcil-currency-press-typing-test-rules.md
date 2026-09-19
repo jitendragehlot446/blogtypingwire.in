@@ -46,7 +46,7 @@ For recruitment to the post of **Junior Office Assistant (JOA) at W-3 Level**, c
 
 * **Standard Word**: Calculated on the basis of 5 key depressions per word.
 * **Speed Formula**:
-  $$\text{Net Speed (WPM)} = \frac{\text{Total Keystrokes Typed} - (\text{Mistake Penalty} \times 5)}{5 \times 10 \text{ Minutes}}$$
+  `Net Speed (WPM) = (Total Keystrokes Typed - (Mistake Penalty × 5) / 5 × 10 Minutes)`
 * Candidates must achieve the requisite 35 WPM (English) or 30 WPM (Hindi) net speed to clear the phase.
 
 ---

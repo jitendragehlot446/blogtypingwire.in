@@ -36,8 +36,8 @@ The **Staff Selection Commission (SSC)** conducts the **Selection Post (Phase Ex
 
 ## 1. Key Depressions Per Hour (KDPH) Explained for Selection Post
 
-* **8,000 KDPH**: Requires typing **2,000 keystrokes in 15 minutes** ($\approx 27$ WPM on a 5-keystroke standard word).
-* **15,000 KDPH**: Requires typing **3,750 keystrokes in 15 minutes** ($\approx 50$ WPM). This rigorous test applies to specialized statistical and financial ministries.
+* **8,000 KDPH**: Requires typing **2,000 keystrokes in 15 minutes** (`approx 27` WPM on a 5-keystroke standard word).
+* **15,000 KDPH**: Requires typing **3,750 keystrokes in 15 minutes** (`approx 50` WPM). This rigorous test applies to specialized statistical and financial ministries.
 
 ---
 

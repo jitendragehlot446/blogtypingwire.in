@@ -35,6 +35,11 @@
 - [DSSSB Delhi District Court JJA Typing Test Rules](https://blog.typingwire.in/blog/dsssb-district-court-jja-typing-test-rules/): 35 WPM English, 10 minutes, strict 3% error limit.
 
 ## 👮 State Commissions, Police & Paramilitary Tests
+- [CRPF HCM Typing Test Rules & 10-Word Penalty Formula](https://blog.typingwire.in/blog/crpf-head-constable-ministerial-hcm-typing-test-rules/): 35 WPM English / 30 WPM Hindi, paper-to-screen typing, 10-word deduction formula.
+- [BSF HCM Typing Test Rules & Guidelines](https://blog.typingwire.in/blog/bsf-head-constable-ministerial-hcm-typing-test-rules/): 35 WPM English / 30 WPM Hindi, 10-minute test, printed paper typing.
+- [ITBP HCM Typing Test Rules](https://blog.typingwire.in/blog/itbp-head-constable-ministerial-hcm-typing-test-rules/): 35 WPM English / 30 WPM Hindi, 10.5% mistake limit.
+- [SSB HCM Typing Test Rules](https://blog.typingwire.in/blog/ssb-head-constable-ministerial-hcm-typing-test-rules/): 35 WPM English / 30 WPM Hindi, Sashastra Seema Bal ministerial rules.
+- [Assam Rifles Havildar Clerk Typing Test Rules](https://blog.typingwire.in/blog/assam-rifles-havildar-clerk-typing-test-rules/): 35 WPM English / 30 WPM Hindi, ARTC&S Dimapur/Sukhovi rally guidelines.
 - [Bihar Police BPSSC Steno ASI Typing Test Rules](https://blog.typingwire.in/blog/bihar-police-bpssc-steno-asi-typing-rules/): 30 WPM English / 25 WPM Hindi, 80 WPM shorthand dictation.
 - [UP Police ASI Accounts (Lekha) Typing Rules](https://blog.typingwire.in/blog/up-police-asi-accounts-lekha-typing-rules/): 15 WPM Hindi in Mangal Inscript layout, 85% accuracy cutoff.
 - [Bihar Vidhan Sabha & Parishad DEO Typing Rules](https://blog.typingwire.in/blog/bihar-vidhan-sabha-parishad-sachivalaya-typing-rules/): 30 WPM English & Hindi in Mangal Remington, 5% error limit.
@@ -66,7 +71,8 @@
 - [UKPSC & UKSSSC RO ARO Typing Test Rules](https://blog.typingwire.in/blog/ukpsc-uksssc-ro-aro-aps-typing-rules/): Mandatory 4,000 KDPH in Hindi (Unicode Mangal Font) and 8,000 KDPH English.
 - [WBPSC Clerkship, Odisha OSSC & JKSSB Typing Rules](https://blog.typingwire.in/blog/wbpsc-clerkship-odisha-ossc-jkssb-typing-rules/): 20 WPM English / 10 WPM Bengali for WBPSC, 30-35 WPM for OSSC and JKSSB.
 
-## 🚆 Railway, PSUs & Educational Institutes
+- [FCI Assistant Grade-III Typist Rules](https://blog.typingwire.in/blog/fci-assistant-grade-3-typist-typing-test-rules/): 30 WPM Hindi on computer in 10 minutes, Mangal font guidelines.
+- [ISRO Assistant & JPA Typing Rules](https://blog.typingwire.in/blog/isro-assistant-junior-personal-assistant-typing-rules/): 35 WPM English, 10 minutes, ICRB computer literacy test.
 - [JCI Junior Assistant (Jute Corporation) Typing Rules](https://blog.typingwire.in/blog/jci-jute-corporation-junior-assistant-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes.
 - [BHU Junior Clerk Typing Test Rules](https://blog.typingwire.in/blog/bhu-junior-clerk-typist-typing-test-rules/): 30 WPM English / 25 WPM Hindi in 10 minutes, NTA pattern.
 - [CBSE Junior Assistant Typing Test Rules](https://blog.typingwire.in/blog/cbse-junior-assistant-typing-test-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, board guidelines.

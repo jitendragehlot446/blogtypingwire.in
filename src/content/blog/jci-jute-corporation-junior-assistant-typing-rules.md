@@ -46,7 +46,7 @@ The computer typing test is a mandatory qualifying requirement for candidates sh
 
 * **Word Standard**: 5 key depressions = 1 word.
 * **Speed Formula**:
-  $$\text{Net WPM} = \frac{\text{Gross Keystrokes} - (\text{Mistake Penalty} \times 5)}{5 \times 10 \text{ Minutes}}$$
+  `Net WPM = (Gross Keystrokes - (Mistake Penalty × 5) / 5 × 10 Minutes)`
 * Candidates maintaining at least 95% accuracy easily clear the qualifying net WPM threshold.
 
 Practice official JCI Junior Assistant mock tests on [TypingWire.in](https://typingwire.in/practice-exams/jci-english-typing-jute-corporation).

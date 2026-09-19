@@ -41,7 +41,7 @@ The **Phase-II Typewriting & Efficiency Test carries 100 marks** that are direct
 
 ## 1. Speed Test Marking Mathematical Model
 
-$$\text{Marks Awarded} = \frac{\text{Net Key Depressions Typed}}{\text{Benchmark Depressions}} \times 25$$
+`Marks Awarded = (Net Key Depressions Typed / Benchmark Depressions) × 25`
 
 * Target speed to secure the maximum **25 out of 25 marks** is **50 WPM (8,000 KDPH)**.
 * Minimum speed to secure **9 qualifying marks** is **28 WPM (approx 4,480 KDPH)**.

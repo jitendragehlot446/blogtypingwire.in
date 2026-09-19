@@ -36,7 +36,7 @@ The selection process includes a Written CBT followed by the mandatory **Stage-I
 | **Test Duration** | **10 Minutes** | **10 Minutes** |
 | **Passage Length** | Approx **300 to 400 Words** | Tabular Data Problem |
 | **Maximum Marks** | Qualifying Benchmark | **10 Marks** |
-| **Qualifying Cutoff** | **30 WPM with $\le 8\%$ Mistakes** | **3.3 Marks Out of 10 (33%)** |
+| **Qualifying Cutoff** | **30 WPM with \le 8% Mistakes** | **3.3 Marks Out of 10 (33%)** |
 | **Nature of Examination** | Mandatory Qualifying | Mandatory Qualifying |
 | **Backspace Allowed** | **Yes (Full Editing Enabled)** | Yes |
 
@@ -46,15 +46,15 @@ The selection process includes a Written CBT followed by the mandatory **Stage-I
 
 SSSC evaluates candidate transcripts based on exact net speed:
 
-$$\text{Gross Words} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Gross Words = (Total Key Depressions Typed / 5)`
 
-$$\text{Percentage Errors (\%)} = \left( \frac{\text{Total Mistakes Committed}}{\text{Total Words Typed}} \right) \times 100$$
+`Percentage Errors (%) = ( (Total Mistakes Committed / Total Words Typed) ) × 100`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{10 Minutes}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / 10 Minutes)`
 
 > [!IMPORTANT]
 > To qualify, candidates must satisfy **BOTH conditions**:
-> 1. Net speed must be **$\ge 30.0$ WPM**.
+> 1. Net speed must be **\ge 30.0 WPM**.
 > 2. Total mistakes must **not exceed 8.0%** of the words typed.
 
 ---

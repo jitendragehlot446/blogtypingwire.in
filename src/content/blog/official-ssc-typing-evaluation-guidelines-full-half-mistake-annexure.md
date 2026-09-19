@@ -31,7 +31,7 @@ The **Staff Selection Commission (SSC)** issues an official regulatory annexure 
 | :--- | :--- | :--- | :--- |
 | **Full Mistake (1.0)** | **100% Word Penalty** | **5% Max Errors (UR)** | **7% Max Errors (UR)** |
 | **Half Mistake (0.5)** | **50% Word Penalty** | **7% Max Errors (OBC/EWS/SC/ST)** | **10% Max Errors (Reserved)** |
-| **Master Word Basis** | Calculated against master passage total words | Standard 2000 Keystrokes ($\pm 5\%$) | Standard 1750 Keystrokes |
+| **Master Word Basis** | Calculated against master passage total words | Standard 2000 Keystrokes (±5%) | Standard 1750 Keystrokes |
 
 ---
 
@@ -60,16 +60,16 @@ The **Staff Selection Commission (SSC)** issues an official regulatory annexure 
 
 ## 2. Official SSC Error Percentage Calculation Formula
 
-$$\text{Total Errors} = \text{Full Mistakes} + (\text{Half Mistakes} \times 0.5)$$
+`Total Errors = Full Mistakes + (Half Mistakes × 0.5)`
 
-$$\text{Percentage Error (\%)} = \left( \frac{\text{Total Errors}}{\text{Total Words in Master Passage}} \right) \times 100$$
+`Percentage Error (%) = ( (Total Errors / Total Words in Master Passage) ) × 100`
 
 ### 📊 Practical Numerical Example:
 * Master Passage contains **400 words**.
 * Candidate commits **12 Full Mistakes** (Omissions/Substitutions).
 * Candidate commits **8 Half Mistakes** (Punctuation/Capitalization).
-* Total Mistakes = $12 + (8 \times 0.5) = 12 + 4 = \mathbf{16 \text{ Errors}}$.
-* Percentage Error = $\left(\frac{16}{400}\right) \times 100 = \mathbf{4.0\%}$.
+* Total Mistakes = 12 + (8 × 0.5) = 12 + 4 = 16 Errors.
+* Percentage Error = \left(\frac{16}{400}\right) × 100 = 4.0%.
 * **Result**: Since 4.0% is below the 5% UR threshold, the candidate **QUALIFIES with distinction**!
 
 ---

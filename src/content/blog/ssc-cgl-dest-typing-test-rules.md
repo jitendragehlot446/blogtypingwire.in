@@ -30,7 +30,7 @@ In this official guide, we break down the exact speed calculation formula, permi
 | Parameter | English DEST | Hindi DEST |
 | :--- | :--- | :--- |
 | **Duration** | 15 Minutes | 15 Minutes |
-| **Target Key Depressions** | 2000 Keystrokes ($\pm 5\%$) | 2000 Keystrokes ($\pm 5\%$) |
+| **Target Key Depressions** | 2000 Keystrokes (±5%) | 2000 Keystrokes (±5%) |
 | **Effective Word Speed** | ~27 WPM (Words Per Minute) | ~30 WPM (Words Per Minute) |
 | **Word Count in Passage** | Approx 350 - 400 Words | Approx 350 - 400 Words |
 | **Keyboard Layout** | Standard QWERTY | Mangal Inscript / Remington Gail |
@@ -70,13 +70,13 @@ SSC uses a rigorous error evaluation algorithm to compute candidate mistakes:
 
 ## 4. SSC Error Percentage Formula
 
-$$\text{Total Mistakes} = \text{Full Mistakes} + \left(\frac{\text{Half Mistakes}}{2}\right)$$
+`Total Mistakes = Full Mistakes + ((Half Mistakes / 2))`
 
-$$\text{Error Percentage (\%)} = \left(\frac{\text{Total Mistakes} \times 100}{\text{Total Words in Master Passage}}\right)$$
+`Error Percentage (%) = ((Total Mistakes × 100 / Total Words in Master Passage))`
 
 *Example*: If the passage has 400 words, and you make 10 Full Mistakes and 6 Half Mistakes:
-$$\text{Total Mistakes} = 10 + \frac{6}{2} = 13$$
-$$\text{Error \%} = \frac{13 \times 100}{400} = 3.25\% \quad (\text{Qualified under 5\% limit})$$
+`Total Mistakes = 10 + (6 / 2) = 13`
+`Error % = (13 × 100 / 400) = 3.25% (Qualified under 5% limit)`
 
 ---
 

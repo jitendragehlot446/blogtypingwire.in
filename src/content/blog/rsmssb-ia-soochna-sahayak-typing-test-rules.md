@@ -53,9 +53,9 @@ On paper, **15 WPM** sounds extremely easy. However, in previous RSMSSB IA exami
 
 ## 2. Speed Calculation & Formula
 
-$$\text{Gross Words} = \frac{\text{Total Key Depressions Typed}}{5}$$
+`Gross Words = (Total Key Depressions Typed / 5)`
 
-$$\text{Net Speed (WPM)} = \frac{\text{Gross Words} - \text{Mistakes Penalty}}{\text{Time (15 Minutes)}}$$
+`Net Speed (WPM) = (Gross Words - Mistakes Penalty / Time (15 Minutes))`
 
 * Minimum threshold: You must successfully complete at least **225 words with high accuracy** in each 15-minute slot.
 

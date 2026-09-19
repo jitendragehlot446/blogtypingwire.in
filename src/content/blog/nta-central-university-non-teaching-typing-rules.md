@@ -44,6 +44,6 @@ Following the CBT written test, candidates must clear the computer typing test. 
 ## 1. NTA Evaluation Formula & Keystroke Accounting
 
 * Standard formula: 1 word equals 5 keystrokes.
-* Net speed is computed by subtracting error penalties from gross keystrokes before dividing by 50 (5 keystrokes $\times$ 10 minutes).
+* Net speed is computed by subtracting error penalties from gross keystrokes before dividing by 50 (5 keystrokes `×` 10 minutes).
 
 Practice NTA Central University mock tests (Visva Bharati, MGCU) on [TypingWire.in](https://typingwire.in/practice-exams/nta-central-university-english-typing).
