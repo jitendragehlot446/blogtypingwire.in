@@ -27,13 +27,20 @@
 - [Gujarat High Court Computer Operator & Steno](https://blog.typingwire.in/blog/gujarat-high-court-computer-operator-typing-rules/): 5000 KDPH requirement, CPT syllabus, and stenography speed standards.
 - [Jharkhand High Court Clerk & Steno Typing Rules](https://blog.typingwire.in/blog/jharkhand-high-court-clerk-steno-dso-typing-rules/): 20 WPM Hindi and 30 WPM English speed, marking scheme and cutoffs.
 - [Telangana & Andhra Pradesh High Court Typist Rules](https://blog.typingwire.in/blog/telangana-andhra-pradesh-high-court-typing-rules/): 45 WPM English speed test, pay scale, salary structure and exam syllabus.
-- [Court & Stenographer Typing Rules: Full vs Half Mistakes](https://blog.typingwire.in/blog/court-steno-typing-rules/): Shorthand transcription speeds (80-100 WPM) and full vs half mistake rules.
+- [Punjab & Haryana High Court Clerk (SSSC) Typing Rules](https://blog.typingwire.in/blog/punjab-haryana-high-court-clerk-sssc-typing-rules/): 30 WPM English typing, 8% mistake cutoff, and Spreadsheet test.
+- [HP High Court Clerk Typing Test Rules](https://blog.typingwire.in/blog/hp-high-court-clerk-steno-typing-test-rules/): 30 WPM English in 10 minutes, 10% permissible mistakes.
 
 ## 👮 State Commissions, Police & Paramilitary Tests
+- [HSSC CET Group C Clerk Typing Test Rules](https://blog.typingwire.in/blog/hssc-cet-clerk-group-c-typing-test-rules/): 30 WPM English / 25 WPM Hindi in 5 minutes.
+- [PSSSB Clerk Typing Test: Punjabi (Raavi Font)](https://blog.typingwire.in/blog/psssb-clerk-punjabi-raavi-font-typing-test-rules/): 30 WPM Punjabi on Raavi font (Asees) & 30 WPM English.
+- [RSMSSB Informatics Assistant (IA / सूचना सहायक) Typing Rules](https://blog.typingwire.in/blog/rsmssb-ia-soochna-sahayak-typing-test-rules/): Hindi 15 WPM + English 15 WPM in 15 minutes.
+- [MP CPCT Typing Test Rules & Scorecard Validity](https://blog.typingwire.in/blog/mp-cpct-typing-test-rules-scorecard-validity/): English 30 WPM, Hindi 20 WPM Remington Gail, 7-year validity.
 - [Delhi Police Head Constable (HCM) Typing Test Rules](https://blog.typingwire.in/blog/delhi-police-head-constable-typing-test-rules/): 30 WPM English / 25 WPM Hindi, 25-mark speed slabs, and error rules.
 - [Paramilitary HCM Typing Test Rules: BSF, CISF, CRPF](https://blog.typingwire.in/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/): 35 WPM English / 30 WPM Hindi, 5% error limit and 10-word deduction formula.
+- [CISF & CRPF HCM Typing Test Ground Reality Experience](https://blog.typingwire.in/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/): Real exam hall experience, paper-to-screen typing, 10-word penalty and survival tips.
 - [UP Police ASI & Computer Operator Typing Rules](https://blog.typingwire.in/blog/up-police-asi-computer-operator-typing-rules/): 25 WPM Hindi Unicode Mangal (Inscript) & 30 WPM English, 85% accuracy cutoff.
 - [UPSSSC Junior Assistant Typing Test Rules](https://blog.typingwire.in/blog/upsssc-junior-assistant-clerk-typing-rules/): Mandatory Hindi (25 WPM Mangal/KrutiDev) AND English (30 WPM) 5-minute qualifying test.
+- [Allahabad High Court Group C Junior Assistant Typing Rules](https://blog.typingwire.in/blog/allahabad-high-court-group-c-junior-assistant-typing-rules/): Hindi 25 WPM (Mangal Inscript/Remington) + English 30 WPM 50-mark pattern.
 - [Bihar Beltron DEO & BSSC 2nd Inter Level Typing Rules](https://blog.typingwire.in/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/): Hindi Mangal Remington Gail (30 WPM), English (35 WPM) and passing cutoffs.
 - [DSSSB LDC, Junior Assistant & JJA Typing Rules](https://blog.typingwire.in/blog/dsssb-ldc-junior-assistant-steno-jja-typing-rules/): 35 WPM English or 30 WPM Hindi (10 minutes), retyping rules, KDPH conversion and cutoff.
 - [RSSB / RSMSSB LDC Typing & Efficiency Test Rules](https://blog.typingwire.in/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/): Phase-II 100-mark scheme, 36% qualifying cutoff, DevLys 010 font guidelines.
@@ -45,19 +52,11 @@
 ## 🚆 Railway & Educational Institutes
 - [RRB NTPC Typing Test (CBTST) Rules 2026](https://blog.typingwire.in/blog/rrb-ntpc-cbtst-typing-skill-test-rules/): 30 WPM English / 25 WPM Hindi, 5% error limit, 10-word penalty formula and software interface rules.
 - [Official RRB NTPC CBTST Clause 13.5 Breakdown](https://blog.typingwire.in/blog/official-rrb-ntpc-cbtst-guidelines-cen-notification-rules/): Clause 13.5 notification guidelines, speed conversion, and mistake formula.
+- [EPFO SSA Typing Test Rules (NTA Pattern)](https://blog.typingwire.in/blog/epfo-ssa-typing-test-rules-nta-pattern/): 35 WPM English / 30 WPM Hindi in 10 minutes on NTA software.
 - [AIIMS CRE Junior Administrative Assistant Typing Rules](https://blog.typingwire.in/blog/aiims-cre-junior-admin-assistant-typing-rules/): 35 WPM English or 30 WPM Hindi (10-minute test), stroke penalty formula and qualifying criteria.
 - [NTA Typing Test Rules: EMRS JSA, IGNOU JAT & CSIR](https://blog.typingwire.in/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs.
 - [KVS, CBSE, BHU & DDA JSA Typing Test Rules](https://blog.typingwire.in/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/): 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes.
-
-- [Allahabad High Court Group C Junior Assistant Typing Rules](https://blog.typingwire.in/blog/allahabad-high-court-group-c-junior-assistant-typing-rules/): Hindi 25 WPM (Mangal Inscript/Remington) + English 30 WPM 50-mark pattern.
 - [SSC Typing Test Exemption Rules & Medical Certificate](https://blog.typingwire.in/blog/ssc-typing-test-exemption-rules-medical-certificate-format/): Complete guide to PwD DEST exemption, CMO Civil Surgeon certificate format.
-- [CISF & CRPF HCM Typing Test Ground Reality Experience](https://blog.typingwire.in/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/): Real exam hall experience, paper-to-screen typing, 10-word penalty and survival tips.
-
-## 🚆 Railway & Educational Institutes
-- [RRB NTPC Typing Test (CBTST) Rules 2026](https://blog.typingwire.in/blog/rrb-ntpc-cbtst-typing-skill-test-rules/): 30 WPM English / 25 WPM Hindi, 5% error limit, 10-word penalty formula and software interface rules.
-- [Official RRB NTPC CBTST Clause 13.5 Breakdown](https://blog.typingwire.in/blog/official-rrb-ntpc-cbtst-guidelines-cen-notification-rules/): Clause 13.5 notification guidelines, speed conversion, and mistake formula.
-- [AIIMS CRE Junior Administrative Assistant Typing Rules](https://blog.typingwire.in/blog/aiims-cre-junior-admin-assistant-typing-rules/): 35 WPM English or 30 WPM Hindi (10-minute test), stroke penalty formula and qualifying criteria.
-- [NTA Typing Test Rules: EMRS JSA, IGNOU JAT & CSIR](https://blog.typingwire.in/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs.
 - [KVS, CBSE, BHU & DDA JSA Typing Test Rules](https://blog.typingwire.in/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/): 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes.
 
 ## ⌨️ Technical Tutorials, Drills & Hardware
