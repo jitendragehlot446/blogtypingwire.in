@@ -3,12 +3,13 @@
 > Official knowledge and examination rules portal of [TypingWire.in](https://typingwire.in) — India's premier typing test, preparation, and speed evaluation platform. We publish authoritative, verified guidelines for government typing tests (SSC, High Courts, Steno, Police, DSSSB, Railways), mistake calculation formulas, and keyboard reviews.
 
 ## 🏛️ Central Government & SSC Typing Guides
+- [SSC English Typing Test 2026: Speed, Mistakes & CGL vs CHSL Rules](https://blog.typingwire.in/blog/ssc-english-typing-test-rules-speed-mistakes/): 35 WPM vs 27 WPM speed, KDPH calculation, full vs half mistakes, TCS iON software interface, and cutoff percentages.
+- [SSC Hindi Typing Test 2026: Speed, Mangal Layouts & Mistakes Allowed](https://blog.typingwire.in/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/): 30 WPM speed, Mangal Unicode font, Inscript vs Remington Gail vs CBI layout.
 - [SSC CGL DEST Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-cgl-dest-typing-test-rules/): 2000 KD / 15-minute speed criteria (~27 WPM), error cutoffs (UR 5%, OBC/EWS 7%), and mistake evaluation rules.
 - [SSC CHSL Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-chsl-typing-test-rules/): LDC/JSA 35 WPM English & 30 WPM Hindi in 10 minutes, DEO 15000 KDPH Grade A test, 7% to 10% allowed error limits.
 - [SSC CGL vs CHSL Typing Test Comparison](https://blog.typingwire.in/blog/ssc-cgl-vs-chsl-typing-test-comparison/): Duration (15m vs 10m), speeds (27 vs 35 WPM), and error percentage cutoffs compared.
 - [SSC Stenographer Grade C & D Skill Test Rules](https://blog.typingwire.in/blog/ssc-stenographer-grade-c-d-typing-skill-test-rules/): 100 WPM & 80 WPM shorthand dictation, transcription duration, and permissible mistake cutoffs.
 - [SSC Selection Post Typing Test Rules](https://blog.typingwire.in/blog/ssc-selection-post-phase-typing-test-rules/): Matriculation, Higher Secondary and Graduate level post-wise speed criteria and KDPH limits.
-- [SSC Hindi Typing Test Rules: Mangal Inscript vs Remington Gail](https://blog.typingwire.in/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/): 30 WPM speed, Mangal Unicode font, Inscript vs Remington Gail vs CBI layout.
 - [SSC Typing Test Software Interface Walkthrough](https://blog.typingwire.in/blog/ssc-typing-test-software-interface-backspace-rules/): Split-screen layout, mock test session, backspace functionality, auto-scrolling and live timer behavior.
 - [Official SSC Full vs Half Mistake Annexure Guidelines](https://blog.typingwire.in/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/): Comprehensive manual for full mistakes (1.0) and half mistakes (0.5).
 

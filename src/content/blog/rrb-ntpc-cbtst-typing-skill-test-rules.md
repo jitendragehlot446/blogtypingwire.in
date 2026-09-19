@@ -3,7 +3,7 @@ title: "RRB NTPC Typing Test 2026: CBTST Speed Rules, 5% Error Formula & Backspa
 description: "RRB NTPC Typing Test (CBTST) 2026 complete rules. Required speed (30 WPM English / 25 WPM Hindi), 5% error limit, 10-word penalty formula and software interface rules."
 pubDate: 2026-08-16
 category: "Exam Rules"
-tags: ["rrb ntpc", "cbtst", "railway typing", "krutidev", "typing test"]
+tags: ["rrb ntpc typing test", "rrb ntpc english typing test", "rrb ntpc hindi typing test", "cbtst typing test", "railway typing speed", "krutidev typing"]
 author: "TypingWire Editorial Team"
 featured: true
 heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
