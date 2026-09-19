@@ -3,32 +3,46 @@ title: "KVS & DDA JSA Typing Test 2026: 35 WPM English & 30 WPM Hindi Speed Rule
 description: "KVS, CBSE, BHU, Delhi Jal Board and DDA JSA Typing Test 2026 guidelines. 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes."
 pubDate: 2026-08-16
 category: "Exam Rules"
-tags: ["kvs ldc", "cbse junior assistant", "bhu clerk", "delhi jal board", "dda jsa"]
+tags: ["kvs jsa typing", "dda jsa", "cbse clerk typing", "delhi jal board", "bhu clerk", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=720&auto=format&fit=crop&q=80"
-imageAlt: "KVS, CBSE, BHU and DDA typing test rules"
+heroImage: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80"
+imageAlt: "KVS CBSE DDA JSA typing test rules"
 faqs:
-  - question: "What is the speed requirement for KVS LDC / Junior Secretariat Assistant?"
-    answer: "KVS requires 35 WPM in English (10,500 KDPH) or 30 WPM in Hindi (9,000 KDPH) in a 10-minute test."
-  - question: "What is the speed requirement for DDA JSA & ASO?"
-    answer: "DDA JSA requires 35 WPM English / 30 WPM Hindi in 10 minutes. DDA ASO requires 525 words in 15 minutes (35 WPM)."
-  - question: "What is the test duration for Delhi Jal Board Junior Assistant?"
-    answer: "Delhi Jal Board conducts a 10-minute test requiring 35 WPM English (2100 keys) or 30 WPM Hindi (1800 keys) in Mangal font."
+  - question: "What is the typing speed requirement for KVS Junior Secretariat Assistant (JSA)?"
+    answer: "KVS JSA requires a typing speed of 35 WPM in English (10,500 KDPH) OR 30 WPM in Hindi (9,000 KDPH) in a 10-minute computer-based test."
+  - question: "What is the speed requirement for DDA Junior Secretariat Assistant (JSA)?"
+    answer: "Delhi Development Authority (DDA) JSA requires 35 WPM in English OR 30 WPM in Hindi on computer, qualifying nature."
+  - question: "Which font is used for Hindi typing in KVS and CBSE exams?"
+    answer: "Unicode Mangal Font on Inscript or Remington (Gail) keyboard layout is standard for KVS, CBSE, and DDA typing exams."
+  - question: "Is Backspace allowed during KVS and DDA typing skill tests?"
+    answer: "Yes, Backspace and arrow keys are fully functional during the 10-minute typing session."
 ---
 
-Autonomous bodies and central universities like **Kendriya Vidyalaya Sangathan (KVS), CBSE, Banaras Hindu University (BHU), Delhi Jal Board (DJB), and Delhi Development Authority (DDA)** test clerical candidates on 10 to 15-minute computer typing tests.
+Autonomous educational and civic bodies — including **Kendriya Vidyalaya Sangathan (KVS)**, **Central Board of Secondary Education (CBSE)**, **Delhi Development Authority (DDA)**, **Banaras Hindu University (BHU)**, and **Delhi Jal Board** — conduct examinations for **Junior Secretariat Assistant (JSA), Junior Assistant, and Lower Division Clerk (LDC)**.
 
 ---
 
-## 1. Exam Specifications & Criteria
+## ⚡ Quick Exam Snapshot (TL;DR Fact Matrix)
 
-| Organization | Post | Medium | Duration | Speed Required |
-| :--- | :--- | :--- | :--- | :--- |
-| **KVS (Kendriya Vidyalaya)** | JSA / LDC | English / Hindi | 10 Minutes | **35 / 30 WPM** |
-| **CBSE** | Junior Assistant | English / Hindi | 10 Minutes | **35 / 30 WPM** (2750/2250 Keys) |
-| **BHU (Banaras Hindu Univ.)** | Junior Clerk | English / Hindi | 10 Minutes | **30 / 25 WPM** (500/400 Words) |
-| **Delhi Jal Board (DJB)** | Junior Assistant | English / Hindi | 10 Minutes | **35 / 30 WPM** (2100/1800 Keys) |
-| **DDA** | JSA & ASO | English / Hindi | 10 / 15 Mins | **35 / 30 WPM** |
+| Commission / Institute | Post Name | English Speed | Hindi Speed | Duration | Nature |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **KVS (Kendriya Vidyalaya)** | Junior Secretariat Assistant (JSA)| **35 WPM (10500 KDPH)** | **30 WPM (9000 KDPH)** | 10 Minutes | Qualifying |
+| **DDA (Delhi Development Authority)**| Junior Secretariat Assistant (JSA)| **35 WPM (10500 KDPH)** | **30 WPM (9000 KDPH)** | 10 Minutes | Qualifying |
+| **CBSE** | Junior Assistant / Accounts Clerk| **35 WPM (10500 KDPH)** | **30 WPM (9000 KDPH)** | 10 Minutes | Qualifying |
+| **BHU (Central University)**| Junior Clerk / Office Assistant | **35 WPM (10500 KDPH)** | **30 WPM (9000 KDPH)** | 10 Minutes | Qualifying |
 
-Practice simulated test profiles on [TypingWire.in](https://typingwire.in).
+---
+
+## 1. Speed Evaluation & Mistake Calculations
+
+* **Standard Definition**: Speed is calculated on the standard **5 key depressions = 1 word** principle.
+$$\text{Gross WPM} = \frac{\text{Total Keystrokes}}{5 \times 10}$$
+$$\text{Net WPM} = \text{Gross WPM} - \left( \frac{\text{Mistakes Penalty}}{10} \right)$$
+* **Accuracy Threshold**: Candidates must achieve **at least 93% to 95% net accuracy** to qualify safely.
+
+---
+
+## 2. Practice Drills on TypingWire
+
+Practice standard academic and administrative passages on [TypingWire.in](https://typingwire.in).

@@ -1,28 +1,62 @@
 # TypingWire Editorial & Exam Rules Portal (blog.typingwire.in)
 
-> Official knowledge and examination rules subdomain of [TypingWire.in](https://typingwire.in) — India's premier typing test, preparation, and speed evaluation platform. We publish authoritative, verified guidelines for government typing tests (SSC, High Courts, Steno, Police, DSSSB), mistake calculation formulas, and hardware reviews.
+> Official knowledge and examination rules portal of [TypingWire.in](https://typingwire.in) — India's premier typing test, preparation, and speed evaluation platform. We publish authoritative, verified guidelines for government typing tests (SSC, High Courts, Steno, Police, DSSSB, Railways), mistake calculation formulas, and keyboard reviews.
 
-## Core Examination Guides
-- [SSC CGL DEST Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-cgl-dest-typing-test-rules/): 2000 KDPH / 27 WPM English & 30 WPM Hindi speed criteria, category-wise error cutoffs (UR 5%, OBC/EWS 7%), and mistake evaluation rules.
+## 🏛️ Central Government & SSC Typing Guides
+- [SSC CGL DEST Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-cgl-dest-typing-test-rules/): 2000 KD / 15-minute speed criteria (~27 WPM), error cutoffs (UR 5%, OBC/EWS 7%), and mistake evaluation rules.
 - [SSC CHSL Typing Test Rules 2026](https://blog.typingwire.in/blog/ssc-chsl-typing-test-rules/): LDC/JSA 35 WPM English & 30 WPM Hindi in 10 minutes, DEO 15000 KDPH Grade A test, 7% to 10% allowed error limits.
-- [Rajasthan High Court LDC Typing & Efficiency Test](https://blog.typingwire.in/blog/rajasthan-high-court-ldc-typing-efficiency-rules/): 100-mark pattern (25 Hindi + 25 English speed test + 50 marks MS Word/Excel efficiency formatting), KrutiDev 010 font rules.
-- [RSSB / RSMSSB LDC Typing Test Rules](https://blog.typingwire.in/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/): Phase-II 100-mark scheme, 36% qualifying cutoff, DevLys 010 font guidelines.
-- [Allahabad High Court RO/ARO & Clerk Typing Rules](https://blog.typingwire.in/blog/allahabad-high-court-ro-aro-clerk-typing-rules/): 25 WPM English on computer, 50-mark scoring formula, 500-word passage in 15 minutes.
-- [Patna High Court Assistant & Steno Typing Rules](https://blog.typingwire.in/blog/patna-high-court-assistant-stenographer-typing-rules/): 40 WPM English & 30 WPM Hindi, 90% accuracy requirement, CPT syllabus.
-- [Bombay High Court Clerk Typist Typing Rules](https://blog.typingwire.in/blog/bombay-high-court-clerk-typist-typing-rules/): English 40 WPM & Marathi 30 WPM on computer, 20-mark evaluation scheme.
-- [Gujarat High Court Computer Operator & Steno](https://blog.typingwire.in/blog/gujarat-high-court-computer-operator-typing-rules/): 5000 KDPH requirement, CPT syllabus, and stenography speed standards.
-- [UP Police ASI & Computer Operator Typing Rules](https://blog.typingwire.in/blog/up-police-asi-computer-operator-typing-rules/): 25 WPM Hindi Unicode Mangal (Inscript/Remington) & 30 WPM English, 85% accuracy cutoff.
-- [Delhi Police Head Constable (Ministerial)](https://blog.typingwire.in/blog/delhi-police-head-constable-typing-test-rules/): 25-mark speed slabs (up to 25/25 for 50+ WPM).
-- [Court & Steno Typing Rules: Full vs Half Mistakes](https://blog.typingwire.in/blog/court-steno-typing-rules/): 100% penalty vs 50% penalty breakdown, spacing, punctuation, and capitalization errors.
+- [SSC CGL vs CHSL Typing Test Comparison](https://blog.typingwire.in/blog/ssc-cgl-vs-chsl-typing-test-comparison/): Duration (15m vs 10m), speeds (27 vs 35 WPM), and error percentage cutoffs compared.
+- [SSC Stenographer Grade C & D Skill Test Rules](https://blog.typingwire.in/blog/ssc-stenographer-grade-c-d-typing-skill-test-rules/): 100 WPM & 80 WPM shorthand dictation, transcription duration, and permissible mistake cutoffs.
+- [SSC Selection Post Typing Test Rules](https://blog.typingwire.in/blog/ssc-selection-post-phase-typing-test-rules/): Matriculation, Higher Secondary and Graduate level post-wise speed criteria and KDPH limits.
+- [SSC Hindi Typing Test Rules: Mangal Inscript vs Remington Gail](https://blog.typingwire.in/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/): 30 WPM speed, Mangal Unicode font, Inscript vs Remington Gail vs CBI layout.
+- [SSC Typing Test Software Interface Walkthrough](https://blog.typingwire.in/blog/ssc-typing-test-software-interface-backspace-rules/): Split-screen layout, mock test session, backspace functionality, auto-scrolling and live timer behavior.
+- [Official SSC Full vs Half Mistake Annexure Guidelines](https://blog.typingwire.in/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/): Comprehensive manual for full mistakes (1.0) and half mistakes (0.5).
 
-## Technical Tutorials & Speed Drills
-- [Hindi Typing Layouts Guide: Mangal vs Remington vs KrutiDev](https://blog.typingwire.in/blog/hindi-typing-exams-mangal-remington-inscript-guide/): Keymaps, alt codes, Unicode vs non-Unicode, and exam compatibility matrix.
+## ⚖️ High Court & Judicial Typing Tests
+- [Supreme Court of India (SCI JCA) Typing Test Rules](https://blog.typingwire.in/blog/supreme-court-sci-jca-typing-test-rules/): 35 WPM English speed in 10 minutes, strict 3% maximum permissible error cutoff.
+- [Rajasthan High Court LDC Typing & Efficiency Test](https://blog.typingwire.in/blog/rajasthan-high-court-ldc-typing-efficiency-rules/): 100-mark pattern (50 marks speed in KrutiDev 010 + 50 marks MS Word efficiency).
+- [Official Rajasthan High Court LDC/JJA Notification Scheme](https://blog.typingwire.in/blog/official-rajasthan-high-court-ldc-jja-typing-notification-rules/): 50-mark speed test and 50-mark computer efficiency test calculation.
+- [Allahabad High Court RO/ARO & Clerk Typing Test Rules](https://blog.typingwire.in/blog/allahabad-high-court-ro-aro-clerk-typing-rules/): 25 WPM English on computer, 50-mark merit scoring formula, 500 words in 20 minutes.
+- [Official Allahabad High Court RO/ARO 50-Mark Rules](https://blog.typingwire.in/blog/official-allahabad-high-court-ro-aro-typing-notification-rules/): 25 WPM English speed, 50-mark merit addition, 16.7-mark qualifying cutoff and NTA guidelines.
+- [Delhi High Court JJA Typing Test Rules](https://blog.typingwire.in/blog/official-delhi-high-court-jja-typing-notification-rules/): 35 WPM English typing speed in 10 minutes with strict 3% error cutoff.
+- [Patna High Court Assistant & Steno Typing Test Rules](https://blog.typingwire.in/blog/patna-high-court-assistant-stenographer-typing-rules/): 40 WPM English & 30 WPM Hindi, 90% accuracy requirement, CPT syllabus.
+- [Official Patna High Court Assistant CPT Guidelines](https://blog.typingwire.in/blog/official-patna-high-court-assistant-typing-cpt-notification-rules/): MS Word & Excel formatting tasks and speed standards.
+- [Bihar Civil Court & Vidhan Sabha Typing Test Rules](https://blog.typingwire.in/blog/bihar-civil-court-vidhan-sabha-parishad-typing-rules/): Court Reader 40 WPM English & 30 WPM Hindi (90% accuracy), Vidhan Sabha 5% error tolerance rules.
+- [MP High Court AG-3 Typing Test Rules](https://blog.typingwire.in/blog/official-mp-high-court-ag3-assistant-typing-notification-rules/): 30 WPM Hindi (Remington Gail, 350 words in 10 mins) and 40 WPM English.
+- [Bombay High Court Clerk Typist Typing Rules](https://blog.typingwire.in/blog/bombay-high-court-clerk-typist-typing-rules/): English 40 WPM & Marathi 30 WPM on computer, GCC-TBC certificate rules.
+- [Gujarat High Court Computer Operator & Steno](https://blog.typingwire.in/blog/gujarat-high-court-computer-operator-typing-rules/): 5000 KDPH requirement, CPT syllabus, and stenography speed standards.
+- [Jharkhand High Court Clerk & Steno Typing Rules](https://blog.typingwire.in/blog/jharkhand-high-court-clerk-steno-dso-typing-rules/): 20 WPM Hindi and 30 WPM English speed, marking scheme and cutoffs.
+- [Telangana & Andhra Pradesh High Court Typist Rules](https://blog.typingwire.in/blog/telangana-andhra-pradesh-high-court-typing-rules/): 45 WPM English speed test, pay scale, salary structure and exam syllabus.
+- [Court & Stenographer Typing Rules: Full vs Half Mistakes](https://blog.typingwire.in/blog/court-steno-typing-rules/): Shorthand transcription speeds (80-100 WPM) and full vs half mistake rules.
+
+## 👮 State Commissions, Police & Paramilitary Tests
+- [Delhi Police Head Constable (HCM) Typing Test Rules](https://blog.typingwire.in/blog/delhi-police-head-constable-typing-test-rules/): 30 WPM English / 25 WPM Hindi, 25-mark speed slabs, and error rules.
+- [Paramilitary HCM Typing Test Rules: BSF, CISF, CRPF](https://blog.typingwire.in/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/): 35 WPM English / 30 WPM Hindi, 5% error limit and 10-word deduction formula.
+- [UP Police ASI & Computer Operator Typing Rules](https://blog.typingwire.in/blog/up-police-asi-computer-operator-typing-rules/): 25 WPM Hindi Unicode Mangal (Inscript) & 30 WPM English, 85% accuracy cutoff.
+- [UPSSSC Junior Assistant Typing Test Rules](https://blog.typingwire.in/blog/upsssc-junior-assistant-clerk-typing-rules/): Mandatory Hindi (25 WPM Mangal/KrutiDev) AND English (30 WPM) 5-minute qualifying test.
+- [Bihar Beltron DEO & BSSC 2nd Inter Level Typing Rules](https://blog.typingwire.in/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/): Hindi Mangal Remington Gail (30 WPM), English (35 WPM) and passing cutoffs.
+- [DSSSB LDC, Junior Assistant & JJA Typing Rules](https://blog.typingwire.in/blog/dsssb-ldc-junior-assistant-steno-jja-typing-rules/): 35 WPM English or 30 WPM Hindi (10 minutes), retyping rules, KDPH conversion and cutoff.
+- [RSSB / RSMSSB LDC Typing & Efficiency Test Rules](https://blog.typingwire.in/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/): Phase-II 100-mark scheme, 36% qualifying cutoff, DevLys 010 font guidelines.
+- [State LDC Comparison: Rajasthan vs UP vs Bihar vs High Courts](https://blog.typingwire.in/blog/official-state-ldc-typing-rules-rajasthan-up-bihar-comparison/): Speed, fonts and marking differences.
+- [MPSC Group C Clerk Typist Typing Rules](https://blog.typingwire.in/blog/mpsc-group-c-marathi-english-typing-rules/): Marathi 30 WPM and English 40 WPM standards, GCC-TBC certificate equivalence.
+- [UKPSC & UKSSSC RO ARO Typing Test Rules](https://blog.typingwire.in/blog/ukpsc-uksssc-ro-aro-aps-typing-rules/): Mandatory 4,000 KDPH in Hindi (Unicode Mangal Font) and 8,000 KDPH English.
+- [WBPSC Clerkship, Odisha OSSC & JKSSB Typing Rules](https://blog.typingwire.in/blog/wbpsc-clerkship-odisha-ossc-jkssb-typing-rules/): 20 WPM English / 10 WPM Bengali for WBPSC, 30-35 WPM for OSSC and JKSSB.
+
+## 🚆 Railway & Educational Institutes
+- [RRB NTPC Typing Test (CBTST) Rules 2026](https://blog.typingwire.in/blog/rrb-ntpc-cbtst-typing-skill-test-rules/): 30 WPM English / 25 WPM Hindi, 5% error limit, 10-word penalty formula and software interface rules.
+- [Official RRB NTPC CBTST Clause 13.5 Breakdown](https://blog.typingwire.in/blog/official-rrb-ntpc-cbtst-guidelines-cen-notification-rules/): Clause 13.5 notification guidelines, speed conversion, and mistake formula.
+- [AIIMS CRE Junior Administrative Assistant Typing Rules](https://blog.typingwire.in/blog/aiims-cre-junior-admin-assistant-typing-rules/): 35 WPM English or 30 WPM Hindi (10-minute test), stroke penalty formula and qualifying criteria.
+- [NTA Typing Test Rules: EMRS JSA, IGNOU JAT & CSIR](https://blog.typingwire.in/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/): 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs.
+- [KVS, CBSE, BHU & DDA JSA Typing Test Rules](https://blog.typingwire.in/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/): 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes.
+
+## ⌨️ Technical Tutorials, Drills & Hardware
+- [Hindi Typing Layouts Guide: Mangal Inscript vs Remington Gail vs KrutiDev 010](https://blog.typingwire.in/blog/hindi-typing-exams-mangal-remington-inscript-guide/): Keymaps, alt codes, Unicode vs non-Unicode, and exam compatibility matrix.
 - [KDPH to WPM Speed Calculation Formula Guide](https://blog.typingwire.in/blog/kdph-to-wpm-speed-calculation-formula-guide/): Exact mathematical formulas for Gross Speed, Net Speed, and accuracy deduction.
 - [10 Proven Tips to Increase Typing Speed to 80+ WPM](https://blog.typingwire.in/blog/10-tips-to-increase-typing-speed/): Home-row anchor technique, n-gram combinations, and ergonomics.
-- [Mechanical Keyboard Switches Guide for Fast Typing](https://blog.typingwire.in/blog/mechanical-keyboard-switch-guide/): Cherry MX & Gateron Red vs Blue vs Brown switches comparison.
+- [Mechanical Keyboard Switches Guide for Fast Typing](https://blog.typingwire.in/blog/mechanical-keyboard-switch-guide/): Red vs Blue vs Brown switches comparison for exam preparation.
 
-## Interactive Tools & Feeds
-- [Main Practice Platform](https://typingwire.in): Free live typing tests, Hindi/English passages, and exam simulators.
-- [XML Sitemap](https://blog.typingwire.in/sitemap-index.xml): Full URL directory for web crawlers.
+## 🔗 Platform Links & Live Feeds
+- [TypingWire Platform](https://typingwire.in): Free live typing tests, Hindi/English passages, and exam simulators.
+- [XML Sitemap](https://blog.typingwire.in/sitemap-index.xml): Full URL directory for search engines.
 - [RSS Feed](https://blog.typingwire.in/rss.xml): Real-time syndication feed.
 - [LLMs Full Context](https://blog.typingwire.in/llms-full.txt): Complete textual corpus for LLM indexing.

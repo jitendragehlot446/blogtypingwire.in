@@ -3,39 +3,75 @@ title: "Delhi High Court JJA Typing Test Rules: 35 WPM Speed & 3% Mistake Limit 
 description: "Official Delhi High Court JJA typing test notification guidelines. 35 WPM English typing speed in 10 minutes with strict 3% error cutoff."
 pubDate: 2026-08-16
 category: "Exam Rules"
-tags: ["delhi high court", "dhc jja", "court typing notification", "typing test rules", "jja restorer"]
+tags: ["delhi high court", "dhc jja", "35 wpm typing", "3 percent error", "delhi judicial", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=720&auto=format&fit=crop&q=80"
-imageAlt: "Official Delhi High Court JJA typing test notification rules"
+heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
+imageAlt: "Delhi High Court JJA typing test notification rules"
 faqs:
-  - question: "What is the speed requirement in Delhi High Court JJA notification?"
-    answer: "The official notification mandates a minimum speed of 35 WPM in English on computer in a 10-minute test."
-  - question: "What is the permissible error percentage in Delhi High Court typing test?"
-    answer: "As per official rules, total mistakes committed must not exceed 3% of the total words typed in the passage."
+  - question: "What is the speed requirement for Delhi High Court JJA typing test?"
+    answer: "Delhi High Court Junior Judicial Assistant (JJA) requires a minimum typing speed of 35 WPM in English on computer, completing 350 words in 10 minutes."
+  - question: "What is the maximum permissible error percentage in Delhi High Court JJA?"
+    answer: "The maximum permissible error limit is strictly 3%. Candidates with more than 3% errors are declared not qualified."
+  - question: "How many total mistakes are allowed in a 350-word passage in DHC JJA?"
+    answer: "In a standard 350-word passage, a maximum of 10.5 mistakes (rounded down to 10 full errors) are permitted."
+  - question: "Is Backspace enabled in Delhi High Court JJA typing examination?"
+    answer: "Yes, Backspace and arrow navigation keys are active to allow editing during the 10-minute session."
+  - question: "Are typing marks added to the final merit list in Delhi High Court JJA?"
+    answer: "No, the typing test in Delhi High Court JJA is qualifying in nature, but clearing it is mandatory to reach the descriptive and interview stages."
 ---
 
-The **High Court of Delhi (New Delhi)** evaluates clerical candidates for **Junior Judicial Assistant (JJA) and Restorer (Group-C)** through Stage-II English Typing Test.
+The **High Court of Delhi (DHC)** recruits for the post of **Junior Judicial Assistant (JJA) / Restorer (Group-B)** through a multi-tier selection process where the **Stage-II English Typing Test** serves as a strict qualifying gateway.
 
 ---
 
-## 1. Official DHC Notification Specifications (Stage-II)
+## ⚡ Official Notification Specifications (TL;DR Fact Matrix)
 
-| Notification Criteria | Delhi High Court Official Rule |
+| Parameter | Official Delhi High Court Notification Clause |
 | :--- | :--- |
-| **Exam Stage** | Stage-II (English Typing Test) |
-| **Duration** | **10 Minutes** |
-| **Minimum Qualifying Speed** | **35 Words Per Minute (WPM)** |
-| **Permissible Error Percentage** | **Maximum 3% Errors** |
-| **Language Medium** | **English Only** |
-| **Nature of Examination** | **Qualifying (Mandatory for Stage-III Main Written)** |
+| **Recruiting Body** | High Court of Delhi, New Delhi |
+| **Post** | Junior Judicial Assistant (JJA) / Restorer |
+| **Stage** | Stage-II: English Typing Test |
+| **Required Speed** | **35.0 Words Per Minute (WPM)** |
+| **Test Duration** | **10 Minutes** |
+| **Passage Length** | **Approx 350 to 400 Words** |
+| **Permissible Error Ceiling** | **Strictly 3.0% Max Errors (97% Accuracy Minimum)** |
+| **Nature of Paper** | **Qualifying Only (Mandatory)** |
+| **Interface Features** | Split-screen text box, word count display, live countdown clock |
+| **Backspace Allowed** | **Yes (Full Editing Enabled)** |
 
 ---
 
-## 2. Delhi High Court Evaluation Formula
+## 1. Mathematical Evaluation & Penalty Calculation
 
-$$\text{Mistakes Allowed (3\% Cutoff)} = \text{Total Words Typed} \times 0.03$$
+Delhi High Court enforces one of the most stringent accuracy thresholds in India:
 
-* If total mistakes committed exceed the 3% limit, the candidate is **summarily disqualified**.
+$$\text{Allowable Errors} = \frac{3}{100} \times \text{Total Words Typed}$$
 
-Practice with Delhi High Court model passages on [TypingWire.in](https://typingwire.in).
+| Words Typed in 10 Mins | Maximum Allowed Errors (3%) | Minimum Words to Clear 35 WPM | Status |
+| :--- | :--- | :--- | :--- |
+| **350 Words** | **10.5 Errors** | 350 Words | **Qualified** |
+| **350 Words** | **11 Errors** | 350 Words | **Disqualified (Exceeded 3%)** |
+| **400 Words** | **12.0 Errors** | 350 Words | **Qualified** |
+| **340 Words** | 2 Errors | 350 Words | **Disqualified (Below 35 WPM)** |
+
+---
+
+## 2. Mistake Categorization (Official Notification Manual)
+
+1. **Full Errors (1.0 Penalty)**:
+   * **Omission**: Omitting words or lines from the provided legal passage.
+   * **Substitution**: Replacing a printed word with another word.
+   * **Addition**: Inserting superfluous words or symbols.
+2. **Half Errors (0.5 Penalty)**:
+   * **Spelling**: Errors in spelling (transposition of characters).
+   * **Punctuation**: Missing commas, periods, hyphens, or brackets.
+   * **Capitalization**: Lowercase instead of uppercase at sentence beginnings or proper nouns.
+
+---
+
+## 3. Preparation Drills for Delhi High Court JJA Aspirants
+
+1. **Aim for 98% Accuracy in Daily Practice**: At 35 WPM, precision is paramount. Do not rush.
+2. **Practice Judicial Passages**: High Court passages feature constitutional articles, legal orders, and petitions.
+3. **Practice on [TypingWire.in](https://typingwire.in)** with 3% error cutoff simulation.

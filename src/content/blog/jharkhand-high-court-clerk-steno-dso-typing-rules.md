@@ -3,29 +3,60 @@ title: "Jharkhand High Court Typing Test 2026: Clerk & Assistant Speed, Rules & 
 description: "Jharkhand High Court (JHC) Typing Test 2026 rules for Clerk, Assistant and Steno. 20 WPM Hindi and 30 WPM English speed, marking scheme and cutoffs."
 pubDate: 2026-08-16
 category: "Exam Rules"
-tags: ["jharkhand high court", "jhc assistant", "jhc clerk", "steno", "court typing"]
+tags: ["jharkhand high court", "jhc clerk", "jhc assistant", "dso typing", "mangal remington", "typing rules"]
 author: "TypingWire Editorial Team"
 featured: false
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=720&auto=format&fit=crop&q=80"
+heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80"
 imageAlt: "Jharkhand High Court typing test rules"
 faqs:
-  - question: "What is the speed requirement for Jharkhand High Court Clerk / Assistant?"
-    answer: "English typing test requires 40 WPM (or 30 WPM in Hindi) in a 10-minute test session with minimum 95% accuracy."
-  - question: "What is the test pattern for JHC Deputy Section Officer (DSO)?"
-    answer: "DSO typing test comprises 200 words English (5 mins) and 300 words Hindi (10 mins) with 5% error tolerance."
+  - question: "What is the typing speed requirement for Jharkhand High Court Clerk / Assistant?"
+    answer: "Jharkhand High Court Assistant and Clerk posts require 20 WPM in Hindi typing and 30 WPM in English typing on computer."
+  - question: "Which font and layout are prescribed for Hindi typing in JHC?"
+    answer: "Hindi typing test in Jharkhand High Court is conducted using KrutiDev 010 or Mangal font on Remington Gail layout."
+  - question: "What is the speed requirement for English Stenographer in JHC?"
+    answer: "English Stenographer requires 80 WPM in English shorthand dictation and 40 WPM in computer transcription with maximum 5% permissible errors."
+  - question: "Is typing qualifying or scored in Jharkhand High Court Clerk recruitment?"
+    answer: "The typing test is qualifying in nature, but scoring below the prescribed speed or exceeding allowed mistake percentage leads to instant elimination."
+  - question: "What is the duration of the JHC typing test?"
+    answer: "The duration is 10 minutes for English typing (approx 300 words) and 10 minutes for Hindi typing (approx 200 words)."
 ---
 
-The **High Court of Jharkhand (Ranchi)** evaluates candidates for **Assistant, Clerk, Stenographer, and Deputy Section Officer (DSO)** through a strict computer typing test.
+The **High Court of Jharkhand at Ranchi (Jharkhand High Court)** conducts skill tests for **Assistant, Clerk, Deposition Typist (DSO), and English/Hindi Stenographer** positions.
 
 ---
 
-## 1. Exam Specifications & Speed Criteria
+## ⚡ Quick Exam Snapshot (TL;DR Fact Matrix)
 
-| Post | Medium | Duration | Words / Keys | Required Speed |
+| Post / Exam | Language | Speed Requirement | Test Duration | Nature of Test |
 | :--- | :--- | :--- | :--- | :--- |
-| **Assistant / Clerk** | English | 10 Minutes | 400 Words | **40 WPM** |
-| **DSO (Hindi)** | Hindi (Mangal) | 10 Minutes | 300 Words | **30 WPM** |
-| **DSO (English)** | English | 5 Minutes | 200 Words | **40 WPM** |
-| **Stenographer (Hindi)**| Hindi | 10 Minutes | 400 Words | **40 WPM** |
+| **Assistant / Clerk** | English | **30 WPM** | 10 Minutes | Qualifying |
+| **Assistant / Clerk** | Hindi | **20 WPM** | 10 Minutes | Qualifying |
+| **Deposition Typist (DSO)** | English & Hindi | 30 WPM (Eng) / 20 WPM (Hindi) | 10 Minutes Each | Qualifying |
+| **English Stenographer** | English | 80 WPM Shorthand / 40 WPM Typing | 5m Dictation + 30m Trans. | Merit Scored |
+| **Allowed Error Limit** | Both | **Maximum 5% Errors Allowed** | - | Strict Cutoff |
+| **Backspace Allowed** | Both | **Yes (Full Editing Enabled)** | - | Active |
 
-Practice on [TypingWire.in](https://typingwire.in) using Jharkhand High Court exam modules.
+---
+
+## 1. Speed & Accuracy Evaluation Standards
+
+* **English Typing Test**: Candidates are provided a 300-word passage to type in 10 minutes. Net speed must not fall below **30 Words Per Minute**.
+* **Hindi Typing Test**: Candidates must type a 200-word passage in 10 minutes, maintaining at least **20 Words Per Minute**.
+* **Error Deduction Formula**:
+$$\text{Net Speed} = \frac{\text{Gross Words} - (\text{Mistakes} \times 5)}{\text{Time (10 Minutes)}}$$
+
+---
+
+## 2. Mistake Penalties & Evaluation Rules
+
+1. **Full Mistakes**: Skipping entire words, inserting extra words, spelling errors resulting in unreadable words.
+2. **Half Mistakes**: Punctuation mistakes, incorrect capitalization, spacing errors between words.
+3. Candidates exceeding the **5% error tolerance** are marked disqualified regardless of their written CBT marks.
+
+---
+
+## 3. Preparation Strategy for JHC Aspirants
+
+1. **Consistent 10-Minute Timed Drills**: Build muscle memory for steady 10-minute sessions without pausing.
+2. **Practice on Mangal Remington & KrutiDev**: Familiarize yourself with both layouts to avoid last-minute surprises at the exam center.
+3. **Practice on [TypingWire.in](https://typingwire.in)** to evaluate real-time net speed and accuracy.
