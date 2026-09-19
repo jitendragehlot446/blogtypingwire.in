@@ -51,14 +51,14 @@ As per the official RRB CBTST evaluation manual:
 * **Scenario A**: Candidate types **350 words** with **15 mistakes**.
   * 5% exemption = 350 × 0.05 = 17.5 mistakes exempted.
   * Since total mistakes (15) are within 17.5, **zero penalty is deducted**.
-  * Net Speed = 350 / 10 = 35 WPM \rightarrow **QUALIFIED!**
+  * Net Speed = 350 ÷ 10 = 35 WPM → **QUALIFIED!**
 
 * **Scenario B**: Candidate types **350 words** with **25 mistakes**.
   * 5% exemption = **17.5 mistakes**.
-  * Excess Mistakes = 25 - 17.5 = 7.5 mistakes.
+  * Excess Mistakes = 25 − 17.5 = 7.5 mistakes.
   * Penalty Deductions = 7.5 × 10 = 75 words deducted.
-  * Net Words = 350 - 75 = 275 words.
-  * Net Speed = 275 / 10 = 27.5 WPM \rightarrow **DISQUALIFIED (Below 30 WPM Cutoff).**
+  * Net Words = 350 − 75 = 275 words.
+  * Net Speed = 275 ÷ 10 = 27.5 WPM → **DISQUALIFIED (Below 30 WPM Cutoff).**
 
 ---
 
