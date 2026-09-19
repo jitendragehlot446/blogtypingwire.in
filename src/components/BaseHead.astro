@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { ClientRouter } from 'astro:transitions';
 
 interface Props {
   title: string;
@@ -28,14 +29,30 @@ const fullTitle = title.includes('TypingWire') ? title : `${title} | TypingWire`
 <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
 <link rel="apple-touch-icon" href="/favicon.jpg" />
 <meta name="generator" content={Astro.generator} />
+<ClientRouter />
 
-<!-- Font preconnect for 100/100 performance -->
+<!-- Preconnect to image CDN and Google Fonts for zero-latency loading -->
+<link rel="preconnect" href="https://images.unsplash.com" crossorigin />
+<link rel="dns-prefetch" href="https://images.unsplash.com" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
+  rel="preload"
+  as="style"
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap"
+/>
+<link
   href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap"
   rel="stylesheet"
+  media="print"
+  onload="this.media='all'"
 />
+<noscript>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap"
+    rel="stylesheet"
+  />
+</noscript>
 
 <!-- Robots Directives for Top Google & AI Indexing -->
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

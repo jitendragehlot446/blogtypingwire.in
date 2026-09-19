@@ -22,25 +22,35 @@ const {
   imageAlt = title,
 } = Astro.props;
 
-// Placeholder images tailored for typing topics if heroImage not provided
+// Optimize Unsplash images for thumbnails (reduce 150KB to 25KB WebP)
+const optimizeImage = (url: string) => {
+  if (!url) return url;
+  if (url.includes('images.unsplash.com')) {
+    return url.replace(/w=\d+/, 'w=480').replace(/q=\d+/, 'q=70');
+  }
+  return url;
+};
+
+// Keyboard images tailored for typing topics if heroImage not provided
 const getPlaceholderImage = (cat: string) => {
   const c = cat.toLowerCase();
   if (c.includes('speed') || c.includes('tips')) {
-    return 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=720&auto=format&fit=crop&q=80';
+    return 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=480&auto=format&fit=crop&q=70';
   }
   if (c.includes('hardware') || c.includes('keyboard')) {
-    return 'https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=720&auto=format&fit=crop&q=80';
+    return 'https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=480&auto=format&fit=crop&q=70';
   }
-  return 'https://images.unsplash.com/photo-1455390582262-044cdead277a?w=720&auto=format&fit=crop&q=80';
+  return 'https://images.unsplash.com/photo-1595225476474-87563907a212?w=480&auto=format&fit=crop&q=70';
 };
 
-const displayImage = heroImage || getPlaceholderImage(category);
+const rawImage = heroImage || getPlaceholderImage(category);
+const displayImage = optimizeImage(rawImage);
 ---
 
 <article class="post-card">
   <a href={`/blog/${slug}`}>
     <div class="post-card-image-container">
-      <img src={displayImage} alt={imageAlt} loading="lazy" decoding="async" width="720" height="360" />
+      <img src={displayImage} alt={imageAlt} loading="lazy" decoding="async" width="480" height="240" />
       <span class="post-card-badge">{category}</span>
     </div>
     <div class="post-card-body">

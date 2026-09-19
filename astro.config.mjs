@@ -6,6 +6,10 @@ import fs from 'node:fs';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://blog.typingwire.in',
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'viewport',
+  },
   integrations: [
     mdx(),
     sitemap(),

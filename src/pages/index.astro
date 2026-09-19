@@ -95,22 +95,54 @@ const marqueeExams = [
         <a href="/categories/exam-rules">View all posts &rarr;</a>
       </section>
 
-      <section class="posts-grid">
-        {posts.map((post) => (
-          <BlogCard
-            title={post.data.title}
-            description={post.data.description}
-            pubDate={post.data.pubDate}
-            slug={post.id}
-            category={post.data.category}
-            tags={post.data.tags}
-            heroImage={post.data.heroImage}
-            imageAlt={post.data.imageAlt}
-          />
+      <section class="posts-grid" id="main-posts-grid">
+        {posts.map((post, index) => (
+          <div class={`post-wrapper ${index >= 18 ? 'is-deferred' : ''}`}>
+            <BlogCard
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              slug={post.id}
+              category={post.data.category}
+              tags={post.data.tags}
+              heroImage={post.data.heroImage}
+              imageAlt={post.data.imageAlt}
+            />
+          </div>
         ))}
       </section>
+
+      {posts.length > 18 && (
+        <div class="load-more-container" id="load-more-box">
+          <button id="load-more-btn" class="button-secondary">
+            Load More Articles ({posts.length - 18} remaining) ↓
+          </button>
+        </div>
+      )}
     </div>
   </main>
+
+  <script is:inline>
+    function setupLoadMore() {
+      const btn = document.getElementById('load-more-btn');
+      if (!btn || btn.dataset.initialized) return;
+      btn.dataset.initialized = 'true';
+      btn.addEventListener('click', () => {
+        const hiddenPosts = Array.from(document.querySelectorAll('.post-wrapper.is-deferred'));
+        const batch = hiddenPosts.slice(0, 18);
+        batch.forEach((el) => el.classList.remove('is-deferred'));
+        const remaining = hiddenPosts.length - batch.length;
+        if (remaining <= 0) {
+          const box = document.getElementById('load-more-box');
+          if (box) box.style.display = 'none';
+        } else {
+          btn.textContent = `Load More Articles (${remaining} remaining) ↓`;
+        }
+      });
+    }
+    document.addEventListener('astro:page-load', setupLoadMore);
+    setupLoadMore();
+  </script>
 </BaseLayout>
 
 <style>
@@ -227,6 +259,41 @@ const marqueeExams = [
     grid-template-columns: repeat(3, 1fr);
     gap: var(--spacing-lg);
     margin-bottom: var(--spacing-section);
+  }
+
+  .is-deferred {
+    display: none;
+  }
+
+  .post-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .post-wrapper :global(.post-card) {
+    height: 100%;
+  }
+
+  .load-more-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: calc(var(--spacing-section) * -0.5);
+    margin-bottom: var(--spacing-section);
+  }
+
+  #load-more-btn {
+    cursor: pointer;
+    padding: 14px 32px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+  }
+
+  #load-more-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
 
   @media (max-width: 960px) {
