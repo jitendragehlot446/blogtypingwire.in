@@ -16,6 +16,7 @@ interface Props {
   author?: string;
   faqs?: Array<{ question: string; answer: string }>;
   currentSlug?: string;
+  headings?: Array<{ depth: number; slug: string; text: string }>;
 }
 
 const {
@@ -30,7 +31,10 @@ const {
   author = 'TypingWire Team',
   faqs = [],
   currentSlug,
+  headings = [],
 } = Astro.props;
+
+const tocHeadings = headings.filter((h) => h.depth === 2);
 
 const siteUrl = Astro.site?.toString() || 'https://blog.typingwire.in';
 const currentUrl = new URL(Astro.url.pathname, siteUrl).toString();
@@ -99,12 +103,40 @@ const relatedPosts = allPosts
           <span class="author-name">{author}</span>
         </div>
         <span class="meta-sep">•</span>
+        <div class="reviewer-info">
+          <span class="author-label">REVIEWED BY</span>
+          <span class="author-name">Jitendra Gehlot</span>
+        </div>
+        <span class="meta-sep">•</span>
         <div class="publish-date">
-          <span class="date-label">PUBLISHED</span>
-          <FormattedDate date={pubDate} />
+          <span class="date-label">UPDATED FOR</span>
+          <span class="author-name">2026 Cycles</span>
         </div>
       </div>
     </header>
+
+    <!-- Automated Table of Contents (SERP Sitelinks Generator) -->
+    {
+      tocHeadings.length > 1 && (
+        <nav class="toc-card" aria-label="Table of Contents">
+          <details open class="toc-details">
+            <summary class="toc-summary">
+              <span class="toc-title">QUICK NAVIGATION (TABLE OF CONTENTS)</span>
+              <span class="toc-icon">▼</span>
+            </summary>
+            <ol class="toc-list">
+              {tocHeadings.map((h, index) => (
+                <li class="toc-item">
+                  <a href={`#${h.slug}`} class="toc-link">
+                    <span class="toc-number">{index + 1}.</span> {h.text}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        </nav>
+      )
+    }
 
     <!-- Main Content -->
     <article class="article-content">
@@ -267,6 +299,17 @@ const relatedPosts = allPosts
     font-weight: 500;
   }
 
+  .author-info, .reviewer-info, .publish-date {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .author-label, .date-label {
+    color: var(--colors-muted-text);
+    font-weight: 500;
+  }
+
   .author-name {
     color: var(--colors-primary);
     font-weight: 600;
@@ -274,6 +317,81 @@ const relatedPosts = allPosts
 
   .meta-sep {
     color: var(--colors-hairline);
+  }
+
+  /* Table of Contents (SERP Sitelinks Generator) */
+  .toc-card {
+    background-color: var(--colors-surface-soft);
+    border: 1px solid var(--colors-hairline);
+    border-radius: var(--rounded-md);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  .toc-details {
+    width: 100%;
+  }
+
+  .toc-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: var(--colors-primary);
+    list-style: none;
+  }
+
+  .toc-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .toc-icon {
+    font-size: 10px;
+    color: var(--colors-muted-text);
+    transition: transform 0.2s ease;
+  }
+
+  .toc-details[open] .toc-icon {
+    transform: rotate(180deg);
+  }
+
+  .toc-list {
+    margin-top: 1rem;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .toc-item {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .toc-link {
+    color: var(--colors-primary);
+    text-decoration: none;
+    transition: color 0.15s ease;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+
+  .toc-number {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--colors-muted-text);
+    font-weight: 600;
+  }
+
+  .toc-link:hover {
+    color: #047857;
+    text-decoration: underline;
   }
 
   /* FAQs */

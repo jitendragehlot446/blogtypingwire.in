@@ -42,10 +42,24 @@ const mainSchema = type === 'Article' ? {
   'image': articleImage,
   'inLanguage': 'en-IN',
   'isAccessibleForFree': 'true',
-  'author': {
-    '@type': 'Organization',
-    'name': author,
-    'url': 'https://typingwire.in'
+  'author': [
+    {
+      '@type': 'Organization',
+      'name': author || 'TypingWire Editorial Board',
+      'url': 'https://typingwire.in'
+    },
+    {
+      '@type': 'Person',
+      'name': 'Jitendra Gehlot',
+      'jobTitle': 'Government Typing Examination Specialist',
+      'url': 'https://typingwire.in/about'
+    }
+  ],
+  'reviewedBy': {
+    '@type': 'Person',
+    'name': 'Jitendra Gehlot',
+    'jobTitle': 'Senior Examination Analyst & Speed Coach',
+    'url': 'https://typingwire.in/about'
   },
   'publisher': {
     '@type': 'Organization',
