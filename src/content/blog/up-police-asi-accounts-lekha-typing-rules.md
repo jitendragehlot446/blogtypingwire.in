@@ -2,6 +2,7 @@
 title: "UP Police ASI Accounts Typing Test 2026: Speed Rules, Lekha Cadre & Inscript Guidelines"
 description: "Official UP Police ASI (Accounts / Lekha) typing test rules 2026. 15 WPM Hindi in Mangal Inscript layout, 85% accuracy benchmark, 15-minute duration, and recruitment guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["up police asi accounts typing test", "up police lekha typing speed", "up police asi inscript typing", "up police typing rules", "police accounts typing"]
 author: "TypingWire Editorial Team"

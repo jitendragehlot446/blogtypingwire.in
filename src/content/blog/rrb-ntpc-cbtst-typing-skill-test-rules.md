@@ -2,6 +2,7 @@
 title: "RRB NTPC Typing Test 2026: CBTST Speed Rules, Hindi vs English Fonts, 5% Error Formula & Backspace"
 description: "Comprehensive guide for RRB NTPC Typing Test (CBTST) 2026. Required speed (30 WPM English / 25 WPM Hindi), KrutiDev & Mangal font rules, 5% mistake deduction formula, and TCS iON software guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rrb ntpc typing test", "rrb ntpc english typing test", "rrb ntpc hindi typing test", "cbtst typing test", "railway typing speed", "krutidev typing", "mangal font", "remington gail"]
 author: "TypingWire Editorial Team"

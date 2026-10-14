@@ -2,6 +2,7 @@
 title: "PSSSB Clerk Typing Test 2026: Punjabi (Raavi Font) 30 WPM & English Rules"
 description: "Complete guide to Punjab PSSSB Clerk Typing Test 2026. Mandatory Punjabi typing on Raavi font (Asees layout) at 30 WPM and English 30 WPM rules."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["psssb clerk typing", "punjabi typing raavi font", "asees layout", "punjab clerk typing test", "30 wpm punjabi", "typing rules"]
 author: "TypingWire Editorial Team"

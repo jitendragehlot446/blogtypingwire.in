@@ -2,6 +2,7 @@
 title: "UKPSC & UKSSSC RO ARO Typing Test 2026: 4000 KDPH Hindi Mangal Speed Rules"
 description: "UKPSC and UKSSSC RO/ARO & APS Typing Test 2026 rules. Mandatory 4,000 KDPH in Hindi (Unicode Mangal Font) and 8,000 KDPH English typing guidelines."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ukpsc ro aro", "uksssc typing", "ukpsc aps", "mangal font", "uttarakhand typing", "4000 kdph"]
 author: "TypingWire Editorial Team"

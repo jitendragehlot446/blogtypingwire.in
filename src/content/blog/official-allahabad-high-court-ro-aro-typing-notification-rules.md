@@ -2,6 +2,7 @@
 title: "Allahabad High Court RO ARO Typing Test Rules: Official 50-Mark Evaluation Pattern"
 description: "Official Allahabad High Court RO/ARO typing test notification rules. 25 WPM English speed, 50-mark merit addition, 16.7-mark qualifying cutoff and NTA guidelines."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["allahabad high court", "ro aro notification", "50 marks typing", "nta guidelines", "high court rules"]
 author: "TypingWire Editorial Team"

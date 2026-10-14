@@ -13,7 +13,7 @@ export async function getStaticPaths() {
     const slug = cat.toLowerCase().replace(/\s+/g, '-');
     const filteredPosts = allPosts
       .filter((post) => post.data.category === cat)
-      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+      .sort((a, b) => (b.data.updatedDate || b.data.pubDate).valueOf() - (a.data.updatedDate || a.data.pubDate).valueOf());
 
     return {
       params: { category: slug },
@@ -62,6 +62,7 @@ const getBadgeClass = (cat: string) => {
             title={post.data.title}
             description={post.data.description}
             pubDate={post.data.pubDate}
+            updatedDate={post.data.updatedDate}
             slug={post.id}
             category={post.data.category}
             tags={post.data.tags}

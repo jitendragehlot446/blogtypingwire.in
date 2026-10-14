@@ -2,6 +2,7 @@
 title: "Supreme Court of India Typing Test 2026: SCI JCA 35 WPM Speed & 3% Error Cutoff"
 description: "Supreme Court of India (SCI JCA) Typing Test 2026 rules. 35 WPM English speed in 10 minutes, strict 3% maximum permissible error cutoff and evaluation pattern."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["supreme court typing", "sci jca", "35 wpm english", "3 percent error", "court typing test", "typing rules"]
 author: "TypingWire Editorial Team"

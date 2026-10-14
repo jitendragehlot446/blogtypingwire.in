@@ -2,6 +2,7 @@
 title: "Rajasthan High Court JJA & LDC Typing Test: Official 100-Mark Notification Scheme"
 description: "Official Rajasthan High Court LDC and JJA typing test notification breakdown. 50-mark speed test and 50-mark computer efficiency test calculation."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rajasthan high court", "rhc ldc notification", "100 marks typing", "krutidev 010", "efficiency test rules", "jja typing"]
 author: "TypingWire Editorial Team"

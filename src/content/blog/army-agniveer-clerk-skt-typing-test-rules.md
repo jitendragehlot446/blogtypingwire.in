@@ -2,6 +2,7 @@
 title: "Army Agniveer Clerk Typing Test 2026: Speed Rules, Passing Marks & Software Guidelines"
 description: "Official Indian Army Agniveer Clerk / SKT typing test rules 2026. Required speed (30 WPM English), 96% accuracy benchmark, passing cutoff, and software interface guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["army agniveer clerk typing test", "indian army clerk typing speed", "agniveer skt typing rules", "army typing test online", "defence typing test"]
 author: "TypingWire Editorial Team"

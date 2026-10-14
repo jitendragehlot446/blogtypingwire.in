@@ -2,6 +2,7 @@
 title: "Allahabad High Court Group C Typing Test 2026: Junior Assistant & Paid Apprentice Rules"
 description: "Allahabad High Court Group C Junior Assistant and Paid Apprentice Stage-II Typing Test 2026 rules. Hindi 25 WPM (Mangal/Inscript) + English 30 WPM 50-mark pattern."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["allahabad high court group c", "ahc junior assistant", "paid apprentice typing", "mangal inscript", "50 marks typing", "typing rules"]
 author: "TypingWire Editorial Team"

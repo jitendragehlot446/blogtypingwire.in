@@ -2,6 +2,7 @@
 title: "Court & SSC Stenographer Typing & Skill Test Rules 2026: Speed, Mistakes & Transcription Time"
 description: "Complete guide for Court & SSC Stenographer skill tests 2026. Dictation speeds (80 vs 100 WPM), transcription time limits, full vs half mistake rules, and High Court error cutoffs."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["court steno", "ssc steno", "stenographer typing", "shorthand test", "typing rules", "error calculation"]
 author: "TypingWire Editorial Team"

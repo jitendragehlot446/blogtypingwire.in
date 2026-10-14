@@ -2,6 +2,7 @@
 title: "Hindi Typing Guide 2026: Mangal Inscript vs Remington Gail vs Kruti Dev 010"
 description: "Master Hindi typing for government exams. Complete comparison between Mangal Inscript, Remington Gail, and Kruti Dev 010. Matra typing rules, Windows setup, and exam font compatibility."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Typing Tips"
 tags: ["hindi typing", "mangal inscript", "remington gail", "krutidev 010", "unicode font", "exam rules"]
 author: "TypingWire Editorial Team"

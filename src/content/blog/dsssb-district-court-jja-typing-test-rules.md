@@ -2,6 +2,7 @@
 title: "DSSSB Delhi District Court JJA Typing Test 2026: Speed Rules, Mistake Deduction & Court Guidelines"
 description: "Official DSSSB Delhi District Courts Junior Judicial Assistant (JJA) typing test rules 2026. 35 WPM English, 10-minute duration, 3% error limit, court marking scheme, and guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["dsssb delhi district court jja typing test", "delhi jja typing speed", "district court junior judicial assistant typing", "dsssb court typing rules", "court typing test"]
 author: "TypingWire Editorial Team"

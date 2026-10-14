@@ -2,6 +2,7 @@
 title: "Uttarakhand High Court Clerk Typing Test 2026: Speed Rules, Mangal Font & Selection Guidelines"
 description: "Official Uttarakhand High Court (Nainital) Clerk, Junior Assistant & Steno typing test rules 2026. 25 WPM Hindi, 35 WPM English, Mangal font Inscript/Remington, error limits, and CPT rules."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["uttarakhand high court typing test", "uk high court clerk typing speed", "nainital high court typing rules", "high court junior assistant typing", "court typing test"]
 author: "TypingWire Editorial Team"

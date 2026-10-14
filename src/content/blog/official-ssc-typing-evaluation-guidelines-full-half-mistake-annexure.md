@@ -2,6 +2,7 @@
 title: "SSC Typing Test Mistakes Allowed: Official Full vs Half Mistake Guidelines"
 description: "Official Staff Selection Commission (SSC) typing test evaluation guidelines. Comprehensive manual for full mistakes, half mistakes and net speed calculation."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssc mistake calculation", "full vs half mistake", "ssc typing annexure", "dest evaluation formula", "ssc error percentage", "typing rules"]
 author: "TypingWire Editorial Team"

@@ -2,6 +2,7 @@
 title: "State LDC Typing Test Comparison: Rajasthan RSSB vs UPSSSC vs BSSC vs High Court"
 description: "Comparative breakdown of State LDC typing test rules across Rajasthan RSSB, UPSSSC, Bihar BSSC and High Courts. Speed, fonts and marking differences."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["state ldc comparison", "rssb ldc", "upsssc typing", "bssc inter level", "high court ldc", "typing speed comparison"]
 author: "TypingWire Editorial Team"

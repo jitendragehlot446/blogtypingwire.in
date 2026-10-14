@@ -2,6 +2,7 @@
 title: "Punjab & Haryana High Court Clerk Typing Test 2026: SSSC Speed & Spreadsheet Rules"
 description: "Complete guide to Punjab and Haryana High Court Clerk (SSSC) typing test rules 2026. 30 WPM English typing, 8% mistake cutoff, and Spreadsheet test syllabus."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["punjab haryana high court", "sssc clerk typing", "spreadsheet test", "30 wpm english", "high court clerk", "typing rules"]
 author: "TypingWire Editorial Team"

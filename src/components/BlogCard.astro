@@ -5,6 +5,7 @@ interface Props {
   title: string;
   description: string;
   pubDate: Date;
+  updatedDate?: Date;
   slug: string;
   category?: string;
   tags?: string[];
@@ -16,11 +17,14 @@ const {
   title,
   description,
   pubDate,
+  updatedDate,
   slug,
   category = 'Exam Rules',
   heroImage,
   imageAlt = title,
 } = Astro.props;
+
+const displayDate = updatedDate || pubDate;
 
 // Optimize Unsplash images for thumbnails (reduce 150KB to 25KB WebP)
 const optimizeImage = (url: string) => {
@@ -57,7 +61,7 @@ const displayImage = optimizeImage(rawImage);
       <h3 class="card-title">{title}</h3>
       <p class="post-card-desc">{description}</p>
       <span class="caption date">
-        <FormattedDate date={pubDate} />
+        <FormattedDate date={displayDate} />
       </span>
     </div>
   </a>

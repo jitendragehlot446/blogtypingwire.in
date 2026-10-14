@@ -2,6 +2,7 @@
 title: "Bihar Vidhan Sabha & Parishad Typing Test 2026: Speed Rules, DEO & Sachivalaya Guidelines"
 description: "Official Bihar Vidhan Sabha & Vidhan Parishad Sachivalaya Data Entry Operator (DEO) & Clerk typing test rules 2026. 30 WPM English & Hindi in Mangal font, 5% error limit, and MS Office test."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["bihar vidhan sabha typing test", "bihar vidhan parishad deo typing", "bihar sachivalaya typing speed", "mangal remington bihar typing", "assembly clerk typing"]
 author: "TypingWire Editorial Team"

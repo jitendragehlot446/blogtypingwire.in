@@ -2,6 +2,7 @@
 title: "Assam Rifles Havildar Clerk Typing Test 2026: Speed Rules, Rally Guidelines & Cutoffs"
 description: "Official Assam Rifles Havildar Clerk typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, rally center testing environment, and error calculation formula."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["assam rifles havildar clerk typing test", "assam rifles clerk typing speed", "assam rifles rally typing rules", "assam rifles skill test", "defence clerk typing"]
 author: "TypingWire Editorial Team"

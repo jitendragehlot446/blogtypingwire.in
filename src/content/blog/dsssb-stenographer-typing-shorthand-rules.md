@@ -2,6 +2,7 @@
 title: "DSSSB Stenographer Typing & Shorthand Rules 2026: Speed Benchmark & Evaluation Guidelines"
 description: "Official DSSSB Stenographer Grade-III & Junior Stenographer typing & shorthand rules 2026. 80 WPM dictation, 40 WPM English / 30 WPM Hindi typing, transcription duration, and mistake rules."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["dsssb stenographer typing test", "dsssb steno shorthand speed", "delhi stenographer typing rules", "dsssb junior steno exam", "shorthand transcription rules"]
 author: "TypingWire Editorial Team"

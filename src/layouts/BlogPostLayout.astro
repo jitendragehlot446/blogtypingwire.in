@@ -109,8 +109,8 @@ const relatedPosts = allPosts
         </div>
         <span class="meta-sep">•</span>
         <div class="publish-date">
-          <span class="date-label">UPDATED FOR</span>
-          <span class="author-name">2026 Cycles</span>
+          <span class="date-label">{updatedDate ? 'LAST UPDATED' : 'PUBLISHED'}</span>
+          <span class="author-name"><FormattedDate date={updatedDate || pubDate} /></span>
         </div>
       </div>
     </header>
@@ -207,6 +207,7 @@ const relatedPosts = allPosts
                 title={relPost.data.title}
                 description={relPost.data.description}
                 pubDate={relPost.data.pubDate}
+                updatedDate={relPost.data.updatedDate}
                 slug={relPost.id}
                 category={relPost.data.category}
                 tags={relPost.data.tags}

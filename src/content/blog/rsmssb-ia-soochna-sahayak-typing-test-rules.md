@@ -2,6 +2,7 @@
 title: "RSMSSB IA Typing Test 2026: Informatics Assistant (सूचना सहायक) Speed Rules"
 description: "Complete guide to Rajasthan RSMSSB Informatics Assistant (IA / सूचना सहायक) typing test rules 2026. Hindi 15 WPM + English 15 WPM in 15 minutes, fonts, and cutoff."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rsmssb ia typing", "soochna sahayak typing", "informatics assistant", "rajasthan ia typing rules", "krutidev devlys mangal", "typing rules"]
 author: "TypingWire Editorial Team"

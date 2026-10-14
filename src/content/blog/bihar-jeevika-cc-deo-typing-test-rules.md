@@ -2,6 +2,7 @@
 title: "Bihar Jeevika Typing Test 2026: Speed Rules, CC & DEO Evaluation Guidelines"
 description: "Official Bihar Jeevika (BRLPS) Community Coordinator & DEO typing test rules 2026. 30 WPM English, 25 WPM Hindi, Mangal font Remington Gail, error cutoffs, and selection process."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["bihar jeevika typing test", "brlps deo typing speed", "jeevika cc typing rules", "bihar typing test online", "brlps computer test"]
 author: "TypingWire Editorial Team"

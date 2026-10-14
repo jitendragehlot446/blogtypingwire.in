@@ -2,6 +2,7 @@
 title: "Delhi High Court JJA Typing Test Rules: 35 WPM Speed & 3% Mistake Limit Guidelines"
 description: "Official Delhi High Court JJA typing test notification guidelines. 35 WPM English typing speed in 10 minutes with strict 3% error cutoff."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["delhi high court", "dhc jja", "35 wpm typing", "3 percent error", "delhi judicial", "typing rules"]
 author: "TypingWire Editorial Team"

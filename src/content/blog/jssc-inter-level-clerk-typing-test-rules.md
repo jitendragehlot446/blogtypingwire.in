@@ -2,6 +2,7 @@
 title: "JSSC Inter Level Typing Test 2026: Speed Rules, KrutiDev 010 & 2% Error Limit Guidelines"
 description: "Official JSSC Inter Level (JCKCCE) Clerk / Typist typing test rules 2026. 25 WPM Hindi in KrutiDev 010, strict 2% maximum mistake cutoff, 10-minute duration, and Jharkhand selection guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["jssc inter level typing test", "jssc clerk typing speed", "jharkhand typing test krutidev", "jckcce typing test rules", "jssc typist exam"]
 author: "TypingWire Editorial Team"

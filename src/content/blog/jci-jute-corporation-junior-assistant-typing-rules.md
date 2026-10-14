@@ -2,6 +2,7 @@
 title: "JCI Junior Assistant Typing Test 2026: Speed Rules, Jute Corporation Guidelines"
 description: "Official Jute Corporation of India (JCI) Junior Assistant typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, KDPH benchmark, and PSU recruitment guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["jci junior assistant typing test", "jute corporation typing speed", "jci clerk typing rules", "jci typing test online", "psu typing test"]
 author: "TypingWire Editorial Team"

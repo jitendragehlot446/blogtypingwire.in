@@ -2,6 +2,7 @@
 title: "SSC CGL Typing Test 2026: Speed (27 WPM), Mistakes Allowed & Cutoff Marks"
 description: "SSC CGL Typing Test (DEST) 2026 complete guide. Qualifying speed (2000 KD / 27 WPM), category-wise error cutoff (UR 5%, OBC 7%), backspace rules and Hindi vs English guidelines."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssc cgl", "dest", "typing test", "exam rules", "error calculation"]
 author: "TypingWire Editorial Team"

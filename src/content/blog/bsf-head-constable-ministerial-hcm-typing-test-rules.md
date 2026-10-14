@@ -2,6 +2,7 @@
 title: "BSF HCM Typing Test 2026: Speed Rules, Head Constable Ministerial & ASI Steno Guidelines"
 description: "Official Border Security Force (BSF) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, mistake calculation, and selection tips."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["bsf hcm typing test", "bsf head constable ministerial typing speed", "bsf hcm skill test rules", "bsf asi steno typing", "paramilitary typing test"]
 author: "TypingWire Editorial Team"

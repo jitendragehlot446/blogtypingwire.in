@@ -2,6 +2,7 @@
 title: "KDPH to WPM Typing Speed Calculator 2026: Exact Conversion Formula & Exam Rules"
 description: "Convert KDPH to WPM easily for SSC CGL, CHSL, High Courts, and Police typing tests. 5-keystroke standard, shortcut formula (KDPH / 300), and Net Speed calculation math."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Typing Tips"
 tags: ["kdph to wpm", "speed calculation", "net speed formula", "typing formulas", "dest", "exam rules"]
 author: "TypingWire Editorial Team"

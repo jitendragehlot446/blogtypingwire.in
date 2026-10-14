@@ -2,6 +2,7 @@
 title: "RRB NTPC Typing Test Rules: Official Clause 13.5 Speed & Penalty Formula"
 description: "Official RRB NTPC CBTST typing test notification guidelines under Clause 13.5. 30 WPM English / 25 WPM Hindi, 5% error allowance and 10x penalty formula."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rrb ntpc", "cbtst rules", "railway notification", "cen ntpc", "5 percent formula"]
 author: "TypingWire Editorial Team"

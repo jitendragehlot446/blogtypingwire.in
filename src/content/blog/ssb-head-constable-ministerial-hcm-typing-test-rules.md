@@ -2,6 +2,7 @@
 title: "SSB HCM Typing Test 2026: Speed Rules, Sashastra Seema Bal Guidelines"
 description: "Official Sashastra Seema Bal (SSB) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, error calculation, and skill test tips."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssb hcm typing test", "ssb head constable ministerial typing speed", "ssb clerk skill test rules", "ssb typing test online", "paramilitary typing test"]
 author: "TypingWire Editorial Team"

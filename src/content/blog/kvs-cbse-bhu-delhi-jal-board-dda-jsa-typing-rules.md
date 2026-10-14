@@ -2,6 +2,7 @@
 title: "KVS & DDA JSA Typing Test 2026: 35 WPM English & 30 WPM Hindi Speed Rules"
 description: "KVS, CBSE, BHU, Delhi Jal Board and DDA JSA Typing Test 2026 guidelines. 35 WPM English (10500 KDPH) or 30 WPM Hindi (9000 KDPH) in 10 minutes."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["kvs jsa typing", "dda jsa", "cbse clerk typing", "delhi jal board", "bhu clerk", "typing rules"]
 author: "TypingWire Editorial Team"

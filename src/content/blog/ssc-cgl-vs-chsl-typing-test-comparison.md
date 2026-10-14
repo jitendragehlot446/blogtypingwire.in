@@ -2,6 +2,7 @@
 title: "SSC CGL vs CHSL Typing Test: Speed (27 vs 35 WPM), Mistakes & Duration Compared"
 description: "Comprehensive comparison between SSC CGL DEST and SSC CHSL typing test. Test duration (15m vs 10m), speeds (27 vs 35 WPM), and error percentage cutoffs."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssc cgl vs chsl", "cgl dest", "chsl typing test", "ssc typing comparison", "error cutoff", "typing rules"]
 author: "TypingWire Editorial Team"

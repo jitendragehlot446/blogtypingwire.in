@@ -1,7 +1,7 @@
 ---
 title: "TCS iON Typing Test Interface 2026: Screen Layout, Mock Demo, Backspace & Practice Guide"
 description: "Master the official TCS iON typing test interface for SSC CGL, CHSL, and RRB NTPC exams. Learn screen layout, backspace behavior, scroll mechanics, and 5-minute demo rules."
-pubDate: 2026-08-16
+pubDate: 2026-10-14
 category: "Exam Rules"
 tags: ["tcs ion typing", "tcs ion interface", "ssc typing software", "mock demo", "exam rules", "backspace rules"]
 author: "TypingWire Editorial Team"

@@ -2,6 +2,7 @@
 title: "Best Mechanical Keyboard Switches for Typing Exams 2026: Red vs Brown vs Blue vs Membrane"
 description: "Comprehensive guide to mechanical keyboard switches for typing test preparation in 2026. Cherry MX Red, Brown, Blue actuation forces, typing fatigue, and TCS iON exam hall reality."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Hardware"
 tags: ["mechanical keyboard", "switches", "cherry mx", "hardware review", "typing speed"]
 author: "TypingWire Lab"

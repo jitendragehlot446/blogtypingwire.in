@@ -2,6 +2,7 @@
 title: "Chandigarh Administration Clerk Typing Test 2026: Speed Rules, 30 WPM Benchmark & Passing Cutoff"
 description: "Official Chandigarh Administration Clerk and Steno typing test rules 2026. 30 WPM English speed, 10-minute duration, 8% mistake limit, software interface, and evaluation guidelines."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["chandigarh clerk typing test", "chandigarh administration typing speed", "clerk typing test 30 wpm", "chandigarh clerk skill test"]
 author: "TypingWire Editorial Team"

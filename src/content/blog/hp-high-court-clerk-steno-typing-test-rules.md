@@ -2,6 +2,7 @@
 title: "HP High Court Clerk Typing Test 2026: Speed, Error Cutoff & Computer Evaluation"
 description: "Complete guide to Himachal Pradesh High Court Clerk and Proof Reader typing test rules 2026. 30 WPM English typing, 10% mistake cutoff, and exam pattern."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["hp high court clerk", "himachal high court typing", "proof reader", "30 wpm english", "hphc typing rules", "typing rules"]
 author: "TypingWire Editorial Team"

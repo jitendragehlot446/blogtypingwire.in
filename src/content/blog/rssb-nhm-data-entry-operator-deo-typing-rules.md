@@ -2,6 +2,7 @@
 title: "RSSB NHM DEO Typing Test 2026: Speed Rules, Rajasthan NHM Data Entry Guidelines"
 description: "Official Rajasthan RSSB NHM Data Entry Operator (DEO) typing test rules 2026. Speed benchmarks (Hindi & English), DevLys 010 & Mangal font options, 15-minute duration, and evaluation criteria."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rssb nhm deo typing test", "rajasthan nhm data entry operator speed", "rssb deo typing test rules", "rajasthan deo devlys 010", "nhm typing test"]
 author: "TypingWire Editorial Team"

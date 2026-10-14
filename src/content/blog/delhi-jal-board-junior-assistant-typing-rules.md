@@ -2,6 +2,7 @@
 title: "Delhi Jal Board Junior Assistant Typing Test 2026: Speed Rules, DSSSB Pattern & Guidelines"
 description: "Official Delhi Jal Board (DJB) Junior Assistant typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, DSSSB examination pattern, and error calculation."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["delhi jal board typing test", "djb junior assistant typing speed", "delhi jal board clerk typing", "dsssb djb typing rules", "delhi govt typing test"]
 author: "TypingWire Editorial Team"

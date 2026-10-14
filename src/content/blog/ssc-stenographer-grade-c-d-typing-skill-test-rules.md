@@ -2,6 +2,7 @@
 title: "SSC Stenographer Typing Test 2026: Grade C & D Transcription Speed & Mistake Cutoff"
 description: "SSC Stenographer Grade C & D skill test and typing rules. 100 WPM & 80 WPM shorthand dictation, transcription duration, and permissible mistake cutoffs."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssc steno", "stenographer grade c", "stenographer grade d", "shorthand test", "ssc exam rules"]
 author: "TypingWire Editorial Team"

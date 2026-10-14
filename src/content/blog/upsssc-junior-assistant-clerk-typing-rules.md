@@ -2,6 +2,7 @@
 title: "UPSSSC Junior Assistant Typing Test 2026: Hindi 25 WPM & English 30 WPM Rules"
 description: "UPSSSC Junior Assistant Typing Test 2026 complete details. Mandatory Hindi (25 WPM Mangal/KrutiDev) AND English (30 WPM) 5-minute qualifying test pattern."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["upsssc junior assistant", "upsssc typing test", "25 wpm hindi", "30 wpm english", "mangal krutidev", "typing rules"]
 author: "TypingWire Editorial Team"

@@ -2,6 +2,7 @@
 title: "Delhi Police Head Constable Typing Test 2026: HCM Speed, 25 Marks & Cutoff Rules"
 description: "Delhi Police Head Constable (Ministerial) Typing Test 2026 scheme. 30 WPM English / 25 WPM Hindi, slab-based marks allocation (up to 25 marks) and error rules."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["delhi police hcm", "head constable ministerial", "25 marks typing", "ssc delhi police", "typing speed marks", "typing rules"]
 author: "TypingWire Editorial Team"

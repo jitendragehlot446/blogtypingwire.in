@@ -2,6 +2,7 @@
 title: "Hindi Typing Alt Codes List 2026: Complete KrutiDev 010 & Mangal Key Chart"
 description: "Complete list of Hindi typing Alt codes for KrutiDev 010, DevLys 010, and Mangal Remington Gail. Printable shortcut chart with special characters for exam preparation."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Typing Tips"
 tags: ["krutidev alt codes", "hindi typing alt code list", "devlys 010 alt code", "mangal alt codes", "hindi typing chart", "typing tips"]
 author: "TypingWire Editorial Team"

@@ -2,6 +2,7 @@
 title: "English Typing Test Passages 2026: 300 to 500-Word Practice Paragraphs for Exams"
 description: "Practice real exam-level English typing test paragraphs (300 to 500 words). Tested passages for SSC CGL, CHSL, High Courts, Railways, and Police exams."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Typing Tips"
 tags: ["typing test passages", "english typing paragraph", "300 words passage", "500 words passage", "ssc typing paragraph", "practice test"]
 author: "TypingWire Editorial Team"

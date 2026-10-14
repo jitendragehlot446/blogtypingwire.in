@@ -1,7 +1,7 @@
 ---
 title: "Top 200 Most Repeated Words in SSC & High Court Typing Tests (Free Practice List)"
 description: "Master the 200 most frequent words in SSC CGL, CHSL, and High Court typing exams. Grouped by 3 to 8-letter words, legal vocabulary, and N-gram muscle memory drills."
-pubDate: 2026-08-16
+pubDate: 2026-10-14
 category: "Typing Tips"
 tags: ["typing practice", "repeated words", "ssc typing", "high court typing", "speed drills", "touch typing"]
 author: "TypingWire Editorial Team"

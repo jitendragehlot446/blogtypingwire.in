@@ -1,7 +1,7 @@
 ---
 title: "How to Increase Typing Speed from 30 to 50+ WPM in 30 Days: Complete Daily Plan"
 description: "Step-by-step 30-day typing practice routine to boost speed from 30 to 50+ WPM for SSC CGL, CHSL, Railway, and High Court exams. Weekly milestones and error drills."
-pubDate: 2026-08-16
+pubDate: 2026-10-14
 category: "Typing Tips"
 tags: ["typing speed", "30 day plan", "touch typing", "wpm", "ssc typing", "speed drills"]
 author: "TypingWire Editorial Team"

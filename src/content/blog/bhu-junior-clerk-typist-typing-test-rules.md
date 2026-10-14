@@ -2,6 +2,7 @@
 title: "BHU Junior Clerk Typing Test 2026: Speed Rules, Non-Teaching Recruitment Guidelines"
 description: "Official Banaras Hindu University (BHU) Junior Clerk typing test rules 2026. 30 WPM English, 25 WPM Hindi in Mangal font, 10-minute duration, NTA evaluation, and passing cutoffs."
 pubDate: 2026-09-19
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["bhu junior clerk typing test", "banaras hindu university typing speed", "bhu non teaching typing rules", "nta bhu clerk typing", "university typing test"]
 author: "TypingWire Editorial Team"

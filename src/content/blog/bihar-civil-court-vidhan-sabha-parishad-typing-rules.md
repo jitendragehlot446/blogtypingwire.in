@@ -2,6 +2,7 @@
 title: "Bihar Civil Court Typing Test 2026: Clerk, Court Reader Speed & Accuracy Rules"
 description: "Bihar Civil Court & Vidhan Sabha Typing Test 2026 guidelines. Court Reader 40 WPM English & 30 WPM Hindi (90% accuracy), Vidhan Sabha 5% error tolerance rules."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["bihar civil court", "court reader", "vidhan sabha", "vidhan parishad", "bihar typing", "patna civil court"]
 author: "TypingWire Editorial Team"

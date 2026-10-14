@@ -2,6 +2,7 @@
 title: "SSC Typing Test Software Interface 2026: Backspace, Auto-Scroll & Highlighting Rules"
 description: "SSC typing test software interface walkthrough. Split-screen layout, mock test session, backspace functionality, auto-scrolling and live timer behavior."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["ssc software interface", "tcs ion typing", "backspace rules", "mock typing test", "ssc dest software", "typing rules"]
 author: "TypingWire Editorial Team"

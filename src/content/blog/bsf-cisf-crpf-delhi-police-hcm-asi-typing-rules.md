@@ -2,6 +2,7 @@
 title: "Paramilitary HCM Typing Test 2026: BSF, CISF, CRPF Head Constable Speed Rules"
 description: "Paramilitary Head Constable Ministerial (HCM) Typing Test 2026. BSF, CISF, CRPF 35 WPM English / 30 WPM Hindi, 5% error limit and 10-word deduction formula."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["crpf hcm typing", "cisf hcm typing", "bsf hcm", "paramilitary typing", "10 word penalty", "typing rules"]
 author: "TypingWire Editorial Team"

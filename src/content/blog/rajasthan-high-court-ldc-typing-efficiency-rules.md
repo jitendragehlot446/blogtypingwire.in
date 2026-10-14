@@ -2,6 +2,7 @@
 title: "Rajasthan High Court LDC Typing Test 2026: Speed, Efficiency & 100-Mark Pattern"
 description: "Rajasthan High Court LDC Typing Test 2026 guidelines. Paper-I Speed Test (Hindi KrutiDev 25M + English 25M) and Paper-II MS Word Efficiency Test (50 Marks)."
 pubDate: 2026-08-16
+updatedDate: 2026-10-14
 category: "Exam Rules"
 tags: ["rajasthan high court", "rhc ldc", "efficiency test", "krutidev", "ms word test"]
 author: "TypingWire Editorial Team"
