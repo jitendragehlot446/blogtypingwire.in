@@ -72,3 +72,13 @@ The examination is administered on the NTA browser-based testing portal:
 1. **Prioritize 100% Accuracy Over 50 WPM Speed**: Since speed requirement is only 25 WPM, typing calmly at 35 WPM with 99% accuracy will yield 49/50 marks. Rushing at 60 WPM with 15 mistakes will drop your score down to 35/50 marks.
 2. **Practice on Standard QWERTY Desktop Keyboards**: Never practice on low-profile laptop keyboards. High-court exam centers feature standard mechanical/membrane USB keyboards with deep key travel.
 3. **Simulate 20-Minute Sustained Sessions**: Most candidates experience finger fatigue between minute 12 and 18. Practice dedicated 20-minute sessions on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 4. Related High Court & State Typing Exam Guides
+
+- **Stage-II Clerical Rules**: For bilingual Stage-II details, see [Allahabad High Court Group C Junior Assistant Typing Rules](/blog/allahabad-high-court-group-c-junior-assistant-typing-rules/).
+- **Notification Annexures**: Check the [Official Allahabad High Court RO/ARO Typing Notification Rules](/blog/official-allahabad-high-court-ro-aro-typing-notification-rules/).
+- **Exam Hall Psychology**: Read [How to Stop Hand Shivering & Anxiety During Typing Tests](/blog/how-to-stop-hand-shivering-during-typing-test/).
+- **Hindi Typing Font Setup**: Learn setup differences in [Hindi Typing Exams: Mangal Remington Gail & Inscript Guide](/blog/hindi-typing-exams-mangal-remington-inscript-guide/).
+- **Keyboard Hardware**: Master the right tactile switch on [TVS Gold & Mechanical Keyboard Guide](/blog/tvs-gold-keyboard-typing-test-review-guide/).

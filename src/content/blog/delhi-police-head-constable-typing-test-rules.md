@@ -84,3 +84,12 @@ The Delhi Police recruitment board awards marks on a graduated slab system based
 1. **Aim for 55+ WPM Raw Speed**: To lock in the 25/25 slab on exam day, train to hit 55+ WPM with 98% accuracy at home.
 2. **Minimize Backspacing**: Pausing to backspace drops your gross word generation rate drastically.
 3. **Practice on [TypingWire.in](https://typingwire.in)** with the Delhi Police slab-based score evaluator.
+
+---
+
+## 4. Related Police & Paramilitary Typing Guides
+
+- **Central Forces Comparison**: Compare standards in [BSF, CISF, CRPF & Delhi Police HCM / ASI Typing Rules](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **Exam Hall Experience**: Understand real-time test center hurdles in [CISF & CRPF HCM Typing Test Ground Reality Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **State Police Variations**: Check [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).
+- **Technique Drills**: Review [Touch Typing Home Row Rules & Finger Placement](/blog/touch-typing-home-row-rules-finger-placement-chart/) and [10 Tips to Increase Typing Speed](/blog/10-tips-to-increase-typing-speed/).

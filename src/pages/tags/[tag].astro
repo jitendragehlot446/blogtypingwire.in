@@ -1,0 +1,148 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogCard from '../../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  
+  // Extract all unique tags
+  const tagMap = new Map<string, typeof allPosts>();
+
+  allPosts.forEach((post) => {
+    (post.data.tags || []).forEach((tag: string) => {
+      const cleanTag = tag.trim().toLowerCase();
+      if (!cleanTag) return;
+      if (!tagMap.has(cleanTag)) {
+        tagMap.set(cleanTag, []);
+      }
+      tagMap.get(cleanTag)!.push(post);
+    });
+  });
+
+  return Array.from(tagMap.entries()).map(([tag, posts]) => {
+    const slug = tag.replace(/\s+/g, '-');
+    const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    return {
+      params: { tag: slug },
+      props: { tagName: tag, posts: sortedPosts },
+    };
+  });
+}
+
+const { tagName, posts } = Astro.props;
+---
+
+<BaseLayout
+  title={`#${tagName.toUpperCase()} - Official Typing Guides & Exam Rules | TypingWire`}
+  description={`Comprehensive typing examination rules, speed benchmarks, and precision guides tagged under #${tagName} on TypingWire.`}
+>
+  <section class="tag-header">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumbs">
+        <a href="/">Home</a>
+        <span class="sep">/</span>
+        <span class="current">Tags</span>
+        <span class="sep">/</span>
+        <span class="current">#{tagName}</span>
+      </nav>
+      <span class="tag-badge">#{tagName}</span>
+      <h1 class="display-lg tag-title">Guides Tagged with #{tagName}</h1>
+      <p class="tag-desc">
+        Browse {posts.length} official {posts.length === 1 ? 'guide' : 'guides'} covering speed formulas, cutoff percentages, and examination software instructions for #{tagName}.
+      </p>
+    </div>
+  </section>
+
+  <section class="tag-posts">
+    <div class="container">
+      <div class="editorial-grid">
+        {posts.map((post) => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            slug={post.id}
+            category={post.data.category}
+            tags={post.data.tags}
+            heroImage={post.data.heroImage}
+            imageAlt={post.data.imageAlt}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .tag-header {
+    background-color: var(--colors-surface-soft);
+    border-bottom: 1px solid var(--colors-hairline);
+    padding: var(--spacing-xl) 0 calc(var(--spacing-xl) * 1.5);
+  }
+
+  .breadcrumb {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--colors-muted-text);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .breadcrumb a {
+    color: var(--colors-primary);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumb .sep {
+    margin: 0 6px;
+    color: var(--colors-hairline);
+  }
+
+  .tag-badge {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 4px 10px;
+    border-radius: var(--rounded-pill);
+    background: var(--colors-block-lilac);
+    color: var(--colors-primary);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .tag-title {
+    margin-bottom: var(--spacing-xs);
+    font-size: 32px;
+    font-weight: 700;
+  }
+
+  .tag-desc {
+    color: var(--colors-muted-text);
+    font-size: 16px;
+    max-width: 600px;
+    line-height: 1.5;
+  }
+
+  .tag-posts {
+    padding: var(--spacing-section) 0;
+  }
+
+  .editorial-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-lg);
+  }
+
+  @media (max-width: 960px) {
+    .editorial-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

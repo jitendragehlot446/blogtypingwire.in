@@ -78,8 +78,20 @@ SSC uses a rigorous error evaluation algorithm to compute candidate mistakes:
 `Total Mistakes = 10 + (6 / 2) = 13`
 `Error % = (13 × 100 / 400) = 3.25% (Qualified under 5% limit)`
 
+For an in-depth breakdown of line omissions, repeat words, and penalty calculations, read our [Official SSC Typing Evaluation Guidelines & Full/Half Mistake Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+
 ---
 
-## 5. Live Practice Recommendation
+## 5. Related SSC Typing Exam Guides
+
+Before appearing for the exam, ensure you understand how the software works and compare guidelines with other exams:
+- **Interface & Editing Rules**: Read [SSC Typing Test Software Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/) to see if navigation keys are disabled.
+- **Hindi Typing Candidates**: Check [SSC Hindi Typing: Mangal Remington Gail & Inscript Rules](/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/).
+- **CGL vs CHSL Requirements**: See the detailed [SSC CGL vs CHSL Typing Test Comparison](/blog/ssc-cgl-vs-chsl-typing-test-comparison/).
+- **Speed Conversions**: Understand keystroke math with the [KDPH to WPM Speed Calculation Formula Guide](/blog/kdph-to-wpm-speed-calculation-formula-guide/).
+
+---
+
+## 6. Live Practice Recommendation
 
 Do not wait for Tier-II results to begin typing practice. Practice on exam-simulated 15-minute passages with instant mistake mapping on [TypingWire.in](https://typingwire.in).

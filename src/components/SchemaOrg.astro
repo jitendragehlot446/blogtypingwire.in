@@ -22,7 +22,7 @@ const {
   title,
   description,
   url,
-  image = 'https://blog.typingwire.in/favicon.jpg',
+  image,
   pubDate,
   updatedDate,
   author = 'TypingWire Team',
@@ -30,13 +30,18 @@ const {
   breadcrumbs = [],
 } = Astro.props;
 
+const fallbackImage = 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=1200&auto=format&fit=crop&q=80';
+const articleImage = image || fallbackImage;
+
 // 1. Article or WebSite schema
 const mainSchema = type === 'Article' ? {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
   'headline': title,
   'description': description,
-  'image': image,
+  'image': articleImage,
+  'inLanguage': 'en-IN',
+  'isAccessibleForFree': 'true',
   'author': {
     '@type': 'Organization',
     'name': author,
@@ -48,7 +53,7 @@ const mainSchema = type === 'Article' ? {
     'url': 'https://typingwire.in',
     'logo': {
       '@type': 'ImageObject',
-      'url': 'https://blog.typingwire.in/favicon.jpg'
+      'url': 'https://blog.typingwire.in/logo.jpg'
     }
   },
   'datePublished': pubDate ? pubDate.toISOString() : undefined,

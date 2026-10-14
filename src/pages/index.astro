@@ -95,6 +95,22 @@ const marqueeExams = [
         <a href="/categories/exam-rules">View all posts &rarr;</a>
       </section>
 
+      <!-- Topic Pillar Pills (Topical Silo Crawling) -->
+      <div class="topic-pills-bar">
+        <span class="pills-label">TOP TOPICS:</span>
+        <div class="pills-list">
+          <a href="/tags/ssc-cgl" class="topic-pill">#SSC CGL</a>
+          <a href="/tags/dest" class="topic-pill">#DEST Rules</a>
+          <a href="/tags/high-court" class="topic-pill">#High Court</a>
+          <a href="/tags/typing-rules" class="topic-pill">#Typing Rules</a>
+          <a href="/tags/hindi-typing" class="topic-pill">#Hindi Mangal</a>
+          <a href="/tags/error-calculation" class="topic-pill">#Mistake Formula</a>
+          <a href="/tags/delhi-police" class="topic-pill">#Police HCM</a>
+          <a href="/categories/typing-tips" class="topic-pill">#Speed Tips</a>
+          <a href="/categories/hardware" class="topic-pill">#Keyboards</a>
+        </div>
+      </div>
+
       <section class="posts-grid" id="main-posts-grid">
         {posts.map((post, index) => (
           <div class={`post-wrapper ${index >= 18 ? 'is-deferred' : ''}`}>
@@ -251,6 +267,47 @@ const marqueeExams = [
 
   .section-heading a:hover {
     text-decoration: underline;
+  }
+
+  /* Topic Pillar Pills */
+  .topic-pills-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .pills-label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--colors-muted-text);
+  }
+
+  .pills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .topic-pill {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: var(--rounded-pill);
+    background-color: var(--colors-surface-soft);
+    border: 1px solid var(--colors-hairline);
+    color: var(--colors-primary);
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .topic-pill:hover {
+    background-color: var(--colors-primary);
+    color: #ffffff;
+    border-color: var(--colors-primary);
   }
 
   /* 3-Column Posts Grid */
