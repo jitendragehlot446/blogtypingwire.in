@@ -50,3 +50,27 @@ The Phase-II skill test is a rigorous qualifying milestone. Below are the offici
 * Candidates who type the complete 350-word master passage with high accuracy secure qualifying status comfortably.
 
 Practice BSF HCM official passage mock tests on [TypingWire.in](https://typingwire.in/practice-exams/bsf-asi-hc-ministerial-typing).
+
+---
+
+## ⚡ Exam Day Interface & Software Behavior Checklist
+
+Candidates preparing for this examination must train under realistic test software parameters to avoid unexpected failure on exam day:
+
+1. **No Auto-Highlighting**: The official test software displays the master passage statically. Words will **not** turn green or red as you type, and your active cursor position is not highlighted. You must maintain visual tracking independently.
+2. **Manual Passage Scrolling**: As you complete visible lines, the passage does not scroll down automatically. You must manually scroll using the **mouse wheel or the downward arrow key** on your keyboard.
+3. **The 5-Minute Mock Trial Run**: Prior to the real evaluation, a short demo session is conducted. Physically test every critical key:
+   - Tap **Spacebar, Backspace, and Enter** repeatedly to detect sticky membranes.
+   - Verify both **Left Shift and Right Shift** keys.
+   - If any key requires abnormal pressure or fails to register, **raise your hand immediately to request a replacement terminal before the main exam timer begins**.
+4. **Accuracy Over Unchecked Speed**: Because penalization algorithms deduct heavily for uncorrected errors, typing smoothly at a steady pace with 98%+ accuracy yields higher qualifying scores than rushing with frequent typos.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).

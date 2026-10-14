@@ -71,3 +71,13 @@ Beltron evaluates candidate typing through an automated algorithm:
 1. **Daily Practice on Mangal Remington Gail**: Set your input method to Remington Gail on Windows and practice daily.
 2. **Focus on Government Schemes Vocabulary**: Passages in Bihar exams frequently mention state welfare programs, rural development schemes, and administrative circulars.
 3. Practice timed 10-minute drills on [TypingWire.in](https://typingwire.in) with Beltron simulated passages.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **MP CPCT Typing Test Rules & Scorecard Validity**: Read the full breakdown in [MP CPCT Typing Test Rules & Scorecard Validity](/blog/mp-cpct-typing-test-rules-scorecard-validity/).
+- **UPSSSC Junior Assistant & Clerk Typing Test Rules**: Read the full breakdown in [UPSSSC Junior Assistant & Clerk Typing Test Rules](/blog/upsssc-junior-assistant-clerk-typing-rules/).
+- **RSSB RSMSSB LDC Typing & Computer Efficiency Rules**: Read the full breakdown in [RSSB RSMSSB LDC Typing & Computer Efficiency Rules](/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/).
+- **State LDC Typing Rules: Rajasthan, UP & Bihar Comparison**: Read the full breakdown in [State LDC Typing Rules: Rajasthan, UP & Bihar Comparison](/blog/official-state-ldc-typing-rules-rajasthan-up-bihar-comparison/).

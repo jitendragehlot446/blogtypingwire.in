@@ -77,3 +77,13 @@ The **Staff Selection Commission (SSC)** issues an official regulatory annexure 
 ## 3. Practice with Official Annexure Evaluation on TypingWire
 
 Test your exact error percentage with full and half mistake audits on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **SSC Typing Test Interface & Backspace Rules**: Read the full breakdown in [SSC Typing Test Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/).
+- **SSC Hindi Typing: Mangal Remington Gail & Inscript**: Read the full breakdown in [SSC Hindi Typing: Mangal Remington Gail & Inscript](/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/).

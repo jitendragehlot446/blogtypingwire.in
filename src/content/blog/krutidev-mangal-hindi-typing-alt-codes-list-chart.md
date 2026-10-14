@@ -98,3 +98,13 @@ faqs:
 * एक सादे कागज पर **शीर्ष 10 Alt Codes** को बड़े अक्षरों में लिखकर अपने कंप्यूटर मॉनिटर के ठीक नीचे चिपका लें।
 * हर दिन टाइपिंग शुरू करने से पहले 5 मिनट इन 10 कोड्स को 20-20 बार टाइप करें। 3 दिन के भीतर आपकी उंगलियों को यह बिना सोचे अपने आप याद हो जाएगा!
 * [TypingWire.in](https://typingwire.in) पर राजस्थान हाईकोर्ट और RSSB LDC के पैसेज में इन सभी कोड्स का लाइव अभ्यास करें।
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).
+- **Touch Typing Home Row Rules & Finger Placement Chart**: Read the full breakdown in [Touch Typing Home Row Rules & Finger Placement Chart](/blog/touch-typing-home-row-rules-finger-placement-chart/).
+- **How to Stop Hand Shivering & Nervousness During Typing Tests**: Read the full breakdown in [How to Stop Hand Shivering & Nervousness During Typing Tests](/blog/how-to-stop-hand-shivering-during-typing-test/).
+- **Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)**: Read the full breakdown in [Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)](/blog/mechanical-keyboard-switch-guide/).

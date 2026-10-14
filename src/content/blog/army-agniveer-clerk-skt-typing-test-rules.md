@@ -69,3 +69,13 @@ The Army CEE typing software follows standardized testing rules:
 * **Get Used to Desktop Keyboards**: Most Army testing labs use membrane keyboards with standard key travel. Avoid practicing solely on slim laptop keyboards.
 
 Practice official Army Agniveer Clerk mock tests on [TypingWire.in](https://typingwire.in/practice-exams/army-agniveer-ldc-skt-english-typing) to simulate the real exam timer and error evaluation.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).

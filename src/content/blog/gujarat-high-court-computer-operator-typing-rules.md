@@ -64,3 +64,13 @@ The practical test evaluates proficiency in office automation software:
 1. **Shruti Font Mastery**: Ensure Microsoft Indic Input 3 is properly configured on Windows for Unicode Shruti typing.
 2. **Focus on Compound Gujarati Glyphs**: Practice typing letters with conjuncts (*ક્ષ, જ્ઞ, ત્ર, શ્ર*) to eliminate hesitation during the test.
 3. **Timed Mock Tests**: Practice dual-language passages on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

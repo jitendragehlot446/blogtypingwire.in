@@ -84,3 +84,13 @@ The CPT evaluates practical workplace computing skills in three specific modules
 2. **Train on Legal Vocabulary**: Patna High Court passages heavily feature judicial terms like *appellant, affidavit, petitioner, jurisprudence, decree, jurisdiction, respondent*. Practice with legal passages directly on [TypingWire.in](https://typingwire.in).
 3. **Control Backspace Addiction**: Frequent backspacing shatters rhythm. Aim for **96%+ raw accuracy** before pushing for raw speed.
 4. **Master MS Word Keyboard Shortcuts**: Knowing shortcuts (`Ctrl + E` center, `Ctrl + B` bold, `Ctrl + 1` single line spacing) saves 3–4 valuable minutes in the CPT module.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **Official SSC Full vs Half Mistake Evaluation Annexure**: Read the full breakdown in [Official SSC Full vs Half Mistake Evaluation Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+- **SSC Typing Test Interface & Backspace Rules**: Read the full breakdown in [SSC Typing Test Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/).

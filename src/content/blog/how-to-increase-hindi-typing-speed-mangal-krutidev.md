@@ -85,3 +85,13 @@ Because every time they make a typo, they hit **Backspace 3 to 5 times**, recalc
 * **First 10 Minutes**: Finger warm-up with isolated character strings (*क ख ग घ, च छ ज झ*).
 * **Next 15 Minutes**: Repetitive practice of high-frequency legal & administrative words (*अधिनियम, याचिका, निर्णय, सर्वोच्च न्यायालय*).
 * **Final 20 Minutes**: Two 10-minute timed passage runs on [TypingWire.in](https://typingwire.in) under realistic exam simulation conditions.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).
+- **Touch Typing Home Row Rules & Finger Placement Chart**: Read the full breakdown in [Touch Typing Home Row Rules & Finger Placement Chart](/blog/touch-typing-home-row-rules-finger-placement-chart/).
+- **How to Stop Hand Shivering & Nervousness During Typing Tests**: Read the full breakdown in [How to Stop Hand Shivering & Nervousness During Typing Tests](/blog/how-to-stop-hand-shivering-during-typing-test/).
+- **Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)**: Read the full breakdown in [Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)](/blog/mechanical-keyboard-switch-guide/).

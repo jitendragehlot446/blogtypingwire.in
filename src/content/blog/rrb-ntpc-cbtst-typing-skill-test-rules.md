@@ -189,3 +189,13 @@ Candidates with permanent physical disability can claim permanent exemption from
 3. **Practice with Locked Backspace**: Do not practice on ordinary word processors where backspace is fully open. Use the dedicated RRB exam mode on [TypingWire.in](https://typingwire.in) where the word-lock algorithm is enabled.
 4. **Never Leave Time on the Clock**: If you complete the master text in 8 minutes, immediately cycle and retype from the beginning.
 5. **Keep Wrists Floating**: Rest your forearms slightly above the table surface to prevent wrist fatigue during continuous 10-minute sessions.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Bihar Beltron DEO & BSSC Inter-Level Typing Rules**: Read the full breakdown in [Bihar Beltron DEO & BSSC Inter-Level Typing Rules](/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/).
+- **MP CPCT Typing Test Rules & Scorecard Validity**: Read the full breakdown in [MP CPCT Typing Test Rules & Scorecard Validity](/blog/mp-cpct-typing-test-rules-scorecard-validity/).
+- **UPSSSC Junior Assistant & Clerk Typing Test Rules**: Read the full breakdown in [UPSSSC Junior Assistant & Clerk Typing Test Rules](/blog/upsssc-junior-assistant-clerk-typing-rules/).
+- **RSSB RSMSSB LDC Typing & Computer Efficiency Rules**: Read the full breakdown in [RSSB RSMSSB LDC Typing & Computer Efficiency Rules](/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/).

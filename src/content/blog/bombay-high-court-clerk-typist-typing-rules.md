@@ -69,3 +69,13 @@ The skill test assesses the candidate's speed, linguistic accuracy, and transcri
 1. **Practice Both Marathi & English Regularly**: Allocate 30 minutes daily to Marathi typing on Mangal Inscript or Remington layout to master complex Marathi ligatures.
 2. **Use Legal Terminology Passages**: High Court passages frequently incorporate terms like *writ petition, interlocutory application, interim order, caveat, maintainability*.
 3. **Simulate Timed Practice**: Practice 10-minute exam simulations with live WPM and error tracking on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

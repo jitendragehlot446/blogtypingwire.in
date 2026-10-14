@@ -66,3 +66,13 @@ While both examinations use the same TCS iON testing platform, their speed thres
 ## 3. Preparation Strategy on TypingWire
 
 Practice on [TypingWire.in](https://typingwire.in) using both 15-minute CGL DEST and 10-minute CHSL exam simulator modes.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **Official SSC Full vs Half Mistake Evaluation Annexure**: Read the full breakdown in [Official SSC Full vs Half Mistake Evaluation Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+- **SSC Typing Test Interface & Backspace Rules**: Read the full breakdown in [SSC Typing Test Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/).

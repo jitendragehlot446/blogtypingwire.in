@@ -69,3 +69,13 @@ Most Hindi typists in North India learn on KrutiDev or Remington Gail. However, 
 1. **Dedicate 45 Minutes Daily to Inscript Key Positions**: Master the top, home, and bottom rows without looking at the keys.
 2. **Practice Indian Police Penal Code Terms**: Passages frequently include words like *थाना, प्राथमिकी, विवेचना, अभियुक्त, न्यायालय, गवाह, साक्ष्य*.
 3. Practice with live Inscript layout on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).

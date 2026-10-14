@@ -54,3 +54,27 @@ The **High Court of Himachal Pradesh (Shimla)** conducts recruitment for **Clerk
 ## 2. High-Scoring Practice Routine on TypingWire
 
 Practice legal passages on [TypingWire.in](https://typingwire.in) with instant 10% mistake cutoff tracking.
+
+---
+
+## ⚡ Exam Day Interface & Software Behavior Checklist
+
+Candidates preparing for this examination must train under realistic test software parameters to avoid unexpected failure on exam day:
+
+1. **No Auto-Highlighting**: The official test software displays the master passage statically. Words will **not** turn green or red as you type, and your active cursor position is not highlighted. You must maintain visual tracking independently.
+2. **Manual Passage Scrolling**: As you complete visible lines, the passage does not scroll down automatically. You must manually scroll using the **mouse wheel or the downward arrow key** on your keyboard.
+3. **The 5-Minute Mock Trial Run**: Prior to the real evaluation, a short demo session is conducted. Physically test every critical key:
+   - Tap **Spacebar, Backspace, and Enter** repeatedly to detect sticky membranes.
+   - Verify both **Left Shift and Right Shift** keys.
+   - If any key requires abnormal pressure or fails to register, **raise your hand immediately to request a replacement terminal before the main exam timer begins**.
+4. **Accuracy Over Unchecked Speed**: Because penalization algorithms deduct heavily for uncorrected errors, typing smoothly at a steady pace with 98%+ accuracy yields higher qualifying scores than rushing with frequent typos.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **Official SSC Full vs Half Mistake Evaluation Annexure**: Read the full breakdown in [Official SSC Full vs Half Mistake Evaluation Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+- **SSC Typing Test Interface & Backspace Rules**: Read the full breakdown in [SSC Typing Test Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/).

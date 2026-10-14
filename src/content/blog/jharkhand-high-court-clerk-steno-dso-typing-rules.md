@@ -60,3 +60,13 @@ The **High Court of Jharkhand at Ranchi (Jharkhand High Court)** conducts skill 
 1. **Consistent 10-Minute Timed Drills**: Build muscle memory for steady 10-minute sessions without pausing.
 2. **Practice on Mangal Remington & KrutiDev**: Familiarize yourself with both layouts to avoid last-minute surprises at the exam center.
 3. **Practice on [TypingWire.in](https://typingwire.in)** to evaluate real-time net speed and accuracy.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **Official SSC Full vs Half Mistake Evaluation Annexure**: Read the full breakdown in [Official SSC Full vs Half Mistake Evaluation Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+- **SSC Typing Test Interface & Backspace Rules**: Read the full breakdown in [SSC Typing Test Interface & Backspace Rules](/blog/ssc-typing-test-software-interface-backspace-rules/).

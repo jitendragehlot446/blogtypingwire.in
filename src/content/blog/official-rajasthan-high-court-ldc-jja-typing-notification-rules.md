@@ -68,3 +68,13 @@ The Efficiency Test takes place in MS Word / Excel. Common tasks tested by the R
 1. **Master KrutiDev 010 Alt Codes**: Memorize key codes (`Alt + 0161` for `ऋ`, `Alt + 0216` for `क्र`, `Alt + 0170` for `द्व`).
 2. **Practice 5-Minute High-Intensity Drills**: Since each speed test is only 5 minutes long, starting with high accuracy from second one is essential.
 3. **Practice on [TypingWire.in](https://typingwire.in)** with the specialized Rajasthan High Court KrutiDev simulator and efficiency formatting drills.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

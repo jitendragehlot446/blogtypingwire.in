@@ -75,3 +75,13 @@ Delhi High Court enforces one of the most stringent accuracy thresholds in India
 1. **Aim for 98% Accuracy in Daily Practice**: At 35 WPM, precision is paramount. Do not rush.
 2. **Practice Judicial Passages**: High Court passages feature constitutional articles, legal orders, and petitions.
 3. **Practice on [TypingWire.in](https://typingwire.in)** with 3% error cutoff simulation.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

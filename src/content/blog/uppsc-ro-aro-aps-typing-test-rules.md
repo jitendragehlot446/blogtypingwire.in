@@ -66,3 +66,13 @@ For the **UPPSC APS (Apar Niji Sachiv)** post:
 * **Computer Practical Test**: 50-mark practical test covering MS Word, MS Excel, PowerPoint, email, and web browsing.
 
 Practice official UPPSC RO ARO and APS passages on [TypingWire.in](https://typingwire.in/practice-exams/uppsc-ro-aro-hindi-typing-test) to master KrutiDev 010 on real 5-minute timers.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Bihar Beltron DEO & BSSC Inter-Level Typing Rules**: Read the full breakdown in [Bihar Beltron DEO & BSSC Inter-Level Typing Rules](/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/).
+- **MP CPCT Typing Test Rules & Scorecard Validity**: Read the full breakdown in [MP CPCT Typing Test Rules & Scorecard Validity](/blog/mp-cpct-typing-test-rules-scorecard-validity/).
+- **UPSSSC Junior Assistant & Clerk Typing Test Rules**: Read the full breakdown in [UPSSSC Junior Assistant & Clerk Typing Test Rules](/blog/upsssc-junior-assistant-clerk-typing-rules/).
+- **RSSB RSMSSB LDC Typing & Computer Efficiency Rules**: Read the full breakdown in [RSSB RSMSSB LDC Typing & Computer Efficiency Rules](/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/).

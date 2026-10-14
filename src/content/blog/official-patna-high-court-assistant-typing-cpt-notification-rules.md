@@ -62,3 +62,13 @@ Candidates receive raw tabular data and must execute specific formula calculatio
 
 1. **Practice Formatting Without a Mouse**: Learn key MS Office keyboard shortcuts to complete formatting tasks within the tight 15-minute time window.
 2. **Type Daily on Legal Passages**: Build typing stamina on [TypingWire.in](https://typingwire.in) to ensure you comfortably cross the 40 WPM English / 30 WPM Hindi threshold with 95%+ accuracy.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

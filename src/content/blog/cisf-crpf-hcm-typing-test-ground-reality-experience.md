@@ -78,3 +78,13 @@ While typing from paper, use your left thumb or a 15cm ruler to slide down line 
 
 ### 3. Maintain 98%+ Accuracy
 Do not chase 45 WPM. If you type at a steady, calm 38 WPM with 0 to 4 errors, you will easily qualify while fast, sloppy typists get eliminated around you.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).

@@ -71,3 +71,13 @@ Every candidate goes through three distinct stages at the TCS iON terminal:
 ## 3. Train on the Exact TCS Interface on TypingWire
 
 Practice on [TypingWire.in](https://typingwire.in) using our 1:1 replica of the TCS iON split-screen interface with live word highlighting and auto-scrolling.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **SSC CGL DEST Typing Test Rules & 5% Cutoff**: Read the full breakdown in [SSC CGL DEST Typing Test Rules & 5% Cutoff](/blog/ssc-cgl-dest-typing-test-rules/).
+- **SSC CHSL Typing Test Rules: 35 WPM & Error Formula**: Read the full breakdown in [SSC CHSL Typing Test Rules: 35 WPM & Error Formula](/blog/ssc-chsl-typing-test-rules/).
+- **Official SSC Full vs Half Mistake Evaluation Annexure**: Read the full breakdown in [Official SSC Full vs Half Mistake Evaluation Annexure](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+- **SSC Hindi Typing: Mangal Remington Gail & Inscript**: Read the full breakdown in [SSC Hindi Typing: Mangal Remington Gail & Inscript](/blog/ssc-hindi-typing-mangal-remington-gail-inscript-rules/).

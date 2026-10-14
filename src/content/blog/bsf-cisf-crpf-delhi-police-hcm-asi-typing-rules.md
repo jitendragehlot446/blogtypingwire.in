@@ -80,3 +80,13 @@ Paramilitary recruitment boards calculate net speed using an aggressive penalty 
 1. **Train for 98%+ Accuracy**: Make accuracy your supreme metric. Speed will naturally follow.
 2. **Master Military & Police Vocabulary**: Passages include military ranks, security protocols, administrative orders, and departmental notifications.
 3. Practice with the official 10-word penalty algorithm on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).

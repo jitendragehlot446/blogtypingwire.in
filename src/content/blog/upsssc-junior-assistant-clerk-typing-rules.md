@@ -70,3 +70,13 @@ Because the test is only 5 minutes long, even a minor freeze or keyboard jam can
 1. **Alternate Daily Practice**: Spend 20 minutes on Hindi and 20 minutes on English every day.
 2. **Practice 5-Minute High-Paced Drills**: Focus on rapid start drills to overcome exam-hall nervous delays.
 3. Practice UPSSSC simulated passages on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Bihar Beltron DEO & BSSC Inter-Level Typing Rules**: Read the full breakdown in [Bihar Beltron DEO & BSSC Inter-Level Typing Rules](/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/).
+- **MP CPCT Typing Test Rules & Scorecard Validity**: Read the full breakdown in [MP CPCT Typing Test Rules & Scorecard Validity](/blog/mp-cpct-typing-test-rules-scorecard-validity/).
+- **RSSB RSMSSB LDC Typing & Computer Efficiency Rules**: Read the full breakdown in [RSSB RSMSSB LDC Typing & Computer Efficiency Rules](/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/).
+- **State LDC Typing Rules: Rajasthan, UP & Bihar Comparison**: Read the full breakdown in [State LDC Typing Rules: Rajasthan, UP & Bihar Comparison](/blog/official-state-ldc-typing-rules-rajasthan-up-bihar-comparison/).

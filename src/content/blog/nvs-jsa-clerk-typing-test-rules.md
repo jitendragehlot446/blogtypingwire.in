@@ -58,3 +58,13 @@ Following the computer-based written test (CBT), shortlisted candidates must app
 * **Practice Strategy**: Practice on full-length 10-minute drills with standard membrane keyboards to adapt to test-center typing conditions.
 
 Simulate the authentic NVS JSA typing test on [TypingWire.in](https://typingwire.in/practice-exams/nvs-clerk-jsa) with official passage timers and real-time accuracy diagnostics.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **NTA Recruitment EMRS, IGNOU JAT & CSIR JSA Typing Rules**: Read the full breakdown in [NTA Recruitment EMRS, IGNOU JAT & CSIR JSA Typing Rules](/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/).
+- **EPFO SSA Typing Test Rules (NTA Pattern & 35 WPM)**: Read the full breakdown in [EPFO SSA Typing Test Rules (NTA Pattern & 35 WPM)](/blog/epfo-ssa-typing-test-rules-nta-pattern/).
+- **AIIMS CRE Junior Administrative Assistant Typing Rules**: Read the full breakdown in [AIIMS CRE Junior Administrative Assistant Typing Rules](/blog/aiims-cre-junior-admin-assistant-typing-rules/).
+- **KVS, CBSE, BHU & DDA Junior Assistant Typing Rules**: Read the full breakdown in [KVS, CBSE, BHU & DDA Junior Assistant Typing Rules](/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/).

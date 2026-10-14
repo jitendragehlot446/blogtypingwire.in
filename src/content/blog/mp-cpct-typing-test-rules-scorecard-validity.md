@@ -72,3 +72,13 @@ The MP CPCT scorecard awards percentile scoring brackets based on verified Net S
 1. **Practice Both Sections Daily**: Ensure you clear both the 38-mark MCQ cutoff and the typing speed cutoffs on the same exam day.
 2. **Train on Remington Gail Daily**: Master Remington key combinations for half-letters (*क्, त्, प्*) and conjuncts (*द्ध, स्त्र, ष्ट*).
 3. Practice with real CPCT simulated mock tests on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Bihar Beltron DEO & BSSC Inter-Level Typing Rules**: Read the full breakdown in [Bihar Beltron DEO & BSSC Inter-Level Typing Rules](/blog/bihar-beltron-deo-bssc-inter-level-typing-rules/).
+- **UPSSSC Junior Assistant & Clerk Typing Test Rules**: Read the full breakdown in [UPSSSC Junior Assistant & Clerk Typing Test Rules](/blog/upsssc-junior-assistant-clerk-typing-rules/).
+- **RSSB RSMSSB LDC Typing & Computer Efficiency Rules**: Read the full breakdown in [RSSB RSMSSB LDC Typing & Computer Efficiency Rules](/blog/rssb-rsmssb-ldc-typing-efficiency-test-rules/).
+- **State LDC Typing Rules: Rajasthan, UP & Bihar Comparison**: Read the full breakdown in [State LDC Typing Rules: Rajasthan, UP & Bihar Comparison](/blog/official-state-ldc-typing-rules-rajasthan-up-bihar-comparison/).

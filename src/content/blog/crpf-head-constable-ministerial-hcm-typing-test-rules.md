@@ -74,3 +74,13 @@ Just **6 mistakes above the cutoff** wiped out 60 words and caused outright fail
 2. **Never Rush the First 2 Minutes**: Hand trembling is common. Breathe deeply and start at a calm, controlled 30 WPM pace before ramping up to 40 WPM.
 
 Practice official CRPF HCM test passages with the 10-word deduction simulator on [TypingWire.in](https://typingwire.in/practice-exams/bsf-all-forces-hcm-english-typing).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).

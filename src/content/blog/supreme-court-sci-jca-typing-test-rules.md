@@ -78,3 +78,13 @@ In standard typing exams, a candidate typing 400 words can commit 20 to 28 mista
 1. **Practice at 98%+ Accuracy**: Do not rush for 50 WPM. Type at a controlled 40 WPM while ensuring nearly zero typos.
 2. **Train with Complex Punctuation**: Supreme Court judgments contain complex legal formatting: *AIR 2024 SC 1024, Section 302/34 I.P.C., (2025) 2 SCC 415*. Practice typing numerals, brackets, and slashes without looking down at the keyboard.
 3. **Practice on [TypingWire.in](https://typingwire.in)** with the Supreme Court legal passage simulator mode.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

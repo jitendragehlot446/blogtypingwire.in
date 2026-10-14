@@ -65,3 +65,13 @@ Candidates qualifying Phase-I are called for the **Phase-II Computer Data Entry 
 
 1. **Practice Social Security & Financial Vocabulary**: Passages include financial terms like *provident fund, pension scheme, gratuity, statutory contribution, employee benefits*.
 2. **Practice on [TypingWire.in](https://typingwire.in)** with the dedicated NTA interface simulator mode.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **NTA Recruitment EMRS, IGNOU JAT & CSIR JSA Typing Rules**: Read the full breakdown in [NTA Recruitment EMRS, IGNOU JAT & CSIR JSA Typing Rules](/blog/nta-recruitment-emrs-ignou-jat-csir-jsa-typing-rules/).
+- **AIIMS CRE Junior Administrative Assistant Typing Rules**: Read the full breakdown in [AIIMS CRE Junior Administrative Assistant Typing Rules](/blog/aiims-cre-junior-admin-assistant-typing-rules/).
+- **KVS, CBSE, BHU & DDA Junior Assistant Typing Rules**: Read the full breakdown in [KVS, CBSE, BHU & DDA Junior Assistant Typing Rules](/blog/kvs-cbse-bhu-delhi-jal-board-dda-jsa-typing-rules/).
+- **KDPH to WPM Speed Calculation Formula Guide**: Read the full breakdown in [KDPH to WPM Speed Calculation Formula Guide](/blog/kdph-to-wpm-speed-calculation-formula-guide/).

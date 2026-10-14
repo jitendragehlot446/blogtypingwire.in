@@ -67,3 +67,13 @@ In the MPHC Assistant Grade-3 Main Examination:
 1. **Practice on Mangal Remington Gail Daily**: Master Remington key combinations for half-letters (*क्, त्, प्*) and complex conjuncts (*द्ध, स्त्र, ष्ट*).
 2. **Prioritize Error Reduction**: Since each mistake costs half a mark (0.50), committing 10 mistakes loses 5 full marks from your total 30 marks!
 3. **Practice on [TypingWire.in](https://typingwire.in)** using MP High Court simulated passages with live Remington Gail keymapping.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

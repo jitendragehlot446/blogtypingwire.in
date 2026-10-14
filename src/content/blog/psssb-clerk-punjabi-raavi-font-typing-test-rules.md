@@ -70,3 +70,13 @@ Unlike phonetic transliteration, PSSSB mandates **Asees keyboard layout on Raavi
 1. **Daily Practice on Asees Layout**: Dedicate 45 minutes daily to Gurmukhi script typing on standard desktop keyboards.
 2. **Master Paired Letters**: Practice high-frequency Punjabi words (*ਸਰਕਾਰ, ਪ੍ਰਸ਼ਾਸਨ, ਅਧਿਕਾਰ, ਮੁੱਖ ਮੰਤਰੀ, ਪੰਜਾਬ*).
 3. Practice timed Punjabi and English passages on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Delhi Police Head Constable Ministerial Typing Test Rules**: Read the full breakdown in [Delhi Police Head Constable Ministerial Typing Test Rules](/blog/delhi-police-head-constable-typing-test-rules/).
+- **BSF, CISF, CRPF & Delhi Police HCM Typing Standards**: Read the full breakdown in [BSF, CISF, CRPF & Delhi Police HCM Typing Standards](/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/).
+- **CISF & CRPF HCM Typing Ground Reality & Hall Experience**: Read the full breakdown in [CISF & CRPF HCM Typing Ground Reality & Hall Experience](/blog/cisf-crpf-hcm-typing-test-ground-reality-experience/).
+- **UP Police ASI & Computer Operator Typing Rules**: Read the full breakdown in [UP Police ASI & Computer Operator Typing Rules](/blog/up-police-asi-computer-operator-typing-rules/).

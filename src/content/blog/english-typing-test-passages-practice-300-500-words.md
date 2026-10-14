@@ -74,3 +74,13 @@ Below are three curated, exam-calibrated practice passages designed to build rea
 1. **Blind Copy Typing**: Do not look at the keyboard. Focus your eyes strictly on the screen passage.
 2. **Track Keystroke Rhythm**: Maintain a constant metronome rhythm (2–3 strokes per second) rather than bursting fast and pausing.
 3. **Practice Live on TypingWire**: Test these exact passages with live WPM and mistake penalties on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).
+- **Touch Typing Home Row Rules & Finger Placement Chart**: Read the full breakdown in [Touch Typing Home Row Rules & Finger Placement Chart](/blog/touch-typing-home-row-rules-finger-placement-chart/).
+- **How to Stop Hand Shivering & Nervousness During Typing Tests**: Read the full breakdown in [How to Stop Hand Shivering & Nervousness During Typing Tests](/blog/how-to-stop-hand-shivering-during-typing-test/).
+- **Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)**: Read the full breakdown in [Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)](/blog/mechanical-keyboard-switch-guide/).

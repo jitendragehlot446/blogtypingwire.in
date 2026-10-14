@@ -79,3 +79,13 @@ Errors in the Bihar Civil Court and Vidhan Sabha typing tests are categorized in
 1. **Practice Both Layouts**: If preparing for Hindi, ensure you practice on **Mangal Remington Gail** daily, as non-Unicode KrutiDev software is not accepted.
 2. **Train with Legal Deposition Transcripts**: Civil court tests frequently test legal phrases like *witness, testimony, cross-examination, plaintiff, accused, FIR, bail bond*.
 3. **Simulate Real Time Pressure**: Practice full 10-minute timed tests with instant error feedback on [TypingWire.in](https://typingwire.in).
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

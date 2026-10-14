@@ -89,3 +89,13 @@ The moment the test begins, 150 candidates will begin furiously slamming their k
 1. **Practice with Background Typing Noise**: Play YouTube videos of *"mechanical keyboard exam hall typing sound"* through your headphones while practicing. Desensitize your ears before exam day.
 2. **Practice on Unfamiliar Keyboards**: Never practice exclusively on your favorite laptop. Borrow an inexpensive USB keyboard and practice sitting on an uncomfortable stool.
 3. **Practice Live on [TypingWire.in](https://typingwire.in)**: Test yourself under real exam countdown timers and strict mistake calculation algorithms.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).
+- **Touch Typing Home Row Rules & Finger Placement Chart**: Read the full breakdown in [Touch Typing Home Row Rules & Finger Placement Chart](/blog/touch-typing-home-row-rules-finger-placement-chart/).
+- **Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)**: Read the full breakdown in [Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)](/blog/mechanical-keyboard-switch-guide/).
+- **TVS Gold Mechanical Keyboard Review & Exam Guide**: Read the full breakdown in [TVS Gold Mechanical Keyboard Review & Exam Guide](/blog/tvs-gold-keyboard-typing-test-review-guide/).

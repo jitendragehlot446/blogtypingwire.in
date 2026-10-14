@@ -58,3 +58,27 @@ In addition to the speed test, candidates are evaluated on:
 * **MS Excel Formulas**: Basic calculation functions (`SUM`, `AVERAGE`), cell alignment, and border settings.
 
 Practice authentic Uttarakhand High Court passages on [TypingWire.in](https://typingwire.in/practice-exams/uttarakhand-high-court-english-typing).
+
+---
+
+## ⚡ Exam Day Interface & Software Behavior Checklist
+
+Candidates preparing for this examination must train under realistic test software parameters to avoid unexpected failure on exam day:
+
+1. **No Auto-Highlighting**: The official test software displays the master passage statically. Words will **not** turn green or red as you type, and your active cursor position is not highlighted. You must maintain visual tracking independently.
+2. **Manual Passage Scrolling**: As you complete visible lines, the passage does not scroll down automatically. You must manually scroll using the **mouse wheel or the downward arrow key** on your keyboard.
+3. **The 5-Minute Mock Trial Run**: Prior to the real evaluation, a short demo session is conducted. Physically test every critical key:
+   - Tap **Spacebar, Backspace, and Enter** repeatedly to detect sticky membranes.
+   - Verify both **Left Shift and Right Shift** keys.
+   - If any key requires abnormal pressure or fails to register, **raise your hand immediately to request a replacement terminal before the main exam timer begins**.
+4. **Accuracy Over Unchecked Speed**: Because penalization algorithms deduct heavily for uncorrected errors, typing smoothly at a steady pace with 98%+ accuracy yields higher qualifying scores than rushing with frequent typos.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

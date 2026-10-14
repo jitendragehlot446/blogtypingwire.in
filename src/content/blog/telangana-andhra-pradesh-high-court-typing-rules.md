@@ -63,3 +63,13 @@ Examiners calculate mistakes based on word-level integrity:
 1. **Aim for 55+ WPM in Practice**: To comfortably maintain 45 WPM under exam conditions, build your raw practice speed to at least 55 WPM.
 2. **Master Legal Nomenclature**: Practice reading and typing complex judicial judgments on [TypingWire.in](https://typingwire.in).
 3. **Maintain Consistent Typing Posture**: Proper wrist alignment reduces fatigue during high-speed typing runs.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules**: Read the full breakdown in [Allahabad High Court RO/ARO 25 WPM & 50-Mark Rules](/blog/allahabad-high-court-ro-aro-clerk-typing-rules/).
+- **Patna High Court Assistant & Steno Typing Rules**: Read the full breakdown in [Patna High Court Assistant & Steno Typing Rules](/blog/patna-high-court-assistant-stenographer-typing-rules/).
+- **Rajasthan High Court LDC Typing & Efficiency Test Rules**: Read the full breakdown in [Rajasthan High Court LDC Typing & Efficiency Test Rules](/blog/rajasthan-high-court-ldc-typing-efficiency-rules/).
+- **Court & SSC Stenographer Typing & Skill Test Rules**: Read the full breakdown in [Court & SSC Stenographer Typing & Skill Test Rules](/blog/court-steno-typing-rules/).

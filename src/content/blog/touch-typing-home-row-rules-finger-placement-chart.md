@@ -77,3 +77,13 @@ Never force your fingers to move faster than your brain can confirm the key posi
 ## 3. Practice Blind Typing Daily on TypingWire
 
 Test your muscle memory on [TypingWire.in](https://typingwire.in) using our dedicated touch typing drills with live visual keyboard guidance.
+
+---
+
+## 🔗 Related Examination & Speed Guides
+
+Continue preparing with official error annexures, software interface rules, and speed conversion benchmarks:
+- **10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)**: Read the full breakdown in [10 Proven Tips to Increase Typing Speed (30 to 70+ WPM)](/blog/10-tips-to-increase-typing-speed/).
+- **How to Stop Hand Shivering & Nervousness During Typing Tests**: Read the full breakdown in [How to Stop Hand Shivering & Nervousness During Typing Tests](/blog/how-to-stop-hand-shivering-during-typing-test/).
+- **Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)**: Read the full breakdown in [Best Mechanical Switches for Typing Tests (Red vs Brown vs Blue)](/blog/mechanical-keyboard-switch-guide/).
+- **TVS Gold Mechanical Keyboard Review & Exam Guide**: Read the full breakdown in [TVS Gold Mechanical Keyboard Review & Exam Guide](/blog/tvs-gold-keyboard-typing-test-review-guide/).
