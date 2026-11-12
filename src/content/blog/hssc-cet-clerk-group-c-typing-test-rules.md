@@ -1,5 +1,5 @@
 ---
-title: "HSSC CET Group C Clerk Typing Test 2026: Speed, Hindi & English Rules"
+title: "HSSC CET Group C Clerk Typing Test 2026: Speed, Hindi"
 description: "Complete guide to Haryana HSSC CET Group C Clerk and Steno typing test rules 2026. 30 WPM English / 25 WPM Hindi in 5 minutes, fonts, and qualifying criteria."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

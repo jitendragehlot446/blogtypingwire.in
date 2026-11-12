@@ -1,5 +1,5 @@
 ---
-title: "TVS Gold Keyboard for Typing Test: Is It Mandatory for SSC & Court Exams?"
+title: "TVS Gold Keyboard for Typing Test: Is It Mandatory for SSC"
 description: "Detailed review of TVS Gold Mechanical Keyboard for SSC, High Court, and Police typing tests. Comparison with standard membrane keyboards at TCS iON centers."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

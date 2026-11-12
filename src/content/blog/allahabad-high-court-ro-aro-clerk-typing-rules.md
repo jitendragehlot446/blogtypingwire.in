@@ -1,6 +1,6 @@
 ---
-title: "Allahabad High Court Typing Test 2026: RO/ARO & Clerk 25 WPM Speed & 50-Mark Rules"
-description: "Allahabad High Court Typing Test 2026 for RO, ARO and Clerk posts. 25 WPM English typing speed (500 words in 20 mins), 50-mark merit scoring and NTA software rules."
+title: "Allahabad High Court Typing Test 2026: RO/ARO"
+description: "Allahabad High Court Typing Test 2026 for RO, ARO and Clerk posts. 25 WPM English typing speed (500 words in 20 mins)."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

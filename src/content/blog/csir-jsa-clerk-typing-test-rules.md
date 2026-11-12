@@ -1,6 +1,6 @@
 ---
-title: "CSIR JSA Typing Test 2026: Speed Rules, Junior Secretariat Assistant & Evaluation Guidelines"
-description: "Official CSIR Junior Secretariat Assistant (JSA) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, KDPH benchmark, and lab recruitment guidelines."
+title: "CSIR JSA Typing Test 2026"
+description: "Official CSIR Junior Secretariat Assistant (JSA) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, KDPH benchmark."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

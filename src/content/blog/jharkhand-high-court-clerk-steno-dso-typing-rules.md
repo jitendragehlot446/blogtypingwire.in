@@ -1,5 +1,5 @@
 ---
-title: "Jharkhand High Court Typing Test 2026: Clerk & Assistant Speed, Rules & Cutoff"
+title: "Jharkhand High Court Typing Test 2026: Clerk"
 description: "Jharkhand High Court (JHC) Typing Test 2026 rules for Clerk, Assistant and Steno. 20 WPM Hindi and 30 WPM English speed, marking scheme and cutoffs."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

@@ -1,6 +1,6 @@
 ---
-title: "CBSE Junior Assistant Typing Test 2026: Speed Rules, Board Recruitment Guidelines"
-description: "Official Central Board of Secondary Education (CBSE) Junior Assistant & Senior Assistant typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, KDPH conversion, and passing cutoffs."
+title: "CBSE Junior Assistant Typing Test 2026: Speed"
+description: "Official Central Board of Secondary Education (CBSE) Junior Assistant & Senior Assistant typing test rules 2026. 35 WPM English, 30 WPM Hindi."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

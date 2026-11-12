@@ -1,5 +1,5 @@
 ---
-title: "NTA Recruitment Typing Test 2026: EMRS JSA, IGNOU JAT & CSIR Speed Rules"
+title: "NTA Recruitment Typing Test 2026: EMRS JSA, IGNOU JAT"
 description: "NTA Typing Test 2026 rules for EMRS JSA, IGNOU JAT and CSIR JSA. 35 WPM English / 30 WPM Hindi in 10 minutes, test software layout and cutoffs."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

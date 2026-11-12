@@ -1,5 +1,5 @@
 ---
-title: "Telangana High Court Typist Typing Test 2026: Speed, Salary, Marks & Rules"
+title: "Telangana High Court Typist Typing Test 2026: Speed, Salary"
 description: "Telangana and Andhra Pradesh High Court Typist & Copyist typing test rules. 45 WPM English speed test, pay scale, salary structure and exam syllabus."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

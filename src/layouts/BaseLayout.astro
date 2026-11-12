@@ -9,7 +9,11 @@ interface Props {
   description: string;
   image?: string;
   articleDate?: Date;
+  updatedDate?: Date;
   author?: string;
+  category?: string;
+  tags?: string[];
+  noindex?: boolean;
   faqs?: Array<{ question: string; answer: string }>;
   breadcrumbs?: Array<{ name: string; url: string }>;
 }
@@ -19,7 +23,11 @@ const {
   description,
   image,
   articleDate,
+  updatedDate,
   author,
+  category,
+  tags,
+  noindex = false,
   faqs,
   breadcrumbs,
 } = Astro.props;
@@ -28,14 +36,16 @@ const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en-IN">
   <head>
     <BaseHead
       title={title}
       description={description}
       image={image}
       articleDate={articleDate}
+      updatedDate={updatedDate}
       author={author}
+      noindex={noindex}
     />
     <SchemaOrg
       type={articleDate ? "Article" : "WebSite"}
@@ -44,7 +54,10 @@ const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
       url={currentUrl}
       image={image ? new URL(image, Astro.site).toString() : undefined}
       pubDate={articleDate}
+      updatedDate={updatedDate}
       author={author}
+      category={category}
+      tags={tags}
       faqs={faqs}
       breadcrumbs={breadcrumbs}
     />

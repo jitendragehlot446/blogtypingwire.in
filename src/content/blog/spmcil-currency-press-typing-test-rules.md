@@ -1,6 +1,6 @@
 ---
-title: "SPMCIL Typing Test 2026: Speed Rules, Junior Office Assistant & Press Evaluation Guidelines"
-description: "Official SPMCIL (Currency Note Press, Bank Note Press, Mint) Junior Office Assistant (JOA) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, error calculation, and cutoff rules."
+title: "SPMCIL Typing Test 2026: Speed, Junior Office Assistant"
+description: "Official SPMCIL (Currency Note Press, Bank Note Press, Mint) Junior Office Assistant (JOA) typing test rules 2026. 35 WPM English, 30 WPM Hindi."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

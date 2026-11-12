@@ -1,6 +1,6 @@
 ---
-title: "ITBP HCM Typing Test 2026: Speed Rules, Head Constable Ministerial Guidelines"
-description: "Official Indo-Tibetan Border Police (ITBP) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, error calculation, and exam tips."
+title: "ITBP HCM Typing Test 2026: Speed, Head Constable Ministerial"
+description: "Official Indo-Tibetan Border Police (ITBP) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

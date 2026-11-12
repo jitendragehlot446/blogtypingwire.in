@@ -1,5 +1,5 @@
 ---
-title: "MP High Court AG-3 Typing Test 2026: Assistant Grade 3 Speed, Remington Gail & Marks"
+title: "MP High Court AG-3 Typing Test 2026: Assistant Grade 3 Speed"
 description: "MP High Court Assistant Grade-3 (AG-3) typing test notification scheme. 30 WPM Hindi (Remington Gail, 350 words in 10 mins) and 40 WPM English."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

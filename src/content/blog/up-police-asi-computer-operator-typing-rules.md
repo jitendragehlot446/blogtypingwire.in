@@ -1,6 +1,6 @@
 ---
-title: "UP Police Typing Test 2026: Computer Operator & ASI Speed, Mangal Inscript Rules"
-description: "UP Police Typing Test 2026 for ASI & Computer Operator. Hindi 25 WPM (Mangal Inscript layout, 85% accuracy), English 30 WPM (85% accuracy) and exam guidelines."
+title: "UP Police Typing Test 2026: Computer Operator, ASI Speed"
+description: "UP Police Typing Test 2026 for ASI & Computer Operator. Hindi 25 WPM (Mangal Inscript layout, 85% accuracy), English 30 WPM (85% accuracy) and exam."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

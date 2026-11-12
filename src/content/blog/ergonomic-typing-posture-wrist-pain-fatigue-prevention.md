@@ -1,7 +1,8 @@
 ---
-title: "Ergonomic Typing Posture Guide 2026: Avoid Wrist Pain, RSI & Finger Fatigue"
-description: "Master healthy typing ergonomics for long examination drills. Prevent wrist pain, carpal tunnel syndrome, and finger fatigue with proper posture, wrist angles, and stretches."
+title: "Ergonomic Typing Posture Guide 2026: Avoid Wrist Pain, RSI"
+description: "Master healthy typing ergonomics for long examination drills. Prevent wrist pain, carpal tunnel syndrome, and finger fatigue with proper posture."
 pubDate: 2026-10-14
+updatedDate: 2026-11-12
 category: "Typing Tips"
 tags: ["ergonomics", "typing posture", "wrist pain", "carpal tunnel", "typing speed", "health"]
 author: "TypingWire Editorial Team"

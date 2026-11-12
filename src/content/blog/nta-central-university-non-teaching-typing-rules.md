@@ -1,6 +1,6 @@
 ---
-title: "NTA Central Universities Non-Teaching Typing Test 2026: Speed Rules & Evaluation Guidelines"
-description: "Official NTA Central Universities (Visva Bharati, MGCU, CUSB, JNU, DU) Non-Teaching typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, NTA software layout, and cutoffs."
+title: "NTA Central Universities Non-Teaching Typing Test 2026"
+description: "Official NTA Central Universities (Visva Bharati, MGCU, CUSB, JNU, DU) Non-Teaching typing test rules 2026. 35 WPM English, 30 WPM Hindi."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

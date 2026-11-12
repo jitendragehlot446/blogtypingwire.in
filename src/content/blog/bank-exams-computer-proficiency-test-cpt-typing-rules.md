@@ -1,7 +1,8 @@
 ---
-title: "Bank Exams CPT & Typing Test Rules 2026: IBPS RRB, SBI & RBI Assistant Guidelines"
-description: "Complete guide to typing test and Computer Proficiency Test (CPT) rules in Banking examinations 2026. IBPS RRB, SBI Clerk, and RBI Assistant qualifying standards."
+title: "Bank Exams CPT & Typing Test 2026: IBPS RRB, SBI"
+description: "Complete guide to typing test and Computer Proficiency Test (CPT) rules in Banking examinations 2026. IBPS RRB, SBI Clerk."
 pubDate: 2026-10-14
+updatedDate: 2026-11-12
 category: "Exam Rules"
 tags: ["bank exams", "ibps rrb", "rbi assistant", "sbi clerk", "cpt test", "typing rules"]
 author: "TypingWire Editorial Team"

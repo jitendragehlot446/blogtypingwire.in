@@ -1,6 +1,6 @@
 ---
-title: "CRPF HCM Typing Test 2026: Speed Rules, 10-Word Penalty Formula & Ground Reality"
-description: "Official Central Reserve Police Force (CRPF) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, hardcopy paper typing, 10-word deduction penalty, and passing cutoff."
+title: "CRPF HCM Typing Test 2026: Speed, 10-Word Penalty Formula"
+description: "Official Central Reserve Police Force (CRPF) Head Constable Ministerial (HCM) typing test rules 2026. 35 WPM English, 30 WPM Hindi, hardcopy paper typing."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

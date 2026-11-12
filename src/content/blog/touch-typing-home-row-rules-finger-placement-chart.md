@@ -1,5 +1,5 @@
 ---
-title: "Touch Typing Rules & Finger Placement Chart: Learn Blind Typing for Govt Exams"
+title: "Touch Typing Rules & Finger Placement Chart"
 description: "Master the touch typing home-row technique with a complete finger placement chart. Learn blind typing rules to cross 50+ WPM without looking at keys."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

@@ -1,5 +1,5 @@
 ---
-title: "How to Stop Hand Shivering in Typing Test: Overcome Exam Hall Anxiety & Fear"
+title: "How to Stop Hand Shivering in Typing Test"
 description: "Proven techniques to stop hand trembling and nervous shaking during computer typing tests. Overcome exam hall anxiety, adrenaline rush, and keyboard panic."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

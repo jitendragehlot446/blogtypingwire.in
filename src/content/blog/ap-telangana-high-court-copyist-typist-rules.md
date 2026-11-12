@@ -1,6 +1,6 @@
 ---
-title: "AP & Telangana High Court Typist & Copyist Typing Test Rules 2026: 45 WPM Speed & Cutoff"
-description: "Official Andhra Pradesh & Telangana Judicial Ministerial Services Typist and Copyist typing test rules 2026. 45 WPM English on computer, 10-minute duration, mistake rules, and selection criteria."
+title: "AP & Telangana High Court Typist & Copyist Typing Test 2026"
+description: "Official Andhra Pradesh & Telangana Judicial Ministerial Services Typist and Copyist typing test rules 2026. 45 WPM English on computer."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

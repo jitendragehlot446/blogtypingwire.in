@@ -1,6 +1,6 @@
 ---
-title: "SSC English Typing Test 2026: Speed, Mistakes Allowed & CGL vs CHSL Rules"
-description: "Complete guide for SSC English Typing Test 2026. Speed benchmark (35 WPM vs 27 WPM), KDPH to WPM formula, full vs half mistakes calculation, TCS iON software rules, and cutoff percentages."
+title: "SSC English Typing Test 2026: Speed, Mistakes"
+description: "Complete guide for SSC English Typing Test 2026. Speed benchmark (35 WPM vs 27 WPM), KDPH to WPM formula, full vs half mistakes calculation."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

@@ -1,6 +1,6 @@
 ---
-title: "CISF & CRPF HCM Typing Test Experience: Ground Reality, Software & Pass Tips"
-description: "Real exam hall experience of CISF and CRPF Head Constable Ministerial (HCM) typing test. Paper vs screen, keyboard condition, 10-word penalty, and survival tips."
+title: "CISF & CRPF HCM Typing Test Experience: Ground Reality"
+description: "Real exam hall experience of CISF and CRPF Head Constable Ministerial (HCM) typing test. Paper vs screen, keyboard condition, 10-word penalty."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

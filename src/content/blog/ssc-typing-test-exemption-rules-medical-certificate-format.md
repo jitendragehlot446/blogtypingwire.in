@@ -1,5 +1,5 @@
 ---
-title: "SSC Typing Test Exemption Rules 2026: PwD Medical Certificate Format & Guidelines"
+title: "SSC Typing Test Exemption Rules 2026"
 description: "Complete guide to SSC CGL and CHSL typing test exemption rules for PwD candidates. Official Medical Certificate format, Civil Surgeon rules, and deadlines."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

@@ -1,6 +1,6 @@
 ---
-title: "MP Police ASI Steno & LDC Typing Test 2026: Speed Rules, CPCT Scorecard & Guidelines"
-description: "Official MP Police ASI (Stenographer & Clerk / LDC) typing test rules 2026. 30 WPM Hindi typing, MP CPCT scorecard mandate, Remington Gail layout, and selection procedure."
+title: "MP Police ASI Steno & LDC Typing Test 2026: Speed"
+description: "Official MP Police ASI (Stenographer & Clerk / LDC) typing test rules 2026. 30 WPM Hindi typing, MP CPCT scorecard mandate, Remington Gail layout."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

@@ -1,5 +1,5 @@
 ---
-title: "SSC Selection Post Typing Test 2026: Post-Wise Speed, KDPH & Evaluation Rules"
+title: "SSC Selection Post Typing Test 2026: Post-Wise Speed, KDPH"
 description: "SSC Selection Post typing test guidelines. Matriculation, Higher Secondary and Graduate level post-wise speed criteria, KDPH limits and qualifying rules."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

@@ -1,6 +1,6 @@
 ---
-title: "SSC Hindi Typing Test 2026: Speed, Mangal Font Layouts & Mistakes Allowed"
-description: "Complete guide for SSC Hindi Typing Test (CGL & CHSL). Speed requirement (30 WPM), Mangal Unicode font (Inscript vs Remington Gail vs CBI), error limits, and TCS iON software rules."
+title: "SSC Hindi Typing Test 2026: Speed, Mangal Font Layouts"
+description: "Complete guide for SSC Hindi Typing Test (CGL & CHSL). Speed requirement (30 WPM), Mangal Unicode font (Inscript vs Remington Gail vs CBI), error limits."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

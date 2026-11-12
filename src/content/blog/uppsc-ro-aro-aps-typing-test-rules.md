@@ -1,6 +1,6 @@
 ---
-title: "UPPSC RO ARO Typing Test 2026: Speed Rules, KrutiDev 010 & APS Steno Guidelines"
-description: "Official UPPSC RO ARO & APS typing test rules 2026. 25 WPM Hindi in KrutiDev 010, 5-minute duration, English preference marks, mistake calculation, and Sachivalaya guidelines."
+title: "UPPSC RO ARO Typing Test 2026: Speed, KrutiDev 010"
+description: "Official UPPSC RO ARO & APS typing test rules 2026. 25 WPM Hindi in KrutiDev 010, 5-minute duration, English preference marks, mistake calculation."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

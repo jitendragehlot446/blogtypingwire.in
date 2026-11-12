@@ -1,6 +1,6 @@
 ---
-title: "NVS JSA Typing Test 2026: Speed Rules, Hindi vs English & Evaluation Guidelines"
-description: "Navodaya Vidyalaya Samiti (NVS) Junior Secretariat Assistant (JSA) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration, font guidelines, and cutoff criteria."
+title: "NVS JSA Typing Test 2026: Speed, Hindi vs English"
+description: "Navodaya Vidyalaya Samiti (NVS) Junior Secretariat Assistant (JSA) typing test rules 2026. 35 WPM English, 30 WPM Hindi, 10-minute duration."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

@@ -35,8 +35,9 @@ const { tagName, posts } = Astro.props;
 ---
 
 <BaseLayout
-  title={`#${tagName.toUpperCase()} - Official Typing Guides & Exam Rules | TypingWire`}
-  description={`Comprehensive typing examination rules, speed benchmarks, and precision guides tagged under #${tagName} on TypingWire.`}
+  title={`#${tagName.toUpperCase()} Guides | TypingWire`}
+  description={`Official typing examination rules, speed benchmarks, and precision guides tagged under #${tagName} on TypingWire.`}
+  noindex={true}
 >
   <section class="tag-header">
     <div class="container">

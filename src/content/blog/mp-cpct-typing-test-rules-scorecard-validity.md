@@ -1,5 +1,5 @@
 ---
-title: "MP CPCT Typing Test Rules 2026: Hindi & English Speed, Cutoff & Scorecard Validity"
+title: "MP CPCT Typing Test 2026: Hindi, English Speed, Cutoff"
 description: "Complete guide to MP CPCT Typing Test rules 2026. English (30 WPM) & Hindi (20 WPM Remington Gail), scorecard 7-year validity, syllabus, and passing cutoffs."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

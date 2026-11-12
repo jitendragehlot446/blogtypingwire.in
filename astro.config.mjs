@@ -6,13 +6,16 @@ import fs from 'node:fs';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://blog.typingwire.in',
+  trailingSlash: 'always',
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'hover',
   },
   integrations: [
     mdx(),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.includes('/tags/'),
+    }),
     {
       name: 'copy-sitemap',
       hooks: {

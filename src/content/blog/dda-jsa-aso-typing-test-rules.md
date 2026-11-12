@@ -1,6 +1,6 @@
 ---
-title: "DDA JSA Typing Test 2026: Speed Rules, Stage-II Skill Test & Cutoff Guidelines"
-description: "Official Delhi Development Authority (DDA) Junior Secretariat Assistant (JSA) and ASO typing test rules 2026. Speed benchmark (35 WPM Eng / 30 WPM Hindi), 10-minute duration, error formula, and TCS iON pattern."
+title: "DDA JSA Typing Test 2026: Speed, Stage-II Skill Test"
+description: "Official Delhi Development Authority (DDA) Junior Secretariat Assistant (JSA) and ASO typing test rules 2026. Speed benchmark (35 WPM Eng / 30 WPM Hindi)."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

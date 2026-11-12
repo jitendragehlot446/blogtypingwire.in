@@ -13,6 +13,8 @@ interface Props {
   pubDate?: Date;
   updatedDate?: Date;
   author?: string;
+  category?: string;
+  tags?: string[];
   faqs?: FAQ[];
   breadcrumbs?: Array<{ name: string; url: string }>;
 }
@@ -26,6 +28,8 @@ const {
   pubDate,
   updatedDate,
   author = 'TypingWire Team',
+  category,
+  tags = [],
   faqs = [],
   breadcrumbs = [],
 } = Astro.props;
@@ -42,6 +46,12 @@ const mainSchema = type === 'Article' ? {
   'image': articleImage,
   'inLanguage': 'en-IN',
   'isAccessibleForFree': 'true',
+  'articleSection': category || 'Exam Rules',
+  'keywords': tags.length > 0 ? tags.join(', ') : undefined,
+  'speakable': {
+    '@type': 'SpeakableSpecification',
+    'cssSelector': ['.post-title', '.post-lead', '.faq-question']
+  },
   'author': [
     {
       '@type': 'Organization',
@@ -52,19 +62,20 @@ const mainSchema = type === 'Article' ? {
       '@type': 'Person',
       'name': 'Jitendra Gehlot',
       'jobTitle': 'Government Typing Examination Specialist',
-      'url': 'https://typingwire.in/about'
+      'url': 'https://blog.typingwire.in/about/'
     }
   ],
   'reviewedBy': {
     '@type': 'Person',
     'name': 'Jitendra Gehlot',
     'jobTitle': 'Senior Examination Analyst & Speed Coach',
-    'url': 'https://typingwire.in/about'
+    'url': 'https://blog.typingwire.in/about/'
   },
   'publisher': {
     '@type': 'Organization',
     'name': 'TypingWire',
     'url': 'https://typingwire.in',
+    'sameAs': ['https://blog.typingwire.in/'],
     'logo': {
       '@type': 'ImageObject',
       'url': 'https://blog.typingwire.in/logo.jpg'
@@ -81,11 +92,13 @@ const mainSchema = type === 'Article' ? {
   '@type': 'WebSite',
   'name': 'TypingWire Blog',
   'url': url,
+  'inLanguage': 'en-IN',
   'description': description,
   'publisher': {
     '@type': 'Organization',
     'name': 'TypingWire',
-    'url': 'https://typingwire.in'
+    'url': 'https://typingwire.in',
+    'sameAs': ['https://blog.typingwire.in/']
   }
 };
 

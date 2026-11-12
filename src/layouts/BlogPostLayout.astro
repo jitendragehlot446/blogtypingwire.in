@@ -36,12 +36,12 @@ const {
 
 const tocHeadings = headings.filter((h) => h.depth === 2);
 
-const siteUrl = Astro.site?.toString() || 'https://blog.typingwire.in';
+const siteUrl = (Astro.site?.toString() || 'https://blog.typingwire.in').replace(/\/$/, '');
 const currentUrl = new URL(Astro.url.pathname, siteUrl).toString();
 
 const breadcrumbs = [
-  { name: 'Home', url: siteUrl },
-  { name: category, url: `${siteUrl}/categories/${category.toLowerCase().replace(/\s+/g, '-')}` },
+  { name: 'Home', url: `${siteUrl}/` },
+  { name: category, url: `${siteUrl}/categories/${category.toLowerCase().replace(/\s+/g, '-')}/` },
   { name: title, url: currentUrl },
 ];
 
@@ -73,7 +73,10 @@ const relatedPosts = allPosts
   description={description}
   image={heroImage}
   articleDate={pubDate}
+  updatedDate={updatedDate}
   author={author}
+  category={category}
+  tags={tags}
   faqs={faqs}
   breadcrumbs={breadcrumbs}
 >
@@ -82,7 +85,7 @@ const relatedPosts = allPosts
     <nav class="breadcrumb-bar" aria-label="Breadcrumb">
       <a href="/">Home</a>
       <span class="sep">/</span>
-      <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`}>{category}</a>
+      <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}/`}>{category}</a>
       <span class="sep">/</span>
       <span class="current">{title.slice(0, 32)}...</span>
     </nav>
@@ -90,7 +93,7 @@ const relatedPosts = allPosts
     <!-- Post Header -->
     <header class="post-header">
       <div class="header-tags">
-        <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}`} class={`post-card-badge ${getBadgeClass(category)}`}>
+        <a href={`/categories/${category.toLowerCase().replace(/\s+/g, '-')}/`} class={`post-card-badge ${getBadgeClass(category)}`}>
           {category}
         </a>
       </div>
@@ -150,7 +153,7 @@ const relatedPosts = allPosts
         <span class="trust-badge-label">FACT CHECKED & EXAM VERIFIED</span>
       </div>
       <p class="trust-text">
-        This guide is compiled from official government recruitment notifications, staff selection commission evaluation formulas, and actual examination software interfaces. Updated for <strong>2026 examination cycles</strong> by the <strong>TypingWire Editorial Board</strong>.
+        This guide is compiled from official government recruitment notifications, staff selection commission evaluation formulas, and actual examination software interfaces. Updated for <strong>2026 examination cycles</strong> by <a href="/about/" style="color:var(--colors-primary);font-weight:600;text-decoration:underline;">Jitendra Gehlot &amp; the TypingWire Editorial Board</a>.
       </p>
     </div>
 
@@ -183,7 +186,7 @@ const relatedPosts = allPosts
           <span class="tags-label">INDEXED UNDER:</span>
           <div class="tags-list">
             {tags.map((t) => (
-              <a href={`/tags/${t.toLowerCase().replace(/\s+/g, '-')}`} class="tag-pill">
+              <a href={`/tags/${t.toLowerCase().replace(/\s+/g, '-')}/`} class="tag-pill">
                 #{t}
               </a>
             ))}

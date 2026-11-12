@@ -1,6 +1,6 @@
 ---
-title: "EPFO SSA Typing Test 2026: NTA Speed Rules, 35 WPM Cutoff & Software Interface"
-description: "Complete guide to EPFO Social Security Assistant (SSA) typing test rules 2026. NTA software pattern, 35 WPM English / 30 WPM Hindi speed, and error calculation."
+title: "EPFO SSA Typing Test 2026: NTA Speed, 35 WPM Cutoff"
+description: "Complete guide to EPFO Social Security Assistant (SSA) typing test rules 2026. NTA software pattern, 35 WPM English / 30 WPM Hindi speed."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

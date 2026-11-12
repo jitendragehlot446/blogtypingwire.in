@@ -1,5 +1,5 @@
 ---
-title: "Hindi Typing Test Practice Passages 2026: 250 to 350-Word Exam Paragraphs"
+title: "Hindi Typing Test Practice Passages 2026"
 description: "Practice real exam-level Hindi typing test passages (250 to 350 words). Tested Devanagari paragraphs for SSC, High Court, UPSSSC, BSSC, and RSSB exams."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

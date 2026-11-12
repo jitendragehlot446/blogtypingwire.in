@@ -1,5 +1,5 @@
 ---
-title: "WBPSC Clerkship & OSSC Typing Test 2026: Speed, Qualifying Cutoff & Guidelines"
+title: "WBPSC Clerkship & OSSC Typing Test 2026: Speed"
 description: "WBPSC Clerkship, Odisha OSSC and JKSSB typing test rules. 20 WPM English / 10 WPM Bengali for WBPSC, 30-35 WPM for OSSC and JKSSB qualifying criteria."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

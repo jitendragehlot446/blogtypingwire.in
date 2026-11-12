@@ -1,5 +1,5 @@
 ---
-title: "Bihar Beltron DEO & BSSC Typing Test 2026: Hindi Mangal & English Speed Rules"
+title: "Bihar Beltron DEO & BSSC Typing Test 2026: Hindi Mangal"
 description: "Bihar Beltron DEO & BSSC 2nd Inter Level Typing Test 2026 complete rules. Hindi Mangal Remington Gail (30 WPM), English (35 WPM) and passing cutoffs."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

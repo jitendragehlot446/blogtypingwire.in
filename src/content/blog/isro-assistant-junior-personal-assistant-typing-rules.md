@@ -1,6 +1,6 @@
 ---
-title: "ISRO Assistant Typing Test 2026: Speed Rules, Junior Personal Assistant & ICRB Guidelines"
-description: "Official ISRO Assistant & Junior Personal Assistant (JPA) typing test rules 2026. 35 WPM English on computer, 10-minute duration, ICRB skill test evaluation, and passing cutoffs."
+title: "ISRO Assistant Typing Test 2026: Speed"
+description: "Official ISRO Assistant & Junior Personal Assistant (JPA) typing test rules 2026. 35 WPM English on computer, 10-minute duration."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

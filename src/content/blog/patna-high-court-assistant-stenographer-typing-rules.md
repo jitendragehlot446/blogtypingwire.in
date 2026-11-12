@@ -1,6 +1,6 @@
 ---
-title: "Patna High Court Typing Test 2026: Assistant & Steno Speed, CPT & Preparation Tips"
-description: "Patna High Court Typing Test 2026 complete pattern. English 40 WPM (90% accuracy), Hindi 30 WPM, 80 WPM shorthand dictation, CPT syllabus and preparation tips."
+title: "Patna High Court Typing Test 2026: Assistant, Steno Speed"
+description: "Patna High Court Typing Test 2026 complete pattern. English 40 WPM (90% accuracy), Hindi 30 WPM, 80 WPM shorthand dictation."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

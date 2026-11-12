@@ -1,6 +1,6 @@
 ---
-title: "FCI Typist Hindi Typing Test 2026: Speed Rules, Assistant Grade-III Guidelines"
-description: "Official Food Corporation of India (FCI) Assistant Grade-III (Hindi Typist) typing test rules 2026. 30 WPM Hindi speed, Mangal font Remington Gail/Inscript, 10-minute duration, and cutoffs."
+title: "FCI Typist Hindi Typing Test 2026: Speed"
+description: "Official Food Corporation of India (FCI) Assistant Grade-III (Hindi Typist) typing test rules 2026. 30 WPM Hindi speed."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

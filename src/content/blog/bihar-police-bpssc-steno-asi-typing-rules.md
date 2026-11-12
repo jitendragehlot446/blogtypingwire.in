@@ -1,6 +1,6 @@
 ---
-title: "Bihar Police BPSSC Steno ASI Typing Test 2026: Speed Rules, Hindi Stenography & Guidelines"
-description: "Official Bihar Police BPSSC Steno Assistant Sub-Inspector (ASI) typing test rules 2026. 30 WPM English, 25 WPM Hindi in Mangal font, 80 WPM shorthand dictation, and mistake limits."
+title: "Bihar Police BPSSC Steno ASI Typing Test 2026: Speed"
+description: "Official Bihar Police BPSSC Steno Assistant Sub-Inspector (ASI) typing test rules 2026. 30 WPM English, 25 WPM Hindi in Mangal font."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

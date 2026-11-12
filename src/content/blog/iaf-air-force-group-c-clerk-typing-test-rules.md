@@ -1,6 +1,6 @@
 ---
-title: "Air Force Group C Typing Test 2026: Speed Rules, Hindi vs English & Evaluation Guidelines"
-description: "Official Indian Air Force (IAF) Group C Civilian LDC / Typist typing test rules 2026. 35 WPM English, 30 WPM Hindi speed benchmarks, 10-minute duration, error calculation, and exam tips."
+title: "Air Force Group C Typing Test 2026: Speed, Hindi vs English"
+description: "Official Indian Air Force (IAF) Group C Civilian LDC / Typist typing test rules 2026. 35 WPM English, 30 WPM Hindi speed benchmarks, 10-minute duration."
 pubDate: 2026-09-19
 updatedDate: 2026-10-14
 category: "Exam Rules"

@@ -1,5 +1,5 @@
 ---
-title: "MPSC Clerk Typist Typing Test 2026: Marathi (30 WPM) & English (40 WPM) Rules"
+title: "MPSC Clerk Typist Typing Test 2026: Marathi (30 WPM)"
 description: "MPSC Group C Clerk Typist Typing Test 2026 rules. Marathi 30 WPM and English 40 WPM standards, GCC-TBC certificate equivalence and preparation tips."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

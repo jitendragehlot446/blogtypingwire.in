@@ -1,6 +1,6 @@
 ---
-title: "SSC CHSL Typing Test 2026: Speed in WPM, Error Cutoff, Backspace & Marking Rules"
-description: "SSC CHSL Typing Test (Tier-II) 2026 complete official guide. LDC/JSA 35 WPM (1750 KD in 10 mins) & DEO 50 WPM, UR 7% / Reserved 10% error cutoff, TCS iON interface reality & backspace rules."
+title: "SSC CHSL Typing Test 2026: Speed in WPM, Error Cutoff"
+description: "SSC CHSL Typing Test (Tier-II) 2026 complete official guide. LDC/JSA 35 WPM (1750 KD in 10 mins) & DEO 50 WPM, UR 7% / Reserved 10% error cutoff."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
 category: "Exam Rules"

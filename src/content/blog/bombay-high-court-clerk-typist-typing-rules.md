@@ -1,5 +1,5 @@
 ---
-title: "Bombay High Court Typing Test 2026: Clerk Typist English (40 WPM) & Marathi (30 WPM)"
+title: "Bombay High Court Typing Test 2026"
 description: "Bombay High Court Clerk Typist Typing Test 2026 rules. Speed requirements (English 40 WPM / Marathi 30 WPM), syllabus, and qualifying cutoffs."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

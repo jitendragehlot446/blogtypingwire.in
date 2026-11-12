@@ -1,5 +1,5 @@
 ---
-title: "Patna High Court CPT & Typing Test Rules: MS Word & Excel Formatting Guidelines"
+title: "Patna High Court CPT & Typing Test Rules: MS Word"
 description: "Official Patna High Court Assistant Computer Proficiency Test (CPT) and typing test rules. 40 WPM English & 30 WPM Hindi speed standards."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14

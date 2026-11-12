@@ -16,20 +16,19 @@ const marqueeExams = [
 ---
 
 <BaseLayout
-  title="TypingWire Blog - Official Exam Rules, Typing Guidelines & Speed Drills | TypingWire.in"
-  description="The official examination rules and speed training portal of TypingWire.in. Master speed, accuracy, and mistake calculation formulas for SSC CGL, CHSL, High Courts, DSSSB, and Steno exams."
+  title="TypingWire Blog: Govt Typing Test Rules & 2026 Speed Guides"
+  description="Official 2026 typing test rules, WPM/KDPH formulas & mistake cutoffs for SSC CGL, CHSL, High Courts, DSSSB, RRB NTPC & Police HCM. Practice free on TypingWire."
 >
   <!-- Hero Section -->
   <section class="hero">
-    <span class="eyebrow">Introducing TypingWire Blog</span>
-    <h1 class="sr-only">TypingWire Blog</h1>
-    <div class="display-xl hero-title">Type faster. Pass exams.</div>
+    <span class="eyebrow">TypingWire Official Exam Portal • Updated 2026</span>
+    <h1 class="display-xl hero-title">Type faster. Pass govt typing exams.</h1>
     <p class="body-lg">
       The ultimate online knowledge and practice portal for Indian government typing examinations. Master speed, accuracy, and error evaluation formulas for SSC CHSL, CGL, High Courts, DSSSB, and State Exams on <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" style="color:var(--colors-primary); text-decoration:underline;">TypingWire.in</a>.
     </p>
     <div class="cta-buttons">
       <a href="https://typingwire.in" target="_blank" rel="noopener noreferrer" class="button-primary">Try a mock test</a>
-      <a href="/categories/exam-rules" class="button-secondary">Read Guides</a>
+      <a href="/categories/exam-rules/" class="button-secondary">Read Guides</a>
     </div>
   </section>
 
@@ -60,7 +59,7 @@ const marqueeExams = [
         <p class="body">
           Learn how scientific touch-typing posture and home-row anchors reduce finger travel distance by up to 60%, preventing repetitive strain injuries (RSI) while boosting speed past 80+ WPM.
         </p>
-        <a href="/categories/typing-tips" class="button-primary">Learn Speed Drills</a>
+        <a href="/categories/typing-tips/" class="button-primary">Learn Speed Drills</a>
       </div>
     </section>
 
@@ -91,29 +90,29 @@ const marqueeExams = [
     <!-- Recent Posts Grid (White Canvas) -->
     <div class="container">
       <section class="section-heading">
-        <h2 class="headline">Recent Blog Posts</h2>
-        <a href="/categories/exam-rules">View all posts &rarr;</a>
+        <h2 class="headline">Latest 2026 Exam Guides</h2>
+        <a href="/categories/exam-rules/">View all {posts.length} guides &rarr;</a>
       </section>
 
-      <!-- Topic Pillar Pills (Topical Silo Crawling) -->
+      <!-- Topic Pillar Pills (High-Value Internal PageRank Routing) -->
       <div class="topic-pills-bar">
-        <span class="pills-label">TOP TOPICS:</span>
+        <span class="pills-label">POPULAR PILLARS:</span>
         <div class="pills-list">
-          <a href="/tags/ssc-cgl" class="topic-pill">#SSC CGL</a>
-          <a href="/tags/dest" class="topic-pill">#DEST Rules</a>
-          <a href="/tags/high-court-typing" class="topic-pill">#High Court</a>
-          <a href="/tags/typing-rules" class="topic-pill">#Typing Rules</a>
-          <a href="/tags/hindi-typing" class="topic-pill">#Hindi Mangal</a>
-          <a href="/tags/error-calculation" class="topic-pill">#Mistake Formula</a>
-          <a href="/tags/delhi-police-hcm" class="topic-pill">#Police HCM</a>
-          <a href="/categories/typing-tips" class="topic-pill">#Speed Tips</a>
-          <a href="/categories/hardware" class="topic-pill">#Keyboards</a>
+          <a href="/blog/ssc-cgl-dest-typing-test-rules/" class="topic-pill">SSC CGL DEST</a>
+          <a href="/blog/ssc-chsl-typing-test-rules/" class="topic-pill">SSC CHSL Typing</a>
+          <a href="/blog/rrb-ntpc-cbtst-typing-skill-test-rules/" class="topic-pill">RRB NTPC CBTST</a>
+          <a href="/blog/hindi-typing-exams-mangal-remington-inscript-guide/" class="topic-pill">Hindi Mangal &amp; KrutiDev</a>
+          <a href="/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/" class="topic-pill">Full vs Half Mistake</a>
+          <a href="/blog/kdph-to-wpm-speed-calculation-formula-guide/" class="topic-pill">KDPH to WPM Formula</a>
+          <a href="/blog/bsf-cisf-crpf-delhi-police-hcm-asi-typing-rules/" class="topic-pill">Police &amp; CAPF HCM</a>
+          <a href="/categories/typing-tips/" class="topic-pill">Speed Drills</a>
+          <a href="/categories/hardware/" class="topic-pill">Keyboards</a>
         </div>
       </div>
 
       <section class="posts-grid" id="main-posts-grid">
-        {posts.map((post, index) => (
-          <div class={`post-wrapper ${index >= 18 ? 'is-deferred' : ''}`}>
+        {posts.slice(0, 18).map((post) => (
+          <div class="post-wrapper">
             <BlogCard
               title={post.data.title}
               description={post.data.description}
@@ -129,37 +128,13 @@ const marqueeExams = [
         ))}
       </section>
 
-      {posts.length > 18 && (
-        <div class="load-more-container" id="load-more-box">
-          <button id="load-more-btn" class="button-secondary">
-            Load More Articles ({posts.length - 18} remaining) ↓
-          </button>
-        </div>
-      )}
+      <div class="load-more-container">
+        <a href="/categories/exam-rules/" class="button-secondary" id="load-more-btn">
+          Browse All {posts.length} Exam &amp; Speed Guides &rarr;
+        </a>
+      </div>
     </div>
   </main>
-
-  <script is:inline>
-    function setupLoadMore() {
-      const btn = document.getElementById('load-more-btn');
-      if (!btn || btn.dataset.initialized) return;
-      btn.dataset.initialized = 'true';
-      btn.addEventListener('click', () => {
-        const hiddenPosts = Array.from(document.querySelectorAll('.post-wrapper.is-deferred'));
-        const batch = hiddenPosts.slice(0, 18);
-        batch.forEach((el) => el.classList.remove('is-deferred'));
-        const remaining = hiddenPosts.length - batch.length;
-        if (remaining <= 0) {
-          const box = document.getElementById('load-more-box');
-          if (box) box.style.display = 'none';
-        } else {
-          btn.textContent = `Load More Articles (${remaining} remaining) ↓`;
-        }
-      });
-    }
-    document.addEventListener('astro:page-load', setupLoadMore);
-    setupLoadMore();
-  </script>
 </BaseLayout>
 
 <style>

@@ -1,5 +1,5 @@
 ---
-title: "RSSB RSMSSB LDC Typing Test 2026: 100-Mark Speed & Efficiency Test Pattern"
+title: "RSSB RSMSSB LDC Typing Test 2026: 100-Mark Speed"
 description: "RSMSSB / RSSB LDC Clerk Grade-II typing test and efficiency test rules. Phase-II 100-mark scheme (Hindi & English typing plus MS Office efficiency)."
 pubDate: 2026-08-16
 updatedDate: 2026-10-14
