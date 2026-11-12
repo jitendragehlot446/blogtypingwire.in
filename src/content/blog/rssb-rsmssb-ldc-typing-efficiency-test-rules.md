@@ -2,7 +2,7 @@
 title: "RSSB RSMSSB LDC Typing Test 2026: 100-Mark Speed"
 description: "RSMSSB / RSSB LDC Clerk Grade-II typing test and efficiency test rules. Phase-II 100-mark scheme (Hindi & English typing plus MS Office efficiency)."
 pubDate: 2026-08-16
-updatedDate: 2026-10-14
+updatedDate: 2026-11-12
 category: "Exam Rules"
 tags: ["rssb ldc", "rsmssb clerk typing", "efficiency test", "devlys 010", "100 marks typing", "typing rules"]
 author: "TypingWire Editorial Team"
@@ -65,6 +65,36 @@ The **Phase-II Typewriting & Efficiency Test carries 100 marks** that are direct
 3. Practice on [TypingWire.in](https://typingwire.in) with the specialized RSSB LDC Phase-II test simulator.
 
 ---
+
+---
+
+## Worked Net Speed & Error Calculation Example
+
+Understanding how RSSB / RSMSSB LDC Grade-II converts raw keystrokes into final qualifying speed prevents last-minute surprises:
+
+* **Step 1 — Gross Words**: Divide total keystrokes (including spaces) by 5. Suppose in **10 minutes per language**, you type **1700 keystrokes** (340 gross words).
+* **Step 2 — Mistake Penalty**: Suppose you commit **8 total mistakes** (each full mistake = 1 word; each half mistake = 0.5 word).
+* **Step 3 — Net Speed**: Subtract mistakes from gross words (or apply the board's penalty rule) and divide by test duration. Your net qualifying speed comes to approximately **33.2 WPM**, keeping you safely above the **20–30+ WPM Hindi & English + MS Word Efficiency** cutoff.
+
+For the exact keystroke-to-WPM math and full vs. half mistake rules, see our [KDPH to WPM Speed Calculation Formula Guide](/blog/kdph-to-wpm-speed-calculation-formula-guide/) and [Official SSC Full vs Half Mistake Guidelines](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+
+---
+
+## Common Disqualification Traps & Exam Hall Checklist
+
+1. **Primary Disqualification Risk**: Since typing + efficiency carry 100 merit marks, low speed directly reduces final rank even after passing 36% cutoff.
+2. **Font & Layout Verification (DevLys 010 / KrutiDev 010 & QWERTY)**: Always verify your selected keyboard layout during the 2-minute mock warm-up before the live timer starts.
+3. **Backspace Discipline**: While backspace is permitted, retyping an entire sentence wastes 8–10 seconds. Fix immediate typos within 1–2 characters and keep moving forward.
+4. **Line-Skip Prevention**: Keep your eyes 1–2 words ahead of your fingers on the upper passage pane so auto-scrolling never causes a skipped line.
+5. **Hardware Readiness**: Test centers typically provide standard USB membrane keyboards (Dell/HP/TVS). Practice at least 50% of your drills on a standard membrane keyboard to build finger stamina.
+
+---
+
+## 14-Day Targeted Practice Plan for RSSB / RSMSSB LDC Grade-II
+
+* **Days 1–4 (Accuracy Lock)**: Practice at 85% of your maximum speed targeting **97%+ accuracy** in DevLys 010 / KrutiDev 010 & QWERTY. Never guess spellings or matras.
+* **Days 5–9 (Exam-Duration Stamina)**: Run two back-to-back **10 minutes per language** mock tests daily on [TypingWire.in](https://typingwire.in) without pausing.
+* **Days 10–14 (Buffer Speed +15%)**: Push your practice target 15% above the official **20–30+ WPM Hindi & English + MS Word Efficiency** requirement to absorb exam-hall adrenaline and unfamiliar passages.
 
 ## 🔗 Related Examination & Speed Guides
 

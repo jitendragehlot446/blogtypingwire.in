@@ -2,7 +2,7 @@
 title: "RSMSSB IA Typing Test 2026"
 description: "Complete guide to Rajasthan RSMSSB Informatics Assistant (IA / सूचना सहायक) typing test rules 2026. Hindi 15 WPM + English 15 WPM in 15 minutes, fonts."
 pubDate: 2026-08-16
-updatedDate: 2026-10-14
+updatedDate: 2026-11-12
 category: "Exam Rules"
 tags: ["rsmssb ia typing", "soochna sahayak typing", "informatics assistant", "rajasthan ia typing rules", "krutidev devlys mangal", "typing rules"]
 author: "TypingWire Editorial Team"
@@ -67,6 +67,36 @@ On paper, **15 WPM** sounds extremely easy. However, in previous RSMSSB IA exami
 Practice tailored Hindi and English passages with the exact RSMSSB IA 15-minute timer on [TypingWire.in](https://typingwire.in).
 
 ---
+
+---
+
+## Worked Net Speed & Error Calculation Example
+
+Understanding how RSMSSB Informatics Assistant (IA) converts raw keystrokes into final qualifying speed prevents last-minute surprises:
+
+* **Step 1 — Gross Words**: Divide total keystrokes (including spaces) by 5. Suppose in **15 minutes each**, you type **1300 keystrokes** (260 gross words).
+* **Step 2 — Mistake Penalty**: Suppose you commit **8 total mistakes** (each full mistake = 1 word; each half mistake = 0.5 word).
+* **Step 3 — Net Speed**: Subtract mistakes from gross words (or apply the board's penalty rule) and divide by test duration. Your net qualifying speed comes to approximately **16.8 WPM**, keeping you safely above the **15 WPM Hindi + 15 WPM English** cutoff.
+
+For the exact keystroke-to-WPM math and full vs. half mistake rules, see our [KDPH to WPM Speed Calculation Formula Guide](/blog/kdph-to-wpm-speed-calculation-formula-guide/) and [Official SSC Full vs Half Mistake Guidelines](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+
+---
+
+## Common Disqualification Traps & Exam Hall Checklist
+
+1. **Primary Disqualification Risk**: Double-pressing space or skipping punctuation in 15-minute passages silently inflates error count.
+2. **Font & Layout Verification (DevLys 010 / KrutiDev 010 & QWERTY)**: Always verify your selected keyboard layout during the 2-minute mock warm-up before the live timer starts.
+3. **Backspace Discipline**: While backspace is permitted, retyping an entire sentence wastes 8–10 seconds. Fix immediate typos within 1–2 characters and keep moving forward.
+4. **Line-Skip Prevention**: Keep your eyes 1–2 words ahead of your fingers on the upper passage pane so auto-scrolling never causes a skipped line.
+5. **Hardware Readiness**: Test centers typically provide standard USB membrane keyboards (Dell/HP/TVS). Practice at least 50% of your drills on a standard membrane keyboard to build finger stamina.
+
+---
+
+## 14-Day Targeted Practice Plan for RSMSSB Informatics Assistant (IA)
+
+* **Days 1–4 (Accuracy Lock)**: Practice at 85% of your maximum speed targeting **97%+ accuracy** in DevLys 010 / KrutiDev 010 & QWERTY. Never guess spellings or matras.
+* **Days 5–9 (Exam-Duration Stamina)**: Run two back-to-back **15 minutes each** mock tests daily on [TypingWire.in](https://typingwire.in) without pausing.
+* **Days 10–14 (Buffer Speed +15%)**: Push your practice target 15% above the official **15 WPM Hindi + 15 WPM English** requirement to absorb exam-hall adrenaline and unfamiliar passages.
 
 ## 🔗 Related Examination & Speed Guides
 

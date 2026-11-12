@@ -2,7 +2,7 @@
 title: "HSSC CET Group C Clerk Typing Test 2026: Speed, Hindi"
 description: "Complete guide to Haryana HSSC CET Group C Clerk and Steno typing test rules 2026. 30 WPM English / 25 WPM Hindi in 5 minutes, fonts, and qualifying criteria."
 pubDate: 2026-08-16
-updatedDate: 2026-10-14
+updatedDate: 2026-11-12
 category: "Exam Rules"
 tags: ["hssc clerk typing test", "haryana cet group c", "hssc steno", "haryana typing rules", "25 wpm hindi", "30 wpm english"]
 author: "TypingWire Editorial Team"
@@ -68,6 +68,36 @@ The **Haryana Staff Selection Commission (HSSC)** conducts typing and steno skil
 Practice 5-minute high-tempo passages on [TypingWire.in](https://typingwire.in) to master rapid starts for HSSC CET.
 
 ---
+
+---
+
+## Worked Net Speed & Error Calculation Example
+
+Understanding how HSSC CET Group C Clerk converts raw keystrokes into final qualifying speed prevents last-minute surprises:
+
+* **Step 1 — Gross Words**: Divide total keystrokes (including spaces) by 5. Suppose in **5 minutes**, you type **875 keystrokes** (175 gross words).
+* **Step 2 — Mistake Penalty**: Suppose you commit **5 total mistakes** (each full mistake = 1 word; each half mistake = 0.5 word).
+* **Step 3 — Net Speed**: Subtract mistakes from gross words (or apply the board's penalty rule) and divide by test duration. Your net qualifying speed comes to approximately **34 WPM**, keeping you safely above the **30 WPM English / 25 WPM Hindi** cutoff.
+
+For the exact keystroke-to-WPM math and full vs. half mistake rules, see our [KDPH to WPM Speed Calculation Formula Guide](/blog/kdph-to-wpm-speed-calculation-formula-guide/) and [Official SSC Full vs Half Mistake Guidelines](/blog/official-ssc-typing-evaluation-guidelines-full-half-mistake-annexure/).
+
+---
+
+## Common Disqualification Traps & Exam Hall Checklist
+
+1. **Primary Disqualification Risk**: Because the test is only 5 minutes, losing 15 seconds to panic or slow start drops net speed by 3–5 WPM.
+2. **Font & Layout Verification (Mangal (Inscript / Remington Gail) & QWERTY)**: Always verify your selected keyboard layout during the 2-minute mock warm-up before the live timer starts.
+3. **Backspace Discipline**: While backspace is permitted, retyping an entire sentence wastes 8–10 seconds. Fix immediate typos within 1–2 characters and keep moving forward.
+4. **Line-Skip Prevention**: Keep your eyes 1–2 words ahead of your fingers on the upper passage pane so auto-scrolling never causes a skipped line.
+5. **Hardware Readiness**: Test centers typically provide standard USB membrane keyboards (Dell/HP/TVS). Practice at least 50% of your drills on a standard membrane keyboard to build finger stamina.
+
+---
+
+## 14-Day Targeted Practice Plan for HSSC CET Group C Clerk
+
+* **Days 1–4 (Accuracy Lock)**: Practice at 85% of your maximum speed targeting **97%+ accuracy** in Mangal (Inscript / Remington Gail) & QWERTY. Never guess spellings or matras.
+* **Days 5–9 (Exam-Duration Stamina)**: Run two back-to-back **5 minutes** mock tests daily on [TypingWire.in](https://typingwire.in) without pausing.
+* **Days 10–14 (Buffer Speed +15%)**: Push your practice target 15% above the official **30 WPM English / 25 WPM Hindi** requirement to absorb exam-hall adrenaline and unfamiliar passages.
 
 ## 🔗 Related Examination & Speed Guides
 
